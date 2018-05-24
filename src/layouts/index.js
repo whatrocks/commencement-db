@@ -8,13 +8,15 @@ import './index.css'
 const Layout = ({ children, data }) => (
   <div>
     <Helmet
-      title={data.site.siteMetadata.title}
+      title={'Cool'}
+      // title={data.site.siteMetadata.title}
       meta={[
         { name: 'description', content: 'Commencement address database' },
         { name: 'keywords', content: 'commencement address, commencement speech, university, college, graduation' },
       ]}
     />
-    <Header siteTitle={data.site.siteMetadata.title} />
+    {/* <Header siteTitle={data.site.siteMetadata.title} /> */}
+    <Header siteTitle={"cool site"} />
     <div
       style={{
         margin: '0 auto',
