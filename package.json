@@ -5,8 +5,13 @@
   "author": "Charlie Harrington <charlie@whatrocks.org>",
   "dependencies": {
     "gatsby": "^1.9.247",
-    "gatsby-link": "^1.6.40",
-    "gatsby-plugin-react-helmet": "^2.0.10",
+    "gatsby-link": "^1.6.44",
+    "gatsby-plugin-catch-links": "^1.0.22",
+    "gatsby-plugin-react-helmet": "^2.0.11",
+    "gatsby-remark-copy-linked-files": "^1.5.32",
+    "gatsby-source-filesystem": "^1.5.36",
+    "gatsby-transformer-remark": "^1.7.41",
+    "gh-pages": "^1.1.0",
     "react-helmet": "^5.2.0"
   },
   "keywords": [

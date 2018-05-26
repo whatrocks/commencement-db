@@ -7,11 +7,11 @@ export default function Template({ data, children }) {
   return (
     <div>
       <Helmet
-        title={`${post.frontmatter.name} - ${post.frontmatter.school}: ${post.frontmatter.year}`}
+        title={`${post.frontmatter.speaker} - ${post.frontmatter.school}: ${post.frontmatter.year}`}
       />
       <div>
         <h2>
-            {`${post.frontmatter.name} - ${post.frontmatter.school}: ${post.frontmatter.year}`}
+            {`${post.frontmatter.speaker} - ${post.frontmatter.school}: ${post.frontmatter.year}`}
         </h2>
         <div
           className="blog-post-content"
@@ -37,7 +37,7 @@ export const pageQuery = graphql`
     markdownRemark(frontmatter: { path: { eq: $path } }) {
       html
       frontmatter {
-        name
+        speaker
         school
         year
       }

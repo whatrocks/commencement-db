@@ -5,7 +5,10 @@ import Helmet from 'react-helmet'
 import Header from '../components/header'
 import './index.css'
 
-const Layout = ({ children, data }) => (
+const Layout = ({ children, data }) => {
+  console.log("data: ", data);
+  console.log("children: ", children);
+  return (
   <div>
     <Helmet
       title={'Cool'}
@@ -28,7 +31,7 @@ const Layout = ({ children, data }) => (
       {children()}
     </div>
   </div>
-)
+)}
 
 Layout.propTypes = {
   children: PropTypes.func,
