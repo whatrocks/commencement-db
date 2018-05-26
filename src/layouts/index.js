@@ -6,20 +6,16 @@ import Header from '../components/header'
 import './index.css'
 
 const Layout = ({ children, data }) => {
-  console.log("data: ", data);
-  console.log("children: ", children);
   return (
   <div>
     <Helmet
-      title={'Cool'}
-      // title={data.site.siteMetadata.title}
+      title={data.site.siteMetadata.title}
       meta={[
         { name: 'description', content: 'Commencement address database' },
         { name: 'keywords', content: 'commencement address, commencement speech, university, college, graduation' },
       ]}
     />
-    {/* <Header siteTitle={data.site.siteMetadata.title} /> */}
-    <Header siteTitle={"cool site"} />
+    <Header siteTitle={data.site.siteMetadata.title} />
     <div
       style={{
         margin: '0 auto',
