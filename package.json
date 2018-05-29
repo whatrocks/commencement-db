@@ -22,7 +22,8 @@
     "build": "gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write 'src/**/*.js'",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "deploy": "yarn build && gh-pages -d public"
   },
   "devDependencies": {
     "prettier": "^1.12.0"
