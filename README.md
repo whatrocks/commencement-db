@@ -1,26 +1,28 @@
-# gatsby-starter-default
-The default Gatsby starter.
+# commencement-db
 
-For an overview of the project structure please refer to the [Gatsby documentation - Building with Components](https://www.gatsbyjs.org/docs/building-with-components/).
+🎓 an open, public database of commencement addresses, available ![here](whatrocks.github.io/commencement-db)
 
-## Install
+## What's a commencement address?
 
-Make sure that you have the Gatsby CLI program installed:
+Read [this](https://en.wikipedia.org/wiki/Commencement_speech) Wikipedia article.
+
+## Contributing
+
+Pull requests are open, encouraged, and most triumphant.
+
+To run this app locally:
+
 ```sh
-npm install --global gatsby-cli
+yarn install
+yarn develop
 ```
 
-And run from your CLI:
-```sh
-gatsby new gatsby-example-site
-```
+There's also a handy interactive script for adding a new speech. Give it a try if you've found a speech you'd like to add to the database.
 
-Then you can run it by:
-```sh
-cd gatsby-example-site
-npm run develop
-```
+``sh
+./scripts/add-speech.sh
+``
 
-## Deploy
+## Questions?
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default)
+* [@whatrocks](https://www.twitter.com/whatrocks) on Twitter
