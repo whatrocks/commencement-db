@@ -1,16 +1,16 @@
 {
   "assetsByChunkName": {
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-40000cf143e67269d38e.js",
-      "component---src-pages-index-js-40000cf143e67269d38e.js.map"
+      "component---src-pages-index-js-f4a138ca6b70c69e133e.js",
+      "component---src-pages-index-js-f4a138ca6b70c69e133e.js.map"
     ],
     "path---": [
       "path----83cd63ae3f613a975f92.js",
       "path----83cd63ae3f613a975f92.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-dfefed68a76769e3a143.js",
-      "component---src-layouts-index-js-dfefed68a76769e3a143.js.map"
+      "component---src-layouts-index-js-c244fc76f971b55f842b.js",
+      "component---src-layouts-index-js-c244fc76f971b55f842b.js.map"
     ],
     "path---2005-steve-jobs-stanford-university": [
       "path---2005-steve-jobs-stanford-university-1d37a86dfb87d34f288e.js",
@@ -26,7 +26,9 @@
     ],
     "commons": [
       "commons-0c961af4250069caef0a.js",
-      "commons-0c961af4250069caef0a.js.map"
+      "build-js-styles.css",
+      "commons-0c961af4250069caef0a.js.map",
+      "build-js-styles.css.map"
     ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
