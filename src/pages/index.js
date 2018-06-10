@@ -1,6 +1,8 @@
 import React from "react";
 import Link from "gatsby-link";
 
+import './index.css'
+
 export default function Index({ data }) {
   const prodMode = process.env.NODE_ENV === "production" ? true : false;
   const { edges: mdPosts } = data.allMarkdownRemark;
@@ -11,6 +13,7 @@ export default function Index({ data }) {
           return (
             <div key={i} style={{ marginBottom: "0.75rem" }}>
               <Link
+                className='mainLink'
                 to={`${prodMode ? "commencement-db" : ""}${
                   post.frontmatter.path
                 }`}

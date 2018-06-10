@@ -1,0 +1,17 @@
+.mainLink {
+    /* color: #7998C9 !important; */
+    color: rgb(34,34,34) !important;
+    text-decoration: none !important;
+    /* font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+      Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif; */
+    font-family: monospace;
+}
+
+.mainLink:hover,
+.mainLink:active {
+    color: #7998C9 !important;
+}
+
+.mainLink:visited {
+    color: rgb(34,34,34);
+}

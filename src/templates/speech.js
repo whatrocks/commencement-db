@@ -39,7 +39,7 @@ export default function Template({ data, children }) {
           style={{
             marginLeft: "auto",
             marginRight: "auto",
-            maxWidth: "768px"
+            maxWidth: "768px",
           }}
         >
           {children}

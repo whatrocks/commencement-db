@@ -6,7 +6,7 @@ const Header = ({ siteTitle }) => {
   return (
     <div
       style={{
-        background: "rebeccapurple",
+        background: "#89C7B6",
         marginBottom: "1.45rem"
       }}
     >
@@ -25,7 +25,7 @@ const Header = ({ siteTitle }) => {
               textDecoration: "none"
             }}
           >
-            {siteTitle}
+            🎓&nbsp;{siteTitle}
           </Link>
         </h1>
       </div>
