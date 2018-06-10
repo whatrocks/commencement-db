@@ -1,6 +1,6 @@
 # commencement-db
 
-🎓 an open, public database of commencement addresses, available ![here](whatrocks.github.io/commencement-db)
+🎓 an open, public database of commencement addresses, available [here](https://whatrocks.github.io/commencement-db)
 
 ## What's a commencement address?
 
