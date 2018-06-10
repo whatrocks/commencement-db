@@ -19,9 +19,9 @@ yarn develop
 
 There's also a handy interactive script for adding a new speech. Give it a try if you've found a speech you'd like to add to the database.
 
-``sh
+```sh
 ./scripts/add-speech.sh
-``
+```
 
 ## Questions?
 
