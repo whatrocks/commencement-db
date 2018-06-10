@@ -10,6 +10,7 @@ const Layout = ({ children, data }) => {
   <div>
     <Helmet
       title={data.site.siteMetadata.title}
+      link={[{ rel: "shortcut icon", href: "/img/favicon.ico" }]}
       meta={[
         { name: 'description', content: 'Commencement address database' },
         { name: 'keywords', content: 'commencement address, commencement speech, university, college, graduation' },
