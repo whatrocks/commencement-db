@@ -1,0 +1,36 @@
+---
+path: /2000-billie-jean-king-university-of-massachusetts
+year: "2000"
+school: University of Massachusetts
+speaker: Billie Jean King
+youtube_id: 
+---
+
+President Bulger, Chancellor Scott, Board of Trustees, Distinguished Members of the Platform Party, my fellow honorees.
+
+Let's rip! Let's go! Rip! Okay. I was going to say most of all congratulations to all of you, you finally did it, but I think you know that already. 50 percent of you, 50 percent of you, are the first in your family to receive a university degree. 50 percent.
+
+Thank you, thank you. To those of you who are going on to graduate school, good luck. And to those of you who are not, bad luck. For now, reality sets in. The last three weeks I've asked people to remember who spoke at their graduation, and what do they remember? 99 percent cannot remember the name of the speaker or what they said. Not one thing that they said. So you'd better not let me down today. My name is Billie Jean King!
+
+And I want you to remember one thing before you get out of here. I want to keep it really simple: Yeah! Yeah! Yeah! Yeah! Yeah! Woooo! Let's see if you remember a couple of things. As the Olympic coach for the woman's tennis team, I have a journal: the four basic parts to us. The physical. The mental. The emotional. The spiritual. Can you do that? Can you remember that? Physical! Mental! Emotional! Spiritual! Yes! Maybe you'll remember that. Yes!
+
+And when you dream your dreams, make sure you integrate all these parts so you have total fulfillment. Do you remember it? Come on! Physical, mental, emotional, spiritual! And as you leave today, to go on, I don't want you to forget your friendships. And here's something that is so important, particularly in business. Your friendships, your relationships, your networking, and your mentoring. If it hadn't been for a friend, I would have never played tennis. It was the last sport I ever played. I played every other sport before I played tennis. All team sports. Always a team sport. And a friend of mine, Susan Williams, in the fifth grade, said, "Do you want to play tennis?" And I said, "What's tennis?" So my friend Susan Williams brought me to tennis, and at my first free lesson at the public park, I decided I wanted to be the number one tennis player in the world. But if it hadn't been for Susan, I wouldn't have gotten there. Yeah! Yeah!
+
+So don't lose your friendships and your acquaintanceships that you have here today. Don't ever lose them. They'll be part of your networking as you get older. It'll be important. Find a mentor. Find a mentor and be a mentor. Give back. And when people tell you not to believe in your dreams, and they say "Why?", say "Why not?" As you heard from your student speaker Litza [Melendez], she dreamed about being the student speaker here four years ago as a freshman. And her dream came true today, and I congratulate her.
+
+My younger brother Randy Moffatt was a major-league baseball player for twelve years, most of those years with the San Francisco Giants as a relief pitcher. He was cut from his high school team and told he was not going to make it. Michael Jordan was cut from his high school team and told he would not make it. You want to be like Mike? Why not?
+
+WORLD TEAMTENNIS is my dream, it's coed, and everyone for thirty years has told me "Give it up," and I'm never going to give it up. So remember to dream, and then to go out and act. Today one of our fellow honorees Ahmed Kathrada received his honorary doctorate. Just think about living 26 years in prison. As a child, Ahmed wanted to end apartheid in South Africa. And even when he was in prison with Nelson Mandela and Walter Sisulu, they never gave up their dream. And now there's a new South Africa because of people like Ahmed Kathrada. Don't ever forget it!
+
+June 23, 1972. Title IX. It was the first time a woman ever got an athletic scholarship to college. In 1972. Men had been getting them for over 100 years. You can be proud to be at the University of Massachusetts here at Amherst because you are among a handful of institutions that are fully compliant with Title IX. And the University achieves this in women's sports while not reducing any sports from the men's program. That is awesome, because only a handful of universities throughout this country are in compliance. So I thank you very much for that.
+
+Without Title IX, our women would have never won the gold medals in the 1996 Olympics in Atlanta. We won softball. We won women's gymnastics. We won basketball. And we won soccer. And last year we won the World Cup in soccer for the women because of Title IX.
+
+I'll fast forward. Now we're in 1973. We were just in 1972. Title IX, remember? Now we're in 1973. Let me set the stage. We're at the height of the women's movement. We were not burning bras, but wanting equal opportunity for women and men. Vietnam was finally calming down, we just passed Roe v. Wade, Watergate was heating up, we had no microwaves, we had no faxes, we had no cable TV, and personal computers? Forget it! Hadn't been thought of. Women were making 59 cents on the dollar in 1973, and the reason I played Bobby Riggs is because Margaret Port, the number-one player in the world that year, from Australia, had lost to him, on Mother's Day. It was called the Mother's Day Massacre. She lost so badly that I finally had to play the hustler Bobby Riggs, the former number-one tennis player in the world. And that match was not about tennis; it was about social change. It was about changing the hearts and minds of people to believe that women could chew gum and walk at the same time.
+
+That we deserved an opportunity to compete, an opportunity to play. We deserved it. Now we're up to 75 cents on the dollar. Such a deal. We deserve a 25-cent discount every time we go shopping.
+
+And the young men who experienced that match back in 1973, I call you the first generation of men of the women's movement. You are the first generation of men who insist that their daughters have equal opportunities with their sons. And the most important words that have helped me in life when things have gone right or when things have gone wrong are "accept responsibility.”
+"Accept responsibility."
+And I'll give you an idea. Like in tennis, every ball that comes to me is a decision. Every ball that comes to me is a decision. Do I slice it, do I hit cross-court, do I hit topspin, do I hit sidespin, do I lob? What do I do? But I have to accept responsibility for that. And that's where sports teaches us to put it on the line, so to speak, and live it. And here remember one thing. It's everyone's responsibility to lead, to honor, and to fight, for everyone's basic rights, for equality. Regardless of our gender, our age, our race, our religion, our appearance, sexual orientation or our abilities.
+So dream, act, and lead. And congratulations to you! Yes! Massachusetts, yes, you're the best! Yes! Go for it! 

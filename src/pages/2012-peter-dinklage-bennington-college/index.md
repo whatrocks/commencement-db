@@ -1,0 +1,149 @@
+---
+path: /2012-peter-dinklage-bennington-college
+year: "2012"
+school: Bennington College
+speaker: Peter Dinklage
+youtube_id: 
+---
+
+Don’t be frightened! When a Bennington student, 10 minutes before you come up to the podium hands you a mace, that he made,
+
+If you don’t bring it to the podium with you, you will never be Bennington.
+
+So I would like to thank you Ben for helping me put the fear of God in the audience tonight. But I have to put it down because I’m an actor, and I am really weak. That was heavy! It wasn’t like a prop. That shit was real!
+
+Thanks Ben.
+
+So now I’m going to read. And I’m not off book. So I might be looking down a lot.
+
+Thank you, President Coleman, Brian Conover, faculty, students, family, alumni, some of whom are dear friends of mine who have travelled all the way from the big city to see me hopefully not humiliate myself tonight.
+
+And especially thanks to you, the Graduating Class of 2012.
+
+See, as a joke I wrote, hold for applause, and I was actually going to read that. So you kind of killed my joke!
+
+Let’s do that again. 2012, hold for applause.
+
+2012! Wow! I never thought I’d see 2012. I thought perhaps the Mayan calendar would prove correct. And the end of the world would have been the greatest excuse to get me out of this terrifying task of delivering the commencement speech. But wait! According to the Mayan calendar here, when does the world end? December — December 2012. Damn!
+
+Okay. Maybe I shouldn’t talk to the graduates eager to start their new lives about the end of the world. Okay. Really? Really?
+
+Of all the novelists, teachers, playwrights, poets, groundbreaking visual artists and pioneers of science, you got the TV actor. No, no, and I actually heard you petitioned for me. Oh, you fools!
+
+You know what, for those of you who didn’t petition for me, I would love to later on talk about the problems in the Middle East and the downfall of the world economy. And for those of you who did petition for me, I don’t have any signed DVDs of the Game of Thrones. But I am happy to talk about the parallel lineages of the Targaryens and Lannisters later at the bar.
+
+You see, it took all of my strength, and, of course, a little extra push from my wife Erica for me to agree to do this. Because I don’t do this. In my profession, I am told by people who know what they’re doing, where to stand, how to look, and most importantly, what to say. But you’ve got me — only me — my words unedited and as you will see quite embarrassing.
+
+Okay, let me think.
+
+I’m thinking. But actually I didn’t read that. That was ad libbed.
+
+Let me think. What has — everyone and their uncle told me, as I desperately seek out advice on how to give a commencement address.
+
+“Tell them what they want to hear.”
+
+“Talk about your time at Bennington.”
+
+“Know that there is no wrong speech.” I like that one.
+
+“Just keep it brief.” That was my father-in-law.
+
+“Be brutally honest. Tell them how hard it is after you graduate.” We’ll get back to that one.
+
+“Just watch Meryl Streep’s commencement speech at Barnard and you’ll be fine.”
+
+What did Beckett say: “I Can’t Go On, I’ll Go On”.
+
+So even if I don’t burn in your hearts and minds long after this speech is over. Even if I don’t inspire you to reach for the stars and beyond. Even if I am erased from your memory after one glass of wine tonight — Where am I going with this? I can’t go on. I’ll go on.
+
+You know, I won’t speak of my time here, like some old fishermen. You have already had your time here. You have your own story to tell.
+
+But I have to say. For me, it did start here, in Vermont, on a very rainy night. It was 1987. And I was a prospective student. The rain was coming down so hard, it was impossible to see that I was meeting the person who would later become my greatest friend and collaborator. A freshman, who would, 17 years later, introduce me to the woman that became my wife. I’ll call him Sherm. Because I do.
+
+It was late at night, on the road, right there near Booth House. And despite the dark night and the heavy rain, this place was so alive. The lights pulsed from each of the dorms.
+
+Now I was a kid from New Jersey who went to an all-boys catholic high school. I was four-foot something. I mumbled when I spoke. I wore a sort of woman’s black velvet cape, black tights, combat boots and a scowl.
+
+But here at Bennington, I was home. And I have to say it doesn’t get better. Let me clarify. There are not shinier more important people out there. Your fellow students, you friends sitting around you are as good as it gets. Twenty two years after my own graduation, I have worked with my rainy night friend and fellow graduate Sherm on countless productions he has written, in all stages of development from living rooms to off-Broadway.
+
+Brooks, Ian, Justin, Brett, John, Matthew, Jim, Sean, Hyla, Nicki and The B are all classmates I shared my time with here and still work with, and am lucky to call my friends. We are very spoiled here. People always say to me, “for such a small school it seems like there are so many of you”. I find that really interesting. And I kind of think that’s perfect. We can’t help it. We burn very brightly. Please don’t ever stop.
+
+Graduates, now when I sat where you are right sitting right now, I had so many dreams of where I wanted to go, who I wanted to be, and what I wanted to do. Theater companies I wanted to start with classmates. Movies, I wanted to be in. Directors I wanted to work with. Stories I needed to tell. It might take a little time, I thought. But it would happen. When I sat there, 22 years ago, what I didn’t want to think about is where I would be tomorrow. What I would have to start to do tomorrow.
+
+And I graduated in 1991, a great year. A time of resurgence for independent films in this country. A time of relatively affordable rents in New York City. See, I assumed that I could make a living writing my plays, acting way off off off Broadway. And hopefully, you know, one day, join the actors I loved and respected in those independent films. TV – oh, what, no. What! Are you kidding me? No, didn’t even consider that. I had much more class than that. Much more self-respect than that. And so bothers —
+
+What I didn’t have was cash, a bank account, a credit card, or an apartment. I just had debt. A big hungry, growing larger every moment debt.
+
+So as you will tomorrow, I had to leave beautiful Vermont. Attack the life that I knew with socks and a tooth brush into my backpack. And I slept on ouch, after couch, after couch, after couch at friends’ apartments in New York. Until I wore out the rent paying roommates’ welcome.
+
+I didn’t want a day job. I was an actor, I was a writer. I was a Bennington graduate. I had to get a day job. I dusted pianos at a piano store and let those streak for five months. I worked on the property of a Shakespeare scholar for a year pulling weeds and removing bees’ nests. I went on unemployment once but for not for long, I couldn’t handle the guilt.
+
+Eventually I was able to pay rent for a spot on the floor of an apartment on the Lower East side. But my roommate had a breakdown and disappeared. He later resurfaced in a religious cult. I’m making this sound romantic. It really wasn’t.
+
+I helped hang paintings at galleries, paintings that inspire you to think, I could do that.
+
+And then finally, after two years of job and couch surfing, I got a job in application processing. As a data enterer at a place called Professional Examination Services. And I stayed for six years. Six years! Longer than my time at Bennington.
+
+From the age of 23 to 29, well they loved me there. I was funny. I wore black no cap no tights. I smoked in the loading docks with the guys from the mail room and we shared how hung-over we all were. Everyone called each other shortie. What’s up short? How you doing shortie? So how so hung-over shortie?
+
+I called in sick almost every Friday because I was out late the night before. I hated that job. And I clung to that job. Because of that job, I could afford my own place.
+
+So I lived in Williamsburg, Brooklyn. Yeah, you say that now. Oh, my kingdom for a time machine. Yeah, that’s right. I lived in an industrial loft. My rent was $400 a month.
+
+My dream of running a theater company with my friend and fellow Bennington graduate, Ian bell had died. I won’t go into those details but neither one of us had any business sense and the theater we lived in. It had no heat or hot water. We didn’t smell very good. But we had our youth, but youth gets old very quickly. You’ll see.
+
+So Ian moved out to Seattle. And I moved up the street to my loft. And I still didn’t have heat.
+
+In 1993, industrial loft meant not legal to live there. See, I don’t want this to sound cool and I feel like it’s sounding cool. Ad lib.
+
+But I did have hot water — hot water in my bathroom, which a friend of mine using that bathroom once shouted, it smells exactly like. A summer camp in here. It was true. For some reason, in the middle of Brooklyn, there was earth in my shower – actual earth and then oh, look, mushrooms growing from the earth. But I was safe though.
+
+The ideal fire control company was right across the street where they make all the chemicals that put out chemical fires. I did not fear a chemical fire. I would be OK. And all those chemicals in the air were OK too. Because up the street we had the spice factory, they made spices, and that just covered everything up in a nice cumin scent. I had a rat. But that was OK, because I got a cat. His name was Brian, no relation.
+
+My grandmother had given me a pink pull-out couch. Oddly no friends or recent graduates wanted to crash on my couch. So I put the couch on its end, so Brian could climb it and look out the window.
+
+I had only the one window. I myself could not look out the window. It was – it was quite high. So I had no heat. No girlfriend. What! Are you kidding me? No, acting agent. But I had a cat named Brian who told me of the world outside. And I stayed for 10 years. No, don’t pity me. There’s a happy ending.
+
+When I was 29, I told myself the next acting job I get no matter what it pays, I will from now on, for better or worse, be a working actor. So I quit my position at the Professional Examination Services. My friends really weren’t happy about that, because it was so easy to find me when I worked there. Work – that was the only place I had the internet. This was at the beginning of the Internet.
+
+And now I didn’t have either the internet or a cell phone or a job. But something good happened.
+
+I got a little pink theater job in a play called Imperfect Love. Which led to a film called 13 Moons with the same writer. Which led to other roles. Which led to other roles. And I’ve worked as an actor ever since.
+
+But I didn’t know that would happen. At 29, walking away from data processing, I was terrified.
+
+Ten years in a place without heat. Six years at a job, I felt stuck in. Maybe I was afraid of change. Are you?
+
+My parents didn’t have much money. But they struggled to send me to the best schools. And one of the most important things they did for me — and graduates, maybe you don’t want to hear this – is that once I graduated, I was on my own. Financially, it was my turn.
+
+Parents are applauding, graduates are not. But this made me very hungry. Literally. I couldn’t be lazy. Now I’m totally lazy but back then, I couldn’t be.
+
+And so at 29, in a very long last, I was in the company of the actors and writers and directors I’d start out that first year, that first day after school. I was. I am by their sides.
+
+Raise the rest of your life to meet you. Don’t search for defining moments because they will never come. Well, the birth of your children, OK, of course, forget about it, that’s just six months. My life is forever changed, that’s most defining moment ever. But I’m talking about in the rest of your life and most importantly in your work. The moments that define you have already happened. And they will already happen again. And it passes so quickly.
+
+So please bring each other along with you. Everyone you need is in this room. These are the shiny more important people.
+
+Sorry, it sucks after graduation. It really does. I mean, I don’t know. At least it did for me. But that’s the only thing I know.
+
+You just get a bit derailed. But soon something starts to happen. Trust me. A rhythm sets in. Just like it did after your first few days here. Just try not to wait until like me, you’re 29 before you find it. And if you are, that’s fine too. Some of us never find it. But you will, I promise you. You are already here. That’s such an enormous step all its own. You’ll find your rhythm, or continue the one you have already found.
+
+I was walking downtown in Manhattan the other day. And I was approached by a group of very sweet young ladies. Easy. Actually they’re sort of running feverishly down the street after me. When they got to me breathless, it was really — they didn’t know what to say, or couldn’t form the words. But it came out that they were NYU freshmen. And they were majoring in musical theater. Of course, come on. They were like science majors. They are running after me.
+
+“What musicals are you doing?” I inquired.
+
+“Well,” one of them said, looking down at her shoes, “we aren’t allowed to be in plays in our freshman year”.
+
+Now they were paying a very high tuition to not do what they love doing.
+
+I think I said, “Well, hang in there”. What I should have said was, “Don’t wait until they tell you you are ready. Get in there”. Sing or quickly transfer to Bennington.
+
+When I went to school here, if a freshman wanted to write direct and star in her own musical, the lights would already be hung for her.
+
+Now I tell the story, because the world might say you are not allowed to yet. I waited a long time out in the world before I gave myself permission to fail. Please, don’t even bother asking, don’t bother telling the world you are ready. Show it. Do it.
+
+What did Beckett say? “Ever tried. Ever failed. No matter. Try Again. Fail again. Fail better.”
+
+Bennington Class of 2012, the world is yours. Treat everyone kindly and light up the night.
+
+Thank you so much for having me here.

@@ -1,0 +1,69 @@
+---
+path: /2015-ari-weinzweig-and-paul-saginaw-university-of-michigan
+year: "2015"
+school: University of Michigan
+speaker: Ari Weinzweig and Paul Saginaw
+youtube_id: 
+---
+
+PAUL: When most people think of Zingerman’s success, they picture a line of people stretching from Detroit St. to Division, A sandwich so big it takes two hands to pick it up. And when you finally bite into it the Russian dressing rolls down your arms. Reporters write about our vision, our values, and our marketing skills.
+
+ARI: There’s huge value, of course, to each of those things.  But what very few folks ever ask, what reporters rarely write about, and what hardly anyone seems to really be all that interested in, is what we believe. While vision, values, quality, customer service, marketing, and making money are all important, we believe . . . that what we believe . . . makes a big difference! The beliefs that we choose—or those we hold, but don’t acknowledge—will form the footprint for everything else that happens in our lives. As writer Claude Bristol said 75 years ago, “As individuals think and believe, so they are.”
+
+PAUL: To be clear, it’s not for us to tell you what to do with your lives once you leave here.
+
+ARI: But we can share with you some of the key beliefs that underlie all that we’ve done in our organization, beliefs that have laid the base for us to build a healthy business that provides meaningful employment to over 700 people. Beliefs that contribute positively to our community in many, many ways. Beliefs about people and processes that are being adapted in places as far afield as Australia, Slovakia, and Ethiopia. Beliefs that have helped build a business that—33 years later—we both still love working in, literally, every single day. Paul?
+
+PAUL: I believe it’s rarely a good idea to read the comments others make about you on social media, but who can resist? Right after we were named as commencement speakers, I read this post: “WOW, WHOEVER WAS THE FIRST CHOICE MUST HAVE BACKED OUT.” I laughed, too, but it hit me what an immense honor and opportunity this was. In the interest of reciprocity, I committed to give to you the best of what I have to offer . . . other than a $16 Rueben.
+
+To do that Class of 2015, mentally pull up your “Must Have” list for success and scan it. Really, take it out and give it a good look. Raise your hand if joy is at the top of that list? It wasn’t on my list when I graduated from this fine institution. Joy is not the typical yardstick of success. Will the bank ask for your joy quotient when you renegotiate your student loans? Not likely. So why would you want joy on your list, and what IS it, anyway?
+
+Joy is a feeling so profound that it sits at the top of the human experience chart. Just above love and just below peace and enlightenment. To feel joy, you don’t have to wait until you’re old, like us, I believe you can have it now, starting today. How? Generosity.Generosity leads to joy. It’s simple and it’s guaranteed.
+
+Generosity follows the natural law of the harvest—you reap more than you sow. When you give, you get more back. Minimally, you get a joy buzz. Research tells us that generosity kicks off a “feel good” hormone in your brain called the “helper’s high” that can last up to two hours…and it’s legal. Even outside of Ann Arbor.
+
+I am not telling you to take a vow of poverty. Earn money, as much as you like. See the world. Buy a nice car. Get rewarded for hard work. Just know that these things don’t bring joy like being generous does.
+
+Another natural law of generosity is that it’s self-perpetuating—just like the yeasty starter the Bakehouse uses to bake zillions of loaves of Zingerman’s rye and sourdough breads. What applies to bread applies to people. The mother starter of Generosity is also passed down through generations. This was proven in a study by the National Academy of Science where one person’s act of generosity inspired others to be generous, spreading to dozens, even hundreds, of people, known and unknown.
+
+I’ve got my own proof for you: three true stories from my life illustrating the natural laws of generosity.
+
+I’ll begin with “my starter”—my grandfather, Ben Sherman. We called him Zadie. That’s Yiddish for grandfather. I think about his big smile and hearty laugh, how he warmed me with his presence. I realize now that he was joyful because he embodied generosity. In my early teens, I worked at his machine shop in a rough part of Detroit. Frequently, homeless men wandered into the shop looking for a hand out, and Zadie invited each one to go next door to Joe’s Bar and Grille, saying, “Get yourself a hot meal and put it on my tab.” Zadie told me two things I’ll never forget: “Half of what you have belongs to those who need it,” and “If you’re successful, make the people around you successful.” With this wisdom in mind, Ari and I added the crucial ingredient of generosity into Zingerman’s business plan from day one.
+
+My second story has Mrs. Johnnie Mae Seeley as the “starter.” She is a tiny, elderly angel in our neighborhood who got the Deli to bag up our unsold bread and rolls every night for her church to parcel out. Her generous act inspired Zingerman’s to found and launch the nonprofit Food Gatherers in 1988 with a mission to eradicate hunger in our county. 27 years later, Food Gatherers distributes over 6 million pounds of food every year to our neighbors in need. Every day I feel profound joy for the work Food Gatherers does in our community.
+
+My final story demonstrates how Zingerman’s Community of Businesses, our partnership model based on Zadie’s advice of making those around you successful, was put to the test in 2001. Ari and I had pledged a quarter of a million dollars to build a shiny commercial kitchen inside the county’s new homeless shelter. Our funding was to come from a business venture slated to open at Detroit’s new McNamara Terminal. Several days after 9/11, the airport project folded, and our kitchen funding vanished. When I heard this, I actually had to lie down on the floor of my office for over an hour. Ari and I had to break the news to all of our Zingerman’s partners in the wake of the national tragedy. It was agonizing. How were we going to honor our commitment? What happened next would have made Zadie and Mrs. Seeley weep with joy. Our partners shocked us with their decision to take on the entire quarter million dollars. I was stunned and overcome with joy our partners had now become the next generation of starters. Seeded by their generosity, today that kitchen prepares one hundred thousand hot meals each year.
+
+So . . . when you leave here today with your Must Have list, I invite to measure your success, not so much by what you gain or accomplish for yourself, but rather by what you contribute to others. I believe practicing generosity is the way to joy. It’s free for the taking. Or should I say . . . for the giving.
+
+Ari? I told them what I believe. What do you believe?
+
+ARI: I believe that active, engaging, interesting learning is very clearly at the core of a great life.   Probably the one thing that this amazing institution—of which everyone, in this very big emotional and intellectual house, is a part—has been trained in, more than any other single thing, is how to learn. The challenge though is that, when you leave here today, there are no more grades to be gotten, no more professors to pass judgment. And when there’s no one pressuring us do to it, there are a hundred reasons not to open a book, not to go to an interesting lecture, not to read a poem. Working hard at learning doesn’t win headlines, but it’s clear to me that the people who keep doing it regularly almost always live powerfully positive lives.
+
+I believe that our lives are radically more rewarding when we actively own our choices. I wish I’d understood this the day I graduated—unfortunately it took me another fifteen years to figure it out.  Owning my own choices changed my life. The reality of the world is that—everything I do, everything you do, is a choice. No one made us go to school, no one makes us to go work, or read a book or be kind. No one makes us do anything.  We can choose to be generous, we can choose to care, we can choose to make a positive difference. Perhaps most powerfully of all—if we choose to pay attention—we have the power to choose what we believe.
+
+I believe that, although history focuses mostly on the big headlines, it’s really the little things that matter most. Your grandmother’s hug today. The notes you took on your favorite book assignment this year. The small gesture of generosity you did to help someone in need. A thank-you note to the people who clean the rooms, and run the phones, and make this university go, so that you and I could go to class and get grades and graduate. In that sense, I believe with great strength that everything matters and everyone matters. The people who are least likely to be consulted in a company, or included in society. The sky. A smile. The stars. Your mother. This moment. Your dog. The person you walked by on the stairs on the way in, and the one you walk by again on the way out.
+
+I believe that simple kindness matters more than most people will admit. That if instead of getting angry at others, we appreciate; that instead of blaming, we give blessings; that instead of keeping score we live out the generosity of spirit that Paul just detailed so powerfully. Kindness is free, and kindness counts! We believe what Paul Hawken wrote: “Being a good human being is good business.”
+
+I believe that—contrary to what much of the world would say—hard work can be one of the most rewarding things one ever engages in.  Not just any work, but good work, work you believe in, work that brings the generosity and joy that Paul just talked about so beautifully; work that makes a positive difference for you, for the world; work that matters, work that you care about. Hard work like that may not get the glamor, but it is almost always exceptionally rewarding.
+
+I believe that perhaps the hardest work we have to undertake is the work no one else sees, and that no else can ever do for us. It’s the lifelong challenge to manage ourselves effectively, to make peace with ourselves and turn our natural ability into a positive and powerful presence in the world. Although it almost never comes up in post-graduate conversation it’s at the core of everything else we will ever do for the rest of our lives.
+
+I believe that everyone—everyone—in the world is a unique, caring, creative, individual. Walking our own way while still respecting the world around us is no small feat. Holding our own course can be uncomfortable, but it’s essential if we’re going to truly live lives that we—not everyone else who has input—really own. Despite what higher ups in the hierarchy might tell you, I believe what Rollo May wrote—that “The opposite of courage in our society is not cowardice, it’s conformity.”
+
+It was hard for me to comprehend when I was 21 but I believe, ever more strongly with each passing day, that every single minute really does matter. Life, when it comes down to it, is very, very short. There are a thousand reasons to sleep in, to drink another beer, to put things off till tomorrow or two weeks from Tuesday. But I believe what author Annie Dillard said—that, “The way we spend our days is the way we spend our lives.” Every minute we spend worrying, every minute we spend waiting for someone else to improve, is a minute we don’t spend doing something meaningful for the people we care about, for the world, for ourselves.
+
+I believe that going for greatness, greatness as you—and not everyone else in the world—defines it, is energizing. I believe that uniqueness like that is exciting. Empowering. Emma Goldman said “When we can’t dream any longer we die.” Choosing greatness, choosing to push your own envelope, to find ways to be more generous, to find more joy, to learn more, study harder, and make a more positive difference is what leads to a great life.
+
+I believe that one of the best ways to makes our lives into the artistic, positive, amazing existences we want to them to be, is to write out a vision of what that life will look like when we’ve successfully made it a reality. I believe that anyone of you who is willing push “pause,” and to gently ask the voices in their heads to step aside for an hour so you can write out that kind of personal vision of greatness, their true dream, can come darned close to making that life a reality. They may not make the most money, they may not have the fanciest car, but they will find fulfillment and equally importantly they will help many others find it as well. The visioning process, the initial work on which was done here at U of M fifty years ago, is the single best tool I know to make that happen. And I’m happy—though it might take a while if you all take me up on it – to meet with any graduate who wants help with the visioning process. I believe that anyone who does that work will pretty surely lead an amazing life.
+
+Most importantly, for today’s purposes, I believe in YOU—by dint of the fact that you have done what you have done to earn the right to be here today, both you and the world know that you have the intelligence, you have the emotional resilience, you have the connections, you have the capability, to do great things. To help make the world a meaningfully better place than it was yesterday   You have the power. As African American anarchist Ashanti Alston said: “You all can do this. You have the vision. You have the creativity. Do not allow anyone to lock that down.”
+
+PAUL: Class of 2015, congratulations! Be generous!
+
+ARI: Be joyful!
+
+PAUL: Be great!
+
+ARI: Make a difference!

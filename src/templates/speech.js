@@ -16,7 +16,7 @@ export default function Template({ data, children }) {
             post.frontmatter.year
           })`}
         </h2>
-        {post.frontmatter.youtube_id.length ? (
+        {post.frontmatter.youtube_id && post.frontmatter.youtube_id.length ? (
           <iframe
             width="560"
             height="315"

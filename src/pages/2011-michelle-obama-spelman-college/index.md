@@ -1,0 +1,49 @@
+---
+path: /2011-michelle-obama-spelman-college
+year: "2011"
+school: Spelman College
+speaker: Michelle Obama
+youtube_id: 
+---
+
+Let me tell you, it is a pleasure and an honor, yes Chicago, to be with all of you today and I want to thank President Tatum for her leadership and for that very kind and generous introduction.She is such an inspiration to all of the women who are part of the Spelman family. So let’s give her our thanks and a round of applause.
+
+I also want to acknowledge a few people who are here in the audience, Senator Isakson, Representative Johnson, and of course Mayor Reed. Thank you all so much for joining us today. Thank you all for your leadership.
+
+I want to give a special shout out to one of my people, my staff members, Ms.Kristin Jarvis of Spelman class of 2003! Look ladies, want to know what Spelman does for you?Kristin is my right-hand woman. She travels with me all across the country and around the world. I don’t know what I would do without her.She has been with me from the very beginning, looking after my girls and taking care of my mom. So I want to thank Spelman for giving me Kristin.
+
+Again let’s take a moment to thank all of those beautiful people sitting behind you all today, standing behind you every day, the folks who brought you into this world, the folks who showed you with their love that you belong here, they pushed you, they believed in youand they answered calls those late nights even when you were just calling for money. So again let’s get a special round of applause for all the families here today.
+
+Of course most of all to the Spelman class of 2011, congratulations! We’re so proud of you. We’re proud of the effort you’ve invested and the risks that you took. We’re proud of the bonds that you forged the growth that you’ve showed. We’re proud of how for the past four years you’ve immersed yourselves in the life of the school and embraced and all that it has to offer.
+
+In doing so you didn’t just write a chapter in your own life story, you also became part of the Spelman story, a story that began 130 years ago about 10 miles down the road from where we are today.
+
+By now all of you know the details about how two white women from up north came here to Atlanta to establish the Atlanta Baptist Female Seminary.
+
+We want the world to know this story. They started out in a dank church basement loaned to them by a kindly preacher named Father Quarrels. In their first class they had just 11 students, many of whom were former slaves.
+
+Back then the thought of an African American woman learning to read and write was to so many laughable at best and impossibility at worst. A plenty of people tried to persuade them from founding the school. They said the south was too dangerous. They said that at the ages of 56 and 48, these women were too old. These two ladies were unmoved.In their own words, they were determined to lift up these women and girls who never had a chance. It’s a story that has been told and retold, enacted and reenacted in every generation since the day that Spelman first opened its doors.
+
+In a time of black codes and lynching this school was training AfricanAmerican women to be leaders in education and health professions. In a time of legalized segregation this school was establishing math and biology departments and training a generation of black women scientists. At a time when many workplaces were filled with not just glass ceilings but brick walls, this school was urging black women to become doctors and lawyers, engineers and ambassadors.
+
+Now that is the story of Spelman College, that unyielding presumption of promise, that presumption of brilliance, that presumption that every woman who enrolls at the school has something infinitely valuable to offer this world.
+
+Ladies, that is now your story. That legacy is now your inheritance. I chose that word inheritance very carefully because it’s not an entitlement that you can take for granted, a gift with which you can do whatever you please. It is a commitment that comes with a certain set of obligations, obligations that don’t end when you march through that arch today.
+
+That’s really what I want to talk with you about this afternoon.I want to talk to about the obligations that come with the Spelman education and how I believe you all might fulfill those obligations going forward.
+
+So let’s go back to those first 11 women in that church basement all those years ago. Their teachers started with nothing but a couple of bibles, notebooks and pencils. When it rained it got so damp in that church that grass started growing on the floor. Often the stove was so smoky and the light was so poor that students could barely see their teachers.
+
+Still a week after week more women showed up to enroll. Some walked eight or nine miles each way; many were older, in their 30’s, 40’s and 50’s. That doesn’t sound old to me. Often they were ridiculed but they kept coming.
+
+One student and her name was Mary Ambrooks simply stated, and these are her words, “I spoke of going to school and people laughed at me and said, ‘You go to school? You’re too old. You’re so old you’ll die there.’ I told them it was just as good a place to die in as I ever wanted. I knew that the teachers would bury me and so I just came right along.”
+
+Now that spark, that spirit, that odds defying tenacity has defined the alumni of this school from its very first graduating class. Think about one of my heroines, Mary Wright Edelman, class of 1960, working as a young civil rights lawyer down in Mississippi. Attorneys and judges chambers refused to shake her hand. The sheriff locked the doors against her when she came to visit her clients in jail. She was always careful to leave the door open when she started her car in the morning, that way if somebody had planted a car bomb she had a chance of being injured rather than killed. Through it all she continued to represent her clients. She continued to resist unjust laws with every fiber of her being.
+
+Then there’s JanetBragg, class of 1925, who was determined to be a pilot. When she was barred from flying out of segregated airports she worked with her flying school classmates and instructors to build their own airfield. When she was rejected from the women air force service pilots because of her race she enrolled in a civilian training program instead. When she completed her training but an instructor unfairly prevented her from receiving her license she picked up and moved to Chicago passed the exam and became the first African American woman to earn a commercial pilot’s license. Of her experiences she said, there were so many things they said women couldn’t do and blacks couldn’t do, every defeat to me was a challenge.
+
+For six generations that is what Spelman women have done. They have seen every defeat as a challenge. Did they have moments of doubt, anxiety and fear? Did they have moments of despair when they thought about giving up or giving in?
+
+Of course they did; we all do. I am no exception. Some of you may have grown up like me, in neighborhoods where few had the chance to go to college, where being teased for doing well in school was a fact of life, where well-meaning but misguided folks questioned whether a girl with my background could get into a school like Princeton. Sometimes I saved them the trouble and raised the questions myself, in my own head, lying awake at night, wondering whether I had what it took to succeed.
+
+The truth is that there will always be folks out there who make assumptions about others. There will always be folks who try to raise themselves up by cutting other people down. That happens to everyone including me throughout their lives but when that happens to you all here’s what I want you to do. I want you to just stop a minute, take a deep breath, because it’s going to need to be deep, and I want you to think about all those women who came before you.

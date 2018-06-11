@@ -1,0 +1,70 @@
+---
+path: /2012-angela-davis-pitzer-college
+year: "2012"
+school: Pitzer College
+speaker: Angela Davis
+youtube_id: 
+---
+
+Good morning. What a beautiful day in Grinnell, Iowa! Congratulations, first of all, to the Class of 2007. I loved your glazed looks as you marched in. "Is this really happening?"
+
+President Osgood, members of the faculty, trustees, families and friends of the graduates, I consider it a great honor to have been invited to address members of the class of 2007 during the concluding ritual of your residence here at Grinnell College. And I should say that although I have spoken at many commencement ceremonies, I have not yet figured out how to conquer my anxiety about the requirements of this genre of public speaking. I was just told not very long ago by one of the recipients of the honorary degree, that he just could not remember what his graduation speaker said. And no one seems to be able to remember, so I imagine this vast necropolis of commencement addresses that self-destruct immediately after they are given.
+
+But I should say, more seriously, that as the years pass, I feel increasingly ill-equipped to assist graduates to imagine their possible futures. It is not that I think that I lack the skills that such deliberations might necessitate, but rather because of the evermore frightening instabilities of the world around us. And of course for your sake, I really wish I could give a buoyant speech replete with optimism regarding the future. I wish I could exclaim that there are worlds awaiting you and your education, and that these worlds are so arranged as to inevitably invite you to put the knowledge you have acquired here to productive use to make these worlds more habitable by human and other living beings and communities. I wish I could earnestly suggest that young humanists and scientists will with minimal effort discover exciting passageways of progress for your future trajectories. But that would be to trivialize both your education and the global and local context within which you will work and study over the coming period. And therefore, there will be no imperatives in my talk; but on second thought there may be one or two. My point is this; it seems like my ability to speak is structured by a very different grammar from that of Horace Greeley, who reputedly, I'm sure everyone knows, said to Josiah Grinnell, the founder of your institution, "Go west, young man." I suppose I might say, "Don't go to Iraq, young woman."
+
+However, I would really like to urge you to question why you are counseled to ignore, or at best to parenthesize, that which seems not to directly affect your individual selves. And so the task I hope to accomplish is modest today. I want to help you retrieve, and sort through, and rethink, and indeed preserve memories of what may well turn out to be the most important period of your lives. And so this is my overarching question; can you now, at this time, at this age, imagine how you might articulate what will be categorized or characterized as historical memories, with what you regard as your own personal reminiscences of your college years? And there is a reason for offering you this challenge. I fear that if you don't figure out how to do this work for yourselves, it will be done for you. This is the work of ideology.
+
+I was an undergraduate between the years 1961 and 1965 and what I remember most vividly is the Cuban Missile Crisis. I can remember the collective panic. As a matter of fact I remember friends jumping in cars and driving up to Canada, as if Canada provided some safe haven in the event of a nuclear holocaust, but at least it was a symbolic refuge. That was four decades ago. Today there is no place to run, no place to hide, and moral panics have been so carefully orchestrated, that we have come to expect that political leaders will inform us about that which merits our fear.
+
+But before I continue, let me properly congratulate all of you who will forever be known as the Class of 2007, and 2017, and 2027, and 2037, and 2057, you will be the class of 2007. You will still be linked to each other as the Grinnell College class that graduated at this particular historic conjuncture. And so I want to ask you to look around at your classmates, and ask yourselves: how will you remember the years you shared with them? What will you say to your children or your grandchildren about these years? What will you retain from the period of your undergraduate education? Will you be able to rely on an intellectual practice capable of countering what will inevitably become a barrage of "official" recollections colonizing the most intimate alcoves of your private memory banks?
+
+And of course history, historical memory, personal recollections are always unsettled and a bit wobbly, as they should be, but I'm asking you today to imagine what you might end up repressing and what you might end up embellishing. Will you remember how you squirmed to stay awake in what you considered to be boring classes? Or will you remember those epiphanies when things suddenly made sense and fell into place, when the anguish of writing a paper was unexpectedly transformed into sheer delight? Will you remember those moments during which much of what you previously took for granted began to crumble before your eyes, and you were struck with fear at the prospect of having to share these new insights with your parents, who, after all, played a major role in shaping the ideas that had helped you to previously interpret the world?
+
+Will you remember that you attended a college established by a 19th Century abolitionist, who made this town, Grinnell, Iowa, a significant stop on the Underground Railroad? Will you remember that you attended a college founded by a man who unabashedly referred to himself as a radical, a man who assisted John Brown to find shelter for escaped slaves and who, even after the abolition, or should I say putative abolition of slavery, continued to fight for racial equality? Is this a legacy worth remembering? And I wonder if I'm imposing my own conjunction of historical and personal memories. Perhaps I am. For I link Josiah Grinnell to my own upbringing in the Congregationalist Church, and I remember consciously breaking the law that prohibited interracial socializing at the age of eleven, when I participated in an interracial discussion group in my Congregationalist Church in Birmingham, Alabama. Before too many sessions had taken place, the church was burned by the Ku Klux Klan.
+
+But let me return to this campus and ask, as you stroll around as you have strolled around this beautiful campus, did you ever stop to wonder about the extraordinary courage of Josiah Grinnell, who dared to associate himself with John Brown, a man who is still represented as mentally unstable? Who, after all, would devote his or her life to what, at the time, seemed like a lost cause - the abolition of slavery? Slavery as we know was legally abolished, but executive proclamations and constitutional amendments do not eliminate the ideological structures and cultural assumptions. We live today with the vestiges of slavery. How else can we explain that here, in the state of Iowa, where the population, as I understand it, is about 2.3 % black, is that right? - the population in prison is 22% black. I have never been able to think about domestic racism as a phenomenon that is separate from the drive for empire in the global south. So will you remember, and this I find absolutely amazing, that the entire four years you pursued your undergraduate studies, there was a war raging in Iraq? What if your children ask you what it was like being in school studying sociology or chemistry or philosophy or art during the Iraq war? What will you tell them when they ask you about Abu Ghraib? Twenty years in the future you're all settled with jobs and families, ensconced in your daily struggles, listening to online streams of (who knows what the technology will be then?) of oldies, and when I say oldies I mean hip-hop, right? And your children will be complaining about having to listen to that old-school stuff called hip-hop.
+
+But I hope that you will have the courage to draw upon the education that you have received here, and also to draw from the critical skills your peers and community activists have helped you acquire in order to challenge what will undoubtedly be revisions of political legacies. I hope that you will treasure the approaches and ways of thinking that you have learned more than the facts you have accumulated. For you will never discover a scarcity of facts, and these facts will be presented in such a way as to veil the ways of thinking embedded in them. And so to reveal these hidden ways of thinking, to suggest alternate frameworks, to imagine better ways of living in evolving worlds, to imagine new human relations that are freed from persisting hierarchies, whether they be racial or sexual or geopolitical - yes, I think this is the work of educated beings. I might then ask you to think about education as the practice of freedom. Freedom then becomes, not a state for which one yearns, but rather an incessant struggle to remake our lives, our relations, our communities, and our futures.
+
+And therefore I am concluding with a poem by the late June Jordan. It is entitled, "Poem for South African Women."
+
+Our own shadows disappear as the feet of thousands
+by the tens of thousands pound the fallow land
+into new dust that
+rising like a marvelous pollen will be
+fertile
+even as the first woman whispering
+imagination to the trees around her made
+for righteous fruit
+from such deliberate defense of life
+as no other still
+will claim inferior to any other safety
+in the world
+
+The whispers too they
+intimate to the inmost ear of every spirit
+now aroused they
+carousing in ferocious affirmation
+of all peaceable and loving amplitude
+sound a certainly unbounded heat
+from a baptismal smoke where yes
+there will be fire
+
+And the babies cease alarm as mothers
+raising arms
+and heart high as the stars so far unseen
+nevertheless hurl into the universe
+a moving force
+irreversible as light years
+traveling to the open eye
+
+And who will join this standing up
+and the ones who stood without sweet company
+will sing and sing
+back into the mountains and
+if necessary
+even under the sea:
+
+we are the ones we have been waiting for.
+
+Congratulations to the Grinnell College Class of 2007. Thank you very much.

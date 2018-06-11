@@ -1,0 +1,83 @@
+---
+path: /2012-sutton-foster-ball-state-university
+year: "2012"
+school: Ball State University
+speaker: Sutton Foster
+youtube_id: 
+---
+
+Thank you.I never thought I’d be a doctor. I thought I might play one someday but this is quite an honor. I’d like to thank the board of trustees of this incredible university. President Goro, Deacon Tomand the wonderful faculty and students of the department of theater and dance. I’d also like to thank all of you sitting out here today. I’m in awe of the work, dedication and commitment of every single student from every single major and I’m humbled by the love and sacrifice of all the parents and spouses and family members of all the students.
+
+The real honor, I feel, in this honorary degree is in being associated with all of you and knowing that we share a connection with this wonderful institution. I’d only hope that I can be worthy of it.
+
+I didn’t always want to be an actress. When I was a little girl I had big dreams. I dreamt of being a bank teller. I did, it’s true.I loved the idea of working in the drive through window, greeting people, taking their money and giving lollipops in return, I even had a mini cash register and a calculator at home and my parents let me open my first bank account when I was 10.
+
+It’s ironic that I ended up in such an unstable and unpredictable career as an actor. So many people say acting isn’t brain surgery and they have a point. I’ll admit that basically I play pretend for a living.
+
+To some folks a job like that might seem insignificant. I’m just singing and dancing, right?
+
+Yes, it isn’t brain surgery but it’s not insignificant either. It’s my career and my passion. I’ve learned more about myself through this profession than I ever could have imagined, about life in general and I want to share certain things that I’ve experienced that might help some of you as you move into the opening act of your adult lives.
+
+I’ll bet that most of you have a lot more in common with me than you think. I was born in a small college town in Georgia. My parents Helen and Bob Foster were good upstanding middle class people. My dad worked in sales for GM, primarily Chevy, and my brother Hunter and I grew up very modestly.
+
+A lot of people ask if we grew up listening to show tunes when we were kids and that couldn’t be farther from the truth. My mom loved the movies and once wanted to be a model but as far as Broadway and theater, it was not something that we knew a lot about.
+
+I had, much to the dismay of my parents and brother, a lot of energy and I was always ‘spazzing’ around the house. So my mother, in an effort to channel some of that energy, got me into ballet class when I was four.
+
+I think she thought that ballet would give me some grace instead I just ended up being a spaz in a tutu. It was right then and there that I knew that I loved to dance. Of course I tried other things besides dancing, like basketball but I was a complete disaster on the court because I would dance instead of dribble.
+
+I would dance everywhere, in the house, the hallways of school, up and down the aisles of the grocery store and after a few years at the dance studio and me terrorizing the local folk with my rond de jambes.
+
+As things would have it, one day the studio got a call about a local production of Annie at the AugustaPlayer’s Community. As I said before we didn’t really know much about theater in our house, my brother had done a couple of community theater shows and I had been in the chorus of A Christmas Carol but that was it.
+
+I didn’t want to audition for Annie but my mom encouraged me and so I went. I had to sing first and apparently everyone got really quiet when I started to sing at the piano.
+
+I was oblivious and when I was finished I was just happy it was over so I could get back home to watch Fraggle Rock. Later that day, we got the phone call; they cast me as Annie. It would be that experience age 10, getting to sing such great songs as Maybe and Tomorrow on a bare stage to a packed house in one of the all-time great musicals, that had me hooked.
+
+Since AnnieI’ve played all sorts of characters, show girl, princesses, evangelists, and a dog capturer. In2000I was playing a street merchant in the Broadway touring production of the lovely Les Miserables. I was making a pretty handsome salary, the most money I’d ever made and I was playing a role I had dreamed of since I was 13 years old.
+
+I had the role for over a year when the producers asked if I would take over the character on Broadway permanently. It was an incredible deal, more money and guaranteed long-term employment and a chance to play my dream role on Broadway.
+
+However I had just auditioned for the lead character of Millie, in a new show called Thoroughly Modern Millie.The show was scheduled to go to the Jolla Playhouse in San Diego to work out the kinks before it possibly came to NewYork and Broadway.
+
+So before I said yes to Les MisI wanted to see if I had landed this incredible role in this brand new musical. So I anxiously waited for the phone call from my agent about Millie. When he called I got the bad news.I didn’t get it and I was devastated. AsI held the phone I was thinking, well it’s ok at least I still have my role in Les Mis. However my agent wasn’t finished.
+
+They wanted me to be the understudy. So my two choices were: guaranteed dream role in one of the biggest hits on Broadway or being the understudy for the lead in a brand new musical that may or may not ever be seen again outside the state of California. What would you do?
+
+When I was a kid I would fearlessly jump into the swimming pool but then almost drown because I didn’t know how to swim. Nevertheless, this attitude towards life has served me well. Say yes to opportunity. Sink or swim, it’ll change your life.SoI decided, to the dismay of a lot of people around me, to take the lead and accept the understudy position in Millie.
+
+It was an opportunity and a chance to work on a new show with new people and I really liked it. I believed in its potential. SoI went to La Jolla with the show and worked really hard learning my part asa chorus member and learning the role of Millie as the understudy. I was going to make sure that I was good in the part in the event ever had to go on.
+
+A few weeks into rehearsals the woman they had casted as Millie got sick and I stepped in for her for a few days.I didn’t think much about it. That was my job. I learned the role and I did the best I could while she was out. About three days later they ask me to take over the role. I did and the rest, as they say, it’s history.
+
+The show is incredibly successful and eventually moved to Broadway with me as the unknown starlet and I won my first Tony award in that role. It was a huge hit on Broadway and it changed my career forever.
+
+You have to have the courage to go with your gut and a willingness to take the smaller job. Like life, in theater it doesn’t pay to have a big ego. No jobs are too small for you. IfI didn’t take the understudy position because I was too proud or felt it was beneath me, I’m pretty sure I wouldn’t be standing here in front of you today.
+
+Say yes. Get coffee for people, run errands, make an impression as a hard worker, someone who is willing when the opportunities arise for you to show people what you’ve got, show them. Who knows what’ll happen?
+
+I love what I do for a living; I love it so much that sometimes I’m surprised when I get paid to do it but all work is still work no matter what you do or how much you love it. I’m proud of my work and I’m a self-proclaimed workaholic. I pour myself into my craft.
+
+WhenI’m80 years old and I look back on my life,I knowI won’t say “Gosh I really wish I had worked more.” It has taken me a long time to find balance in my life, to realize what is truly important and what I value most and that’s real relationships.
+
+In my life and work relationships are essential. Actors constantly move from job to job. Some jobs last two weeks, while others can last two years. You’re constantly working with new people and constantly starting over. You need a base to come back to, family, friends, friends who’ve become family.
+
+I’m sure many of you have formed those kinds of relationships during your time here at Ball State and here’s the thing, as you move through your life you’ll discover that real, true intimate loving relationships don’t take away from your work or life or creativity, they add to it. Invest in relationships and you’ll meet untold rewards.
+
+Believe me, the energy you put out in the world, not just in to your work in art, into your life, that energy comes back to you and beautiful ways. I know it sounds ‘woo wooey’ but it’s true and while the ever-changing life of an actor makes you eternally grateful for these relationships it also allows you new and daunting challenges at every turn. It’s taught me to be open, willing to adapt, to see things differently. Today as college graduates might be thinking “Damn, I’m finally done learning.” but the exciting truth is you never are.
+
+I had the pleasure working with Tony, Oscar and Golden Globe winner, actor Joel Gray, my co-star inAnything Goes. He just turned 80 last month. He turned to me one day and said, “I’ve never been happier. I keep learning more and more about myself every day.” At 80 years old and he’s still learning about himself and that excites me greatly.
+
+The late Steve Jobs, who was not an actor of course, but someone I identify with because he was so passionate about his work. He said in his commencement speech to Stanford in 2005 that he asked himself every day, “If today when the last day of my life wouldI want to do what I’m about to do today? Whenever the answer has been no too many days in a rowI know I need to change something.”
+
+I really like this question. It’s a great tool for taking stock and challenging the status quo but you have to have the courage to answer it honestly and then act on the answer. You must be the author of your own life. You have the power to do what you want with it. You can continue on your path or you can change that path anytime. It’s your life after all.
+
+There is one more bit of advice I’d like to share and it’s one that most of the theater and dance kids recognize. My best advice to you is, no matter what your profession is, don’t be a jerk. It just doesn’t pay to be a jerk. When you talk about climbing the ladder of success it really pays to be kind to the ones you need along the way. Kindness, respect and all that good stuff it just goes a long way.
+
+As an actor you never know what you’re next job will be and you don’t know who might be in a position to give it to you. It’s exciting and terrifying but if you’ve been a jerk to someone who might be part of your next opportunity then you’re in deep doo doo.No matter if you’re a doctor, a lawyer, a pastor, an actor or a student leader just don’t be a jerk.
+
+To make it in any profession and any job you have to work hard and find a way to love it. All forms of success, from being a great mother to being a great actor take tenacity and determination. They say for every light onBroadway there is a broken heart, an unrealized dream and that’s the same in every profession.
+
+So you have to want it more than anyone else and you have to be your own champion, be your own superstar.Blaze your own path. Say yes to opportunity. Follow your instincts, be eager and passionate. Keep learning. Nurture your real lasting relationships and don’t be a jerk. Free your imaginations so you can become all that you want to be.
+
+Thank you so much and congratulations to the class of 2012 of Ball State University!

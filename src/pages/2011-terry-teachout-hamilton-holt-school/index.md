@@ -1,0 +1,53 @@
+---
+path: /2011-terry-teachout-hamilton-holt-school
+year: "2011"
+school: Hamilton Holt School
+speaker: Terry Teachout
+youtube_id: 
+---
+
+I’m supposed to keep it short, and I approve of that. Being a drama critic, I know, or at least I’m supposed to know, that you should leave ’em wanting more. So I’ll be brief—and, I hope, to the point.
+
+I don’t know any of you, but I already know something about you, and it’s this: you are remarkable. Remarkable by definition, because you have done something remarkable. You got a college degree at night, and if I know anything about American life today, I know that you didn’t have much time to spare. You came to Rollins after putting in a full day’s work. You did your homework at night or early in the morning or on weekends. That tells me everything about you, and it fills me with admiration. You have a right to be proud. You’ve earned it. So enjoy it—today.
+
+And after that? Well, I’m thinking of a scene from a movie I like, Bull Durham. Tim Robbins, the hot young rookie pitcher, trots into the dugout after pitching a fantastic inning. He says, “I was great, huh?”
+
+But Kevin Costner, the veteran catcher who’s trying to get him ready for the big leagues, isn’t having any of it. He says, “Your fastball was up and your curveball was hanging. In the show they would’ve ripped you.”
+
+Robbins says, “Can’t you let me enjoy the moment?”
+
+And Costner says, “The moment’s over.”
+
+Well, folks, the moment isn’t over yet, but it’ll be ending shortly after lunch. Yes, be proud for all the days of your life—but after lunch, remember that you’ve got to go back to work on Monday. And that’s what the rest of my speech is about: it’s about what to do on Monday morning.
+
+Graduation addresses are usually given by persons of a certain age who are assumed, usually wrongly, to have acquired great wisdom to go with their gray hairs, and who are charged to pass that wisdom on to a captive audience of men and women in robes and funny hats. Believe me, I don’t claim to be wise, but I do have plenty of gray hair. I’ve also learned a few things about life and work in my fifty-five years on this planet, and I’m going to share two of them—just two—with you. They’re the two best pieces of advice I know. I’m going to tell you what the world wants from you, and I’m going to tell you what you should want from the world.
+
+Here’s what the world wants from you: it wants you to be professional. Show up on time. Be a good colleague. Get the job done, and do it well enough that nobody has to clean up your mess.
+
+Why is that good advice? Because the world is full to the brim of unprofessional people, many of whom are very smart and a few of whom are geniuses. You’ve known folks like that, folks who are always saying incredibly clever things off the top of their head, and I bet that sometimes they’ve made you feel small and inadequate.
+
+But here’s the secret of life. If you’re professional and they’re not—if you show up on time every morning and get the job done and they show up two hours later and start spouting clever excuses for being late the second they walk through the door—then nine times out of ten, you will win and they will lose.
+
+The world is hungry for professionalism. Be a professional and you’ll never have to look for work, at least not for very long.
+
+Now, here’s what you should want from the world. When I was a boy, I noticed that my father didn’t really like what he did for a living. It didn’t suit him. He hadn’t set his heights high enough as a young man, and so he spent most of the rest of his life working at a job that didn’t engage enough of his brain to keep him satisfied. And I said to myself: I don’t know what I want to do when I grow up, but whatever it is, I don’t want to be bored.
+
+And that’s my second piece of advice to you: whatever you end up doing in this life, make sure above all that it’s interesting. Because most likely you’re going to spend a third of the rest of your life, eight hours out of twenty-four, working for a living. And if what you do bores you, that means you’re going to spend a third of the rest of your life being bored. And believe me, friends, that is no way to live.
+
+Now I’m a very lucky man. I get paid to see plays and write about them. I won’t lie to you: sometimes that’s boring. But not very often. Most of the time I sit down in my aisle seat on Broadway or in Chicago or San Diego or Orlando, and I smile and say, “I have the best job in the world.” I’m not foolish enough to think that luck had absolutely nothing to do with it. But I also know that luck has a way of happening to people who shoot high, who never sell themselves short. I didn’t, and now I’m a happy man—so long as the play is good.
+
+One more story and I’m done. Since I’m a drama critic, I’ll make it a Broadway story. It’s about Leland Hayward, who used to be a big Broadway producer. He was going to put on a play by Maxwell Anderson called Anne of the Thousand Days, and he asked Anderson who should play Henry VIII. Anderson gave it some thought, then he played it safe and suggested a good, solid actor with no flair, no panache.
+
+Hayward got red in the face, banged on the desk, and said, “No, no, Max! Suppose there were absolutely no problems in getting anyone in the world you wanted. Who would you pick?”
+
+Anderson didn’t hesitate for a moment. He said, “Rex Harrison—but you’ll never get him.”
+
+And Hayward grinned and said, “Why not ask him?” He picked up the phone and started placing calls, and an hour later, Rex Harrison had agreed to play Henry VIII.
+
+Then Hayward hung up, grinned, and said, “There’s a lesson in this, Max. Never start out asking for someone you’d eventually settle for.”
+
+You see the point. If there’s ever a time in life for you to shoot high, it’s now. So take a long, cool look at yourself and say, What do I really want out of life? What would keep me interested until the day I die? Do I have a realistic chance to get it? And if you think you do, then go for it. Work as hard to get it as you worked to get your degree here. Settle later, if you must—but don’t spend the rest of your life eating your heart out because you didn’t give it your very best shot right now.
+
+And that’s that. I congratulate you, members of the Class of 2011, for doing something truly remarkable. Remember: be proud. Be professional. Don’t be bored. Enjoy the moment. And be sure to get a good lunch.
+
+Thank you.

@@ -1,9 +1,9 @@
 ---
-path: "/2008-jk-rowling-harvard-university"
+path: /2008-jk-rowling-harvard-university
 year: "2008"
-school: "Harvard University"
-speaker: "J.K. Rowling"
-youtube_id: ''
+school: Harvard University
+speaker: J.K. Rowling
+youtube_id: 
 ---
 
 President Faust, members of the Harvard Corporation and the Board of Overseers, members of the faculty, proud parents, and, above all, graduates.

@@ -1,0 +1,163 @@
+---
+path: /2009-arnold-schwarzenegger-university-of-southern-california
+year: "2009"
+school: University of Southern California
+speaker: Arnold Schwarzenegger
+youtube_id: 
+---
+
+Well, thank you very much. Hello, everybody. What a great introduction, what a wonderful thing. What a great, great welcome I'm getting here, so thank you very much. I mean, I haven't heard applause like that since I announced that I was going to stop acting.
+
+But anyway, it is really terrific to see here so many graduate students and undergraduate students graduating here today. I heard that there are 4,500 graduating here today, undergraduate students, so this is fantastic. There are 2,200 men, 2,300 women and five have listed yourselves as undecided.
+
+So this is really a great, great bunch of people here, I love it. But seriously, President Sample, trustees, faculty, family, friends and graduates, it is a tremendous privilege to stand before you this morning. There's nothing that I enjoy more than celebrating great achievements. And I don't just mean your parents celebrating never having to pay another tuition bill, that's not what I'm talking about.
+
+I'm talking about just celebrating the great accomplishment. So let me congratulate the Trojan class of 2009 on your graduation from one of the finest universities in the world. Let's give our graduates a tremendous round of applause. What a special day, what a great accomplishment.
+
+Now, this an equally special day, of course, for the parents, for the grandparents, siblings and other family members whose support made all of this today possible. And let's not forget, of course, the professors, those dedicated individuals who taught you, who came up with exciting ways to share their vast wisdom, knowledge and experience with you.
+
+And I must also say thank you to President Sample for honoring me with this fantastic degree. Thank you very much. Wow, Arnold Schwarzenegger, Doctor of Humane Letters. I love it. But, of course, I noticed that it wasn't a doctorate in film or in cinema or in acting. I wonder why?
+
+But anyway, that's OK. I take whatever I can get. But maybe now since I'm the doctor, I can go back up to Sacramento and maybe now the Legislature will finally listen to me. But anyway, I stand before you today not just as Dr. Schwarzenegger or as Governor Schwarzenegger, or as The Terminator, or as Conan the Barbarian, but also as a proud new member of this Trojan family.Now, some of you may know that my daughter just completed her freshman year right here. One of the most exciting things for me has been to learn about the great traditions that make this university so wonderful and so special.
+
+My daughter told me all about, for instance, the Victory Bell. She sat me down and she told me it weighs 295 pounds and how the winner of the annual football game between USC and UCLA takes this bell and gets to paint it in the school colors. And I stopped her in the middle of talking, I said, "Wait a minute, Katherine, back up a little bit. UCLA has a football team?"
+
+Now, of course, my daughter's journey here at USC is just beginning, and yours is ending. I know that you're a little bit stressed out right now as you start this exciting new chapter in your lives. Some people say it is scary to leave the comfort of the university and to go out into the cold, hard world.
+
+But I have to tell you something; I think this is a bunch of nonsense because after all, this is America. This is the greatest country on earth, with the greatest opportunities. It is one thing if you were born in Afghanistan or in Swat Valley in Pakistan where you'd be forced to join the Taliban or be killed. Now, then I would say yes, that is a little bit scary.
+
+But this, this is going to be a piece of cake for you, trust me. You live in America and you're prepared for the future with this tremendous education you have gotten here at one of the greatest universities in the world. This is going to be exciting, it's a great adventure and this is a new phase in your life. This is going to be awesome.
+
+Now, of course, this journey is not going to be without any setbacks, failures or disappointments. That's just the way life is. But you're ready and you are able, and you would not be here today with your degrees and with your honors if you wouldn't be ready.
+
+So now, of course, to help you along the way, I thought that the best Schwarzenegger gift I could give you today is to give you a few of my own personal ideas on how to be successful. And parents, I just want you to know, maybe you should close your ears, you should plug your ears, because maybe there a few things that you maybe won't like in what I have to say.
+
+But anyway, I can explain how I became successful and who I am today by going through what I call Dr. Schwarzenegger's Six Rules of Success.
+
+Now, of course, people ask me all the time, they say to me, "What is the secret to success?" And I give them always the short version. I say, "Number one, come to America. Number two, work your butt off. And number three, marry a Kennedy."
+
+But anyway, those are the short rules. Now today, I'm going to give you the six rules of success. But before I start, I just wanted to say these are my rules. I think that they can apply to anyone, but that is for you to decide, because not everyone is the same. There are some people that just like to kick back and coast through life and others want to be very intense and want to be number one and want to be successful. And that's like me.
+
+I always wanted to be very intense, I always wanted to be number one. I took it very seriously, my career. So this was the same when I started with bodybuilding. I didn't want to just be a bodybuilding champion, I wanted to be the best bodybuilder of all time. The same was in the movies. I didn't want to just be a movie star; I wanted to be a great movie star that is the highest paid movie star and have above-the-title billing.
+
+And so this intensity always paid off for me, this commitment always paid off for me. So here are some of the rules.
+
+The first rule is: Trust yourself
+
+And what I mean by that is, so many young people are getting so much advice from their parents and from their teachers and from everyone. But what is most important is that you have to dig deep down, dig deep down and ask yourselves, who do you want to be? Not what, but who.
+
+And I'm talking about not what your parents and teachers want you to be, but you. I'm talking about figuring out for yourselves what makes you happy, no matter how crazy it may sound to other people.
+
+I was lucky growing up because I did not have television or didn't have telephones, I didn't have the computers and the iPods. And, of course, Twitter was then something that birds did outside the window. I didn't have all these distractions and all this.
+
+I spent a lot of time by myself, so I could figure out and listen to what is inside my heart and inside my head.And I recognized very quickly that inside my head and heart were a burning desire to leave my small village in Austria -- not that there was something wrong with Austria, it's a beautiful country. But I wanted to leave that little place and I wanted to be part of something big, the United States of America, a powerful nation, the place where dreams can come true.
+
+I knew when I came over here I could realize my dreams. And I decided that the best way for me to come to America was to become a bodybuilding champion, because I knew that was ticket the instant that I saw a magazine cover of my idol, Reg Park. He was Mr. Universe, he was starring in Hercules movies, he looked strong and powerful, he was so confident.
+
+So when I found out how he got that way I became obsessed, and I went home and I said to my family, "I want to be a bodybuilding champion."
+
+Now, you can imagine how that went over in my home in Austria. My parents, they couldn't believe it. They would have been just happy if I would have become a police officer like my father, or married someone like Heidi, had a bunch of kids and ran around like the von Trapp family in Sound of Music.
+
+That's what my family had in mind for me, but something else burned inside me. Something burned inside me. I wanted to be different; I was determined to be unique. I was driven to think big and to dream big. Everyone else thought that I was crazy. My friends said, "If you want to be a champion in a sport, why don't you go and become a bicycle champion or a skiing champion or a soccer champion? Those are the Austrian sports."
+
+But I didn't care. I wanted to be a bodybuilding champion and use that to come to America, and use that to go into the movies and make millions of dollars. So, of course, for extra motivation I read books on strongmen and on bodybuilding and looked at magazines. And one of the things I did was, I decorated my bedroom wall.
+
+Right next to my bed there was this big wall that I decorated all with pictures. I hung up pictures of strongmen and bodybuilders and wrestlers and boxers and so on. And I was so excited about this great decoration that I took my mother to the bedroom and I showed her. And she shook her head. She was absolutely in shock and tears started running down her eyes.
+
+And she called the doctor, she called our house doctor and she brought him in and she explained to him, "There's something wrong here." She looked at the wall with the doctor and she said, "Where did I go wrong? I mean, all of Arnold's friends have pictures on the wall of girls, and Arnold has all these men.
+
+But it's not just men, they're half naked and they're oiled up with baby oil. What is going on here? Where did I go wrong?" So you can imagine, the doctor shook his head and he said, "There's nothing wrong. At this age you have idols and you go and have those -- this is just quite normal."
+
+So this is rule number one. I wanted to become a champion; I was on a mission. So rule number one is, of course, trust yourself, no matter how and what anyone else thinks.
+
+Rule number two is: Break the rules
+
+We have so many rules in life about everything. I say break the rules. Not the law, but break the rules. My wife has a t-shirt that says, "Well-behaved women rarely make history." Well, you know, I don't want to burst her bubble, but the same is true with men.
+
+It is impossible to be a maverick or a true original if you're too well behaved and don't want to break the rules. You have to think outside the box. That's what I believe. After all, what is the point of being on this earth if all you want to do is be liked by everyone and avoid trouble?
+
+The only way that I ever got anyplace was by breaking some of the rules. After all, I remember that after I was finished with my bodybuilding career I wanted to get into acting and I wanted to be a star in films. You can imagine what the agents said when I went to meet all those agents. Everyone had the same line, that it can't be done, the rules are different here. They said, "Look at your body. You have this huge monstrous body, overly developed. That doesn't fit into the movies. You don't understand.
+
+This was 20 years ago, the Hercules movies. Now the little guys are in, Dustin Hoffman, Woody Allen, Jack Nicholson." Before he gained weight, of course, that is. But anyway, those are the guys that were in. And the agents also complained about my accent. They said, "No one ever became a star with an accent like that, especially not with a German accent.
+
+And yes, I can imagine with your name, Arnold Schwartzenschnitzel, or whatever the name, is, on a billboard. Yeah, that's going to draw a lot of tickets and sell a lot of tickets. Yeah, right." So this is the kind of negative attitude they had.
+
+But I didn't listen to those rules, even though they were very nice and they said, "Look, we can get you some bit parts. We can get you to be playing a wrestler or a bouncer. Oh, maybe with your German accent we can get you to be a Nazi officer in Hogan's Heroes or something like that."
+
+But I didn't listen to all this. Those were their rules, not my rules. I was convinced I could do it if I worked as hard as I did in bodybuilding, five hours a day. And I started getting to work, I started taking acting classes. I took English classes, took speech classes, dialogue classes. Accent removal classes I even took.
+
+I remember running around saying, "A fine wine grows on the vine." You see, because Germans have difficulties with the F and the W and V, so, "A fine wine grows on the vine." I know what some of you are now saying, is I hope that Arnold got his money back.
+
+But let me tell you something, I had a good time doing those things and it really helped me. And finally I broke through. I broke through and I started getting the first parts in TV; Streets of San Francisco, Lucille Ball hired me, I made Pumping Iron, Stay Hungry. And then I got the big break in Conan the Barbarian.
+
+And there the director said, "If we wouldn't have Schwarzenegger, we would have to build one." Now, think about that. And then, when I did Terminator, "I'll be back," became one of the most famous lines in movie history, all because of my crazy accent.
+
+Now, think about it. The things that the agents said would be totally a detriment and would make it impossible for me to get a job, all of a sudden became an asset for me, all of those things, my accent, my body and everything.
+
+So it just shows to you, never listen to that you can't do something. And, "You have to work your way up, of course, run for something else first." I mean, it was the same when I ran for governor, the same lines, that you have to work your way up, it can't be done. And then, of course, I ran for governor and the rest, of course, is history.
+
+They said you have to start with a small job as mayor and then as assemblyman and then as lieutenant governor and then as governor. And they said that's the way it works in a political career. I said, "I'm not interested in a political career. I want to be a public servant. I want to fix California's problems and bring people together and bring the parties together.
+
+So, like I said, I decided to run, I didn't pay attention to the rules. And I made it and the rest is history. Which, of course, brings me to rule number three: Don't be afraid to fail.
+
+Anything I've ever attempted, I was always willing to fail. In the movie business, I remember, that you pick scripts. Many times you think this is a wining script, but then, of course, you find out later on, when you do the movie, that it didn't work and the movie goes in the toilet.
+
+Now, we have seen my movies; I mean, Red Sonja, Hercules in New York, Last Action Hero. Those movies went in the toilet. But that's OK, because at the same time I made movies like Terminator and Conan and True Lies and Predator and Twins that went through the roof.
+
+So you can't always win, but don't afraid of making decisions.
+
+You can't be paralyzed by fear of failure or you will never push yourself. You keep pushing because you believe in yourself and in your vision and you know that it is the right thing to do, and success will come. So don't be afraid to fail.
+
+Rule number four: Don't listen to the naysayers.
+
+How many times have you heard that you can't do this and you can't do that and it's never been done before? Just imagine if Bill Gates had quit when people said it can't be done.
+
+I hear this all the time. As a matter of fact, I love it when someone says that no one has ever done this before, because then when I do it that means that I'm the first one that has done it. So pay no attention to the people that say it can't be done.
+
+I remember my mother-in-law, Eunice Kennedy Shriver, when she started Special Olympics in 1968 people said that it would not work. The experts, the doctors that specialized in mental disabilities and mental retardation said, "It can't be done. You can't bring people out of their institutions. You can't make them participate in sports, in jumping and swimming and in running. They will hurt themselves, they will hurt each other, they will drown in the pool."
+
+Well, let me tell you something. Now, 40 years later, Special Olympics is one of the greatest organizations, in 164 countries, dedicated to people with mental disabilities and that are intellectually challenged.
+
+And she did not take no for an answer. And the same is when you look at Barack Obama. I mean, imagine, if he would have listened. (Applause) If he would have listened to the naysayers he would have never run for president. People said it couldn't be done, that he couldn't get elected, that he couldn't beat Hillary Clinton, that he would never win the general election.
+
+But he followed his own heart, he didn't listen to the "You can't," and he changed the course of American history.
+
+So over and over you see that. If I would have listened to the naysayers I would still be in the Austrian Alps yodeling. I would never have come to America. I would have never met my wonderful wife Maria Shriver, I would have never had the wonderful four kids, I would have never done Terminator, and I wouldn't be standing here in front of you today as governor of the greatest state of the greatest country in the world.
+
+So I never listen that, "You can't." I always listen to myself and say, "Yes, you can."
+
+And that brings me to rule number five, which is the most important rule of all: Work your butt off. You never want to fail because you didn't work hard enough. I never wanted to lose a competition or lose an election because I didn't work hard enough. I always believed leaving no stone unturned.
+
+Mohammed Ali, one of my great heroes, had a great line in the '70s when he was asked, "How many sit-ups do you do?" He said, "I don't count my sit-ups. I only start counting when it starts hurting. When I feel pain, that's when I start counting, because that's when it really counts."
+
+That's what makes you a champion. Arnold Scvhwarzenegger in Kindergarten CopAnd that's the way it is with everything. No pain, no gain. So many of those lessons that I apply in life I have learned from sports, let me tell you, and especially that one. And let me tell you, it is important to have fun in life, of course.
+
+But when you're out there partying, horsing around, someone out there at the same time is working hard.
+
+Someone is getting smarter and someone is winning. Just remember that. Now, if you want to coast through life, don't pay attention to any of those rules.
+
+But if you want to win, there is absolutely no way around hard, hard work.
+
+None of my rules, by the way, of success, will work unless you do. I've always figured out that there 24 hours a day. You sleep six hours and have 18 hours left. Now, I know there are some of you out there that say well, wait a minute, I sleep eight hours or nine hours. Well, then, just sleep faster, I would recommend.
+
+Because you only need to sleep six hours and then you have 18 hours left, and there are a lot of things you can accomplish. As a matter of fact, Ed Turner used to say always, "Early to bed, early to rise, work like hell and advertise."
+
+And, of course, all of you know already those things, because otherwise you wouldn't be sitting here today. Just remember, you can't climb the ladder of success with your hands in your pockets.
+
+And that takes me to rule number six, which is a very important rule: it's about giving back. Whatever path that you take in your lives, you must always find time to give something back, something back to your community, give something back to your state or to your country.
+
+My father-in-law, Sargent Shriver -- who is a great American, a truly great American who started the Peace Corps, the Job Corps, Legal Aid to the Poor -- he said at Yale University to the students at a commencement speech, "Tear down that mirror. Tear down that mirror that makes you always look at yourself, and you will be able to look beyond that mirror and you will see the millions of people that need your help."
+
+And let me tell you something, reaching out and helping people will bring you more satisfaction than anything else you have ever done. As a matter of fact today, after having worked for Special Olympics and having started After School Programs, I've promoted fitness, and now with my job as governor, I can tell you, playing a game of chess with an eight-year-old kid in an inner city school is far more exciting for me than walking down another red carpet or a movie premiere.
+
+So let me tell you, as you prepare to go off into the world, remember those six rules:
+
+Trust yourself, Break some rules, Don't be afraid to fail, Ignore the naysayers, Work like hell, and Give something back.
+
+And now let me leave you with one final thought, and I will be brief, I promise. This university was conceived in 1880, back when Los Angeles was just a small frontier town. One hundred and twenty-five classes of Trojans have gone before you. They have sat there, exactly where you sit today, in good times and in bad, in times of war and in times of peace, in times of great promise and in times of great uncertainty.
+
+Through it all, this great country, this great state, this great university, have stood tall and persevered. We are in tough times now and there's a lot of uncertainty in the world. But there is one thing certain; we'll be back.
+
+And we will back stronger and more prosperous than ever before, because that is what California and America have always done. The ancient Trojans were known for their fighting spirit, their refusal to give up, their ability to overcome great odds.
+
+So as you graduate today, never lose that optimism and that fighting spirit. Never lose the spirit of Troy. Because remember, this is America and you are USC Trojans, proud, strong and ready to soar. Congratulations and God bless all of you. Thank you very much. Thank you.

@@ -1,0 +1,61 @@
+---
+path: /2010-drew-brees-loyola-university
+year: "2010"
+school: Loyola University
+speaker: Drew Brees
+youtube_id: 
+---
+
+What an honor it is to be here. Thank you to Father Wilds, distinguished faculty, esteemed trustees, guests and of course the 2010 graduating class here at Loyola University. I’ll be honest, I was a little nervous about using distinguished and esteemed in the same sentence because I thought it would come out extinguished and that is not the description I wanted to use.
+
+Certainly you are all distinguished and esteemed and it is an honor to be here. We have a lot in common. Most of us came to New Orleans around the same time, the spring or summer of 2006 when that was not the most popular thing to do. For me, I felt like coming to New Orleans was a calling and for you, there must have been something drawing you here as well. A much stronger force that we can’t necessarily describe other than we know that we belonged here.
+
+Now, four years later, we can reflect back and say that we were a part of something special and certainly the work is not done yet but we were part of something special. We’ve all watched the city not just come back but comeback stronger than ever. We’ve seen the people come back with more passion and determination than before and we’ve all been part of the super bowl championship. No matter where you’re from or where you go from here keep New Orleans close to your heart and remember what you were a part of and know that now we are all linked together forever.
+
+As I look out at the young men and women graduates of Loyola University class of 2010, I’m so excited for you all. What you’re about to experience will be eye opening, certainly rewarding, and challenging at times. They say experience is what you gain when you don’t get what you want. I can promise you that over the next few years you will gain experience. You will not always get what you want. You will face adversity, but know that the sky is the limit as to what you can all accomplish.
+
+There are some of you that will be doctors, lawyers, politicians, writers, artists, teachers, coaches, entrepreneurs, inventors and maybe one of you will even own anNFL franchise someday. I can tell you this, your best years are yet to come but that does not mean it’s going to be easy.
+
+In fact I can guarantee that you will face adversity along the way and for most of you it’ll be the toughest thing you’ve ever had to face in your life. I will also tell you that every successful person you meet or talk to will say that it was because of that adversity that they were given the opportunity to reach new heights that they never thought possible.
+
+For me it was my shoulder injury back in 2005. December 31, 2005. I was playing for the San Diego chargers. I dislocated my right shoulder going into an off season in which I did not have a contract, did not have a job. When you have that kind of injury at the quarter back position there’s not a lot of people that come calling or knocking.
+
+So at the time I thought this is probably the worst thing that could have ever happened to me but now I look back at it four years later and I say it was probably one of the best things that ever happened to me because it brought me to New Orleans.
+
+There are many others that have faced that adversity and have been in those similar circumstances or situations.I’ll give you a few examples, Steve Jobs, you might know him. He’s theC.E.O. of apple. He was adopted as young baby. He went to college and dropped out after his first year. He ended up starting Apple when he was 20 years old in his basement but by age 30 he was fired from his position as C.E.O. when he had a falling out with his partner and with the board at Apple.
+
+For the next few years there was some soul searching for him but in the end he started another company. You might have heard of it, PixarAnimation which ended up getting bought out by Disney for almost eight billion dollars and then by another company that Apple ended up buying a few years later for five hundred million. He was right back where he was 20 years before as the C.E.O. of Apple and there he is today doing some absolutely remarkable things.
+
+What he would say, what I’ve heard him say is that it was that adversity that he faced when he was kicked to the curb, so to speak, from the company that he founded where he really gained strength and more motivation to go forth and do remarkable things, things that he would not have been able to accomplish had he not gone through what he went through at age 30.
+
+Another example is Ellen DeGeneres. We all know Ellen; she grew up right down the road. She used to go to Saints games at halftime at the old stadium. I’ve heard Ellen talk about the moment when she came out and announced that she was gay. At that point she was having a pretty successful career but after coming out she was out of work for three years. People would not give her the opportunities that they had before. To her that was the toughest thing she ever had to go through but in the end she was being true to herself.
+
+She then received a small opportunity to perhaps host her own TV show, her own talk show and I think we all know how that has gone. She is perhaps one of the most, if not the most, successful talk show host in history. Certainly by being a New Orleanian we love her to death. We know what she has meant to this community, not only to our community but to the country and to the world. She is a source of inspiration and somebody who would sit here and tell you that had she not gone through what she went through during those three years, she would not be where she is today.
+
+So once again the lesson being that adversity is an opportunity.Adversity will make you stronger. Adversity will mold you into the person that you are meant to be. You all probably remember the kick in the super bowl right? How could we forget that?
+
+I’ll tell you the story behind that. We had two weeks to prepare for the super bowl and I remember Shawn Peyton came into the meeting at the beginning of that two week preparation for the SuperBowl and said we have a kick that we’re putting in the plan. It’s not a matter of if we’re going to run it; it’s when we are going to run it. It’s going to happen and sure enough it worked, thank god.
+
+The lesson is, it’s not a matter of if you will face adversity in your life but when. So when adversity knocks on your door cease it as an opportunity. For that adversity is being put in your life for a reason. It is God’s way of providing you with the strength and the tools to face future challenges and to mold you into the person that he meant for you to be. In the end it is this adversity that will allow you to accomplish things in life that you originally thought were reserved only for your dreams.
+
+My second piece advice to you is this, find what you love to do and then figure out a way to get paid for it. Sounds pretty simple doesn’t it? Some of you out there think you know exactly what you want to do and then there are others that probably have no idea. That’s okay, because in a year from now those that think they know exactly what they want to do, they might not have any idea at that point. Those that don’t know what to do you might have found your passion by then. My point is, be patient and don’t settle. The only way to do great work is to love what you do and as with every matter of the heart you will know when you find it.
+
+My third piece advice is to approach every opportunity with an attitude of gratitude and a mindset that whatever you encounter you will leave it better than when you arrived. We have all been part of that here in New Orleans but why stop here? In everything you do in life, leave your mark. Be a great steward of the community and to society and to whatever business you’re involved and understand that part of your purpose in life is to leave whatever you touch better than when you found it. So leave your mark and leave it better than you found it.
+
+Number four, life goes fast. I was sitting in your seats ten years ago. Now it’s hard to think that that was ten years ago because it feels like it was yesterday. I guess my point there is, don’t forget to enjoy the moment and reflect back on the journey from time to time.
+
+For me, standing on that podium after we won the super bowl was a moment, one of the defining moments of my life. What made it even more special is the fact that I was holding my son and the reflection on every thing that we had been through as a city and as a team to get to that point.
+
+As we watched the confetti come down and the world champions come across the jumbotron and looking out at the people going crazy, beads flying everywhere, we recognized what a journey that had been and how special that was. There’s no city, no organization, no group of people who deserve it more. I promise you that. The journey is not over. We want another one.
+
+Also, don’t forget to enjoy the little things life. Sometimes you get going so fast, I feel like the last three months have been like that for me. Don’t forget to enjoy the little things in life, watching the sunset with the one that you love, taking a walk in the park, sitting in rocking chairs on the front porch watching the street cars go by, or throwing the ball with your child out in the front yard. You work too hard not to enjoy those little things.
+
+My last piece of advice is, don’t forget why you were put on this earth. We were all put on this earth to serve others. Sometimes the more successful that you get, people tend to forget that. It becomes more about how they can serve you as opposed to how you can serve others. So don’t forget, no matter how successful you become, which you all will, to serve others.
+
+As you all sit here on graduation day,I believe everyone can agree that we’ve all been blessed with some great opportunities in our lives. Be appreciative and respectful of those opportunities and never take them for granted.With that mindset just think about being able to give back what has been given to you. Take the time to make a difference in the life of somebody less fortunate. It’s amazing that the more generous you are and the more you choose to serve others the happier you will be.
+
+Now for the words you’ve been waiting for, in closing I’d like to leave you with a quote. I could have chosen many profound quotes from presidents, C.E.O.’s, or philosophers but I’m choosing one from my grandfather. He is 85 years old; he still lives on a ranch, herding cows in East Texas.
+
+A quote I heard all the time from him when I was growing up was this, according to my grandpa, “There are three types of people in this world. There are those that make it happen. There are those who watch it happen and then there are those that wake up one day and say ‘What the heck happened?’ So which one are you?” is what he would tell me.
+
+SoI leave you today by first saying congratulations the 2010 graduating class of Loyola University and now let’s go make it happen!

@@ -1,0 +1,95 @@
+---
+path: /2014-alexis-ohanian-carthage-college
+year: "2014"
+school: Carthage College
+speaker: Alexis Ohanian
+youtube_id: 
+---
+
+Hello. I am very fond of the waffles at Waffle House, but I am told epiphanies can also be had at Frank's, somehow in the form of a garbage plate. Is that right? I have been told. 
+
+So greetings, greetings graduates, faculty, parents, administrators, distinguished alum, our trees, subscribers.
+
+How many of you use Reddit? Just by a show of hands? Excellent. Up vote, up vote, up vote, up vote. Thank you. Up vote. I am so happy to see so many of you Redditers actually managed to graduate. That's great. I'm glad. You're not getting those hours back. Sorry, not sorry for the procrastination.
+
+Yeah, but, you know what? Congratulations. Carthage class of 2014, feel good. Clap it up. You guys. This is it. This is it. All of those hours. Studying, all that time you spent studying. Every waking hour. Studying. I presume drinking coffee of course to supplement that studying, going back to the library to do more studying, lots of work but please do not be in a rush today, alright? Savor this. Savor this, enjoy this. Don't be in a rush to get out of here. I mean I hear actually only four of you have ever even completed the redman challenge. Four ever, come on. Come on. There's still time. And you've got time actually today. 
+
+I know President Campbell who was just honored there, is gonna be around continuing to give advice about life, about careers and I have it on good authority also keg stands? Was that.. All, all valuable, all important. But a wise man, a wise man once said, I'm not here to talk about me, I'm here to inspire you by talking about me. That man was Steven Colbert. And that's exactly what I'm gonna do for the next hour and 12 minutes.
+
+Not gonna do that. Some people, in fact I reckon a lot of you, ummm may have no idea who I am. 
+
+Ummm hi my name's Alexis as you heard, I'm one of the founders of Reddit and I can say with total confidence that I would not be here where I am today had I not gone to college. You see I'm one of those tech founders that is not a college dropout. In fact... I was a history major. I know there's some history majors out there. Yes. Yes we can my fellow history majors. And just wait, just wait, that first post college trivia night you will shine.
+
+Oh yeah, oh yeah. No it's, let me tell you I was able to start Reddit with my college roommate Steve Huffman and the story, how that all happened, was just kind of ridiculous. We started with a couple of laptops, in an apartment living room and today as you heard Reddit's one of the largest websites on the internet. It is crazy. And it all started with a check box. You see, once I got accepted I had a very simple option. It was either live in old dorms or new dorms. I didn't really know what the difference was. Old sounded kind of quaint and fun like I'd seen in movies with like these halls and people hanging out, playing video games, again, more studying and I thought this would be amazing, right I could live in old dorms great check, didn't think a single thing about it. 
+
+Move in day happens and my parents are there, we're moving everything in, I find my dorm and across the hall I see this blonde-haired blue-eyed angel, Steve. And he... He's playing Gran Turismo on the Playstation 2 and I am thrilled because I didn't think there were gonna be any other gamers in college and I was so excited to meet him. He was disappointed, you see, he had seen my name on the door, Alexis and thought it was a coed hall. So, once we got passed that though, we became good friends, really good friends and it was amazing because that simple check box changed my life. 
+
+Picking old dorms, this random subtle thing had a tremendous impact on my life and it happened just because of a gut instinct. There wasn't any real thought process to it, it was just instinct and what I mean to say by all this is look, life is going to be a series of these kinds of decisions, it's okay to not really know what you're doing and just trust your gut. Make the best judgement you can. There's not gonna be a syllabus assigned to you. It's gonna be using whatever knowledge you've gained, whatever resources you have to just figure it out, to just hack it. 
+
+I mean, most of the time I still don't know what I'm doing. Okay, spoiler, really, like right now, preparing this speech, mostly gut, like no clue, but the reality is everyone is hacking it. Everyone is figuring out so if it feels like you don't really now what your plan is, you feel like it's changing every six months. That's okay. No one has it all figured out. I don't, I've not met a single person who does and I know that even when we were building Reddit, for us it was this little project, the two of thought maybe could one day be something special. 
+
+You know Steve, he was the guy who actually built it, he wrote all of the code and so my job as the non technical founder was to just do everything else. So that meant ordering the Chinese food, that meant replacing the toner cartridges right, really cool CEO stuff. No, no it wasn't very glamorous. But that was okay. 
+
+I'd been through enough jobs where I thought hey at least this is an opportunity for me to be working on something I love and I know how lucky I am for that. All of the experiences you've had, coming up to this point, they're all cumulative. 
+
+One of the best jobs I got was actually my first and it was working at a little booth in a CompUSA, some of you may have no idea what a CompUSA is because that company is now defunct but people used to go into stores to buy computer-related products and there I would sit. I was about 13 going through puberty, with a headset and a microphone not unlike this, speaking to an entire CompUSA about a mouse or some learn-to-type software. It was the most boring awful thing imaginable and yet I had to go up and have the worst public speaking experience every 30 minutes cause that was my job. No one goes into a CompUSA to hear some 13 year old with a cracked voice talk about mice but I would do it and I knew it was bad because no one would be paying attention. Even people would come up to me and say kid no one's listening, just stop. And that was formative. That was helpful because every 30 minutes I would be going through the worst possible public speaking experience someone could imagine and it got me comfortable with it. 
+
+All of the things you were doing, everything you will continue to do is a process, it is cumulative and it doesn't always look like the dots connect but they do. And look, as long as you find yourself challenged and happy and striving for those things that fulfill you, you are going to figure it out. And failure is gonna be part of the process, right, you're all here cause you're good at not failing, right? This is the culmination of doing a great job at not failing.
+
+There are no GPAs after this. There's gonna be lots of set-backs, there's gonna be lots of failures. No one ever introduces me as the founder of my mobile menu. Also known as mmm. Because that was our first company. 
+
+Before we started Reddit, Steve and I started that and for a year and a half worked on something that went nowhere. But that's okay. 
+
+Failure is, it is an option. Even a few months into Reddit we were there in a little apartment in Medford Massachusetts and we got a call from an executive at a company called Yahoo. You guys know Yahoo right? Yes. They were offering to fly us out and have a meeting with us. One of these executives wanted us to come out to Silicon Valley. We made a mix cd, we were so excited. As a cultural reference, some of you will not understand but thank you for those who do. 
+
+We were thrilled, it was our first trip to the valley and here we were our little start up and we were gonna present. We sat down in front of this executive at Yahoo and his team, we started talking about Reddit and a few minutes in he just cuts me off and he says how much traffic do you guys have anyway? How big is your site anyway? I said well, you know we just launched a few months ago. 10,000 users and he just laughs, he laughs at us, he's like you guys, you guys are a rounding error compared to Yahoo. What are you even doing here? I went, you invited us. Is that like a hazing ritual you do? You invite little start ups to your company and give them free Snickers bars and then make fun of them.
+
+Needless to say, that meeting did not go well. We went back to Boston. Keep in mind, we were the generation, I have like seven participation trophies for basketball camp. And I still cannot dribble. So this hurt. And we went back home, it's true. And the next morning I printed something out and put it on my wall next to my desk and it was a few words. It was you are a rounding error. Cause I wanted to see every morning who we were proving wrong. This became my kind of wall of negative reinforcement. 
+
+So my message to you is this listen, listen there are gonna be constructive critics in your life who are amazing. They're the ones who keep it real. They're the ones who help you get better and then there are gonna be haters. Haters gonna hate. Right? Scientifically proven, alright? What I got to say to you is ain't nobody got time for that, alright? No. It's true. It is not about giving up. It's not about listening to the haters. It is about finding ways to use that as motivation, as fuel to improve yourself and keep going for it because look, frankly, anytime you do or learn anything new you are going to probably fail. 
+
+You're probably gonna suck at it. Let's be real. There's an amazing, magical dog that sums it up well. Sucking is the first step to being sort of good at something. It's Adventure Time, you can learn a lot from that show.
+
+Everyone starts out bad at doing stuff. That is okay. There's no grade on this assignment. It's more like kind of pass fail alright? It's a process and that's what life is in simple terms. It is time spent alternating between successes and failures. 
+
+You can't have one without the other. They're inextricably linked. And the sooner you become comfortable with this the better. Cause that's what life is, it's gonna be about curiosity and discovery and finding more and pushing yourself more and sometimes it will be about waffles, right, sometimes you'll find yourself in an LSAT prep class like I was, really hungry and you'll walk out because you wanna go to Waffle House. It was a Saturday morning. I didn't want that LSAT as badly as I wanted those waffles and I sat there thinking, if I don't really, if I want these waffles more than the LSAT, should I really be a lawyer? Law school's expensive, it's three years, these waffles much more affordable and I think I don't really love the law. 
+
+I didn't have a plan. I did not have a plan but I had a great friend in Steve and we started talking about things we wanted to build. We weren't trying to change the world with a start up. No, we were just trying to live like college students for as long as we could. We wanted to wake up, be able to work in our pajamas, maybe take a midday nap, play a little World of Warcraft. We weren't setting out to do these huge things. We were just starting with solving a problem we hoped a few other people had, okay? 
+
+No one starts out with this grand plan. No one starts out with this grand vision. We're all just hacking it. We're all just figuring it out. 
+
+And look, I've done my research on commencement speeches. It turns out let me get this right. NPR researched this. About a third of the time speakers tell students to quote change the world. Which is reasonable, that is, that is what I think we all would like to do in some way but maybe it's a little to grandiose, right, where does our world start? It starts with ourselves. It starts with our families and our friends and our loved ones and then perhaps it grows into our communities and our cities and our states and our nations and our worlds but it must start somewhere. With ourselves. 
+
+In other speeches quote things like impossible is nothing and think different and just do it actually those are just slogans for multi-national companies. Ummm no. 
+
+Here's what I wish for every one of you, these two things. 
+
+That you're constantly thinking. 
+
+That you're constantly flowing with ideas. 
+
+That you're challenging yourself and looking and thinking about good things and bad things and smart things and stupid things and all types of things and every now and then taking selfies, but always be thinking. And be active not so much in the sense of physically active although that is very important. Do not spend too much time in front of your connected devices. Be physically active but also take those ideas and don't settle with just having them start doing them. 
+
+Surround yourself with other people who crave this same curiosity and hunger to do things. 
+
+And the secret, the big secret... There is no secret, there isn't, we're all just hacking it. Like I said, anyone who claims to have it all figured out is just lying. We don't. No one does. I don't. None of us do. And that's okay. Because, you know that's the thing, you're getting these commencement speeches from people who are lucky outliers, right? And I'm very well aware of this and the best case scenario they're self-aware of this luck and this fortune and that's another reality. So much of it just comes down to luck. So much of it just comes down to things beyond our control. 
+
+So the best thing you can do is put yourself in situations for those things to happen but also know that every single one of us is just as clueless, as just as curious, as just as insecure about what they're going to do with themselves. There's no blueprint, I promise you. There's no special thing where you push a button and a bookcase opens, none of that exists. 
+
+And you're clearly all entering a job market that as you know is not awesome, alright? Its not. Nothing I can say will change that. We've been given a platform though that none of our predecessors had. I'm talking about the internet, which is not just for cats, okay? It's a big part of it. 
+
+One of the things I still can't even get over. Nine years ago I was graduating and YouTube did not even exist. You can find videos now about soft-scrambling eggs to crochet, to JavaScript, there are so many treasure troves of knowledge on this one platform we almost take it for granted. It's something that is going to allow, yes, a whole new generation of, you know, selfies, but it will also allow a generation of us to become self-starters. Whether we wanna get started on an Etsy store and start selling some jewelry we're making or launching our first Kickstarter campaign for an artistic project or start a business or just learn how to make those darn soft boiled eggs. There's so much knowledge here and the previous generations have merely adopted this technology, we were born with it. Molded by it. I do that in the Bane voice too but I don't wanna... They merely adopted the internet. We were born in it. Molded by it. Thank you.
+
+Incidentally, incidentally, not the first time the Bane voice has been used at a commencement address but it's alright. One of the important hallmarks of this technology though is net neutrality. It is a level playing field, where all bits are equal. Where any one of us with an idea has as level a playing field as any one else. So I ask you, what are you passionate about? What are you curious about? Alright, what do you wanna create? What do you wanna do? Do you wanna learn how to crochet that special kielbasa warmer for the next Bears game? Or, or I realize this is a mixed audience here. Or perhaps, a cheese statue tribute to Aaron Rodgers. Whichever... Like I know we're in mixed company we can at least all agree that we hate the Vikings. Is that right? Alright, I am never going back to Minnesota now. Okay.
+
+But really, there's someone in Oklahoma right now who makes a living, this is serious, doing acapella video game theme song covers.  Amazing. Amazing. That's the internet alright? And what it means is, look, even I don't really know where this is all headed. But you all have an amazing opportunity because where you sit, we're all on the shoulders of giants but you all will be capable of doing in the next nine years will make what Steve and I have done in the last nine look like nothing. That's the nature of innovation. 
+
+These are the things I can't even imagine because you all haven't done them yet. But you will and like I said, there's no blueprint. Life is not a paint by number, it's just a bunch of us figuring it out. But we have a chance in this finite amount of time to do something special right? Something meaningful for ourselves, our friends, our families, our communities and let me emphasize families too. You guys all have an opportunity today with your parents, you're families, loved ones, I'm talking real hugs, okay? Dudes in particular, none of the, that hug stuff, with the two tap. I'm talking bear hug, alright? E
+
+very one of these people, every one of these people, in your friends and family network who have gotten you this far and supported you because these opportunities that are so precious take advantage of them, alright? Seriously, bear hugs okay? Because we have so limited time and there's so much we wanna do. 
+
+Especially now that we got this internet thing man there is stuff there 24/7, can't get off that. But take advantage of it. You've gotta start with yourself, or otherwise the rest will not follow and one of the things that has stuck with me since I was a kid playing way to many video games, this is also when games used to be hard, when you had a limited number of lives, yeah, yeah, not anymore, you guys whippersnappers have it too easy. Games used to have a finite number of lives and when you were on your last life it said there in the top right it said lives remaining zero. And I realized you know it's just like real life. Not withstanding reincarnation or resurrection, we are all playing with zero lives remaining and the thing that I realized even playing those video games way back when was I played my hardest on that last life. 
+
+So my advice to you is this. Play like you have zero lives remaining. Take every opportunity you can. Hold those people who take care of you, who treat you well, hold them close to you because life is short and we have so many opportunities right now and 
+
+I know it may not always feel that way but trust me, just the fact that we are even here having this discussion right now, that's being live streamed across the World Wide Web. Like, this is an amazing opportunity and one we should not take for granted so please, please take full advantage of this opportunity and can you all join me in congratulating the Carthage class off 2014. Congratulations.

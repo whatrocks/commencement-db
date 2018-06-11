@@ -1,0 +1,107 @@
+---
+path: /2012-abigail-washburn-colorado-college
+year: "2012"
+school: Colorado College
+speaker: Abigail Washburn
+youtube_id: 
+---
+
+Bright morning stars are rising
+Bright morning stars are rising
+Bright morning stars are rising
+Day is a-breakin’ in my soul
+
+When I’m singing this age-old American hymn I’m surrounded by an image of a dark morning sky opening to the light of a new day. I feel the immediacy of Beauty, I feel those first moments of morning light, and at the same time I feel the magnitude of the Eternal, I feel the rhythm of a night sky surrendering to day… after day after day, year after year. It’s a song of commencing for a day of commencing. So why is it that I named my Commencement speech Obituary? Why is it that with this precious 20 minutes I have with the 2012 Colorado College graduating class, with you incredibly well-equipped, beautiful, curious, courageous, adventuresome students I’m choosing to focus on Death?
+
+At the time I started to really dig in and think about what to say to you today, I was pacing back and forth in the living room at my house and I noticed a Whitney Houston album sitting on the coffee table. It was my total favorite album when I was a kid. Given the news recently that she had passed away I was paying homage to her by reconnecting with my inner-12-year-old that used to sing her songs into the imaginary microphone in my Midwestern childhood living room, when, of course no one was home…
+
+I believe the children are our future
+Teach them well and let them lead the way
+Show them all the beauty they possess inside
+Give them a sense of pride to make it easier
+Let the children’s laughter remind us how we used to be
+I decided long ago never to walk in anyone’s shadow
+
+-I bet you didn’t think I’d go for the high note…then again, maybe you prefer the dance hit-
+
+ooooh I wanna dance with somebody
+I wanna feel the heat with somebody
+Yeah I wanna dance with somebody, with somebody who loves me
+
+-and the best part-
+
+Somebody ­who, somebody who, somebody who lo-o-oves me 
+
+I bet you didn’t vote me in to give this speech today to sing late-80s pop songs… it’s just that in my pacing back and forth in my living room that day I couldn’t help but think about the contrast of that 1980’s pastel-bordered-hyper-crisp photo of Whitney Houston’s youthful, vibrant smile with what undoubtedly is her current physical state … And I should say right now that I am going to share with you today a lot about how my mind works some of which I maybe shouldn’t, nonetheless you it’s your fault, you voted me in and I’m gonna give you what I got.  Soooo, I pictured worms slithering up to the surface through her decaying eye sockets and loam and soil pushing softly and ceaselessly against the wooden box cradling her skull, and a body deflated, empty, surrendering to the earth. Whitney Houston is now being folded back in moment after moment, day after day year after year until at some point her body will no longer be recognizable and perhaps even the memory of her will have vanished completely. 
+
+Envisioning Whitney Houston in her grave was likely prompted by an incredibly uplifting experience I had at a workshop a few weeks earlier. I had the massive good fortune to be invited to a day of counseling by a group of people that have made their life’s work teaching artists and people in creative fields to Thrive rather than strive and they’ve had great success. I remember the moment when the leader of the workshop said, “You will envision here and now what you want to achieve in your lifetime and then you will come up with a plan to move toward realizing those achievements, you will take action and you will succeed.” And the co-leader of the workshop, a Native American male artist of the Choctaw & Cherokee tribes then chimed in and said, “I was poor, deeply in debt, living my art but always struggling to get by. My dream was to be able to live my art without struggle. Now, I have 3 commissions for several million dollars. I no longer live in fear of struggle. And now I see that my dreams can also include helping the broader community of Native American artists… and in this moment, you.” The 20 creative people in the room sighed audibly. Was it possible that we could not just forever live as struggling artists? The workshop leaders handed out a workbook and said, “Fill this out and your dreams will start to come true.” I opened the workbook and the page is filled with blank lines for me to fill in… and at the top of the page is written, “Obituary”.
+
+They gave us 5 minutes and told us to write freely, fluidly and without judgment. So, here it is, I’m sharing it with you, uncensored sloppy free-writing and all:
+
+Obituary: Abigail Washburn
+
+She helped to create a world that thru communal efforts began a massive re-direction of the world’s wealth and energy toward the realization of beauty and harmony and ceased all violent behavior between nations and people by spurring the creation of local and international cultural events cementing the victory of soulful globalization over the powers of individual and corporate gain. Meanwhile she managed to help facilitate a fully integrated home and community where all inspiration is sourced for overcoming the greater challenges in the world thereby spreading an undeniable and magnetic draw toward beauty and light. When she died she passed into a love and light painted, sewn, stitched and sung by the dear people and places that graced her path.
+
+Writing freely, fluidly and without judgment, that’s what came out of me. If I read that right I think I basically want World Peace before I die. And if the workshop leaders are right, I’m gonna do it. I’m standing here thinking… yea right, how am I going to create World Peace?
+
+This is where I thank you from the bottom of my heart for asking me to speak to you today, not only is it a tremendous honor that you actually want to hear what I have to say, but also because it’s forced me to face my Obituary and it’s compelling me to try to figure out what I think I can actually pull off in my lifetime. I’m going to share 3 personal stories with you in an effort to explore the likelihood of me fulfilling my dreams.
+
+Story #1 
+
+Before I left CC, I worked grounds crew for the summer (anybody working grounds’ crew this summer?), then followed my boyfriend at the time and his bluegrass band, all CC kids, to Vermont. We set up shop in the small town of Montpelier and got day jobs. Although I sang in Ellement (shout out ladies), I wasn’t in the band and never dreamed of being a professional musician. I got a job as an assistant lobbyist at the State House and knew that eventually I wanted to use my CC degree in Asian Studies to help US-China Relations. I passed the HSK (the Chinese equivalency exam) and readied myself to move to China to go to Beijing University law school. One night several months before I left Vermont I heard an LP of Doc Watson singing and playing Shady Grove. 
+
+Shady Grove my little love
+Shady Grove my darlin’
+Shady Grove my little love
+Goin’ back to Harlan
+
+After spending my CC years being obsessed with the immense richness of Chinese culture, it was a profound relief to hear something so beautiful and so American. It was for me the sound of Home. I knew I needed to get an old-time banjo and take it with me to China.  Being the adventuresome CC grad fearing a future spent in a cubicle in a law office, I took advantage of my remaining time in the US and headed out on a massive road trip of the east coast including 5 days of insight meditation, a solo backpacking mission along the Appalachian trail, a visit to CC friends in NYC, and as I hit the Blue Ridge I started the musical portion of my journey with a visit to a fiddler’s gathering in West Virginia, then North Carolina for a banjo lesson, and last stop Kentucky at the International Bluegrass Music Association Convention. On the last night of the convention a couple of young women asked me to jam and I timidly played the 4 songs I had picked up along my journey … AND, wouldn’t you know it, a record executive walked up to me and asked me to come to Nashville, TN to make a record.
+
+Story #2
+
+Nowadays people say to me things like, “You’re a natural born performer.” I’m gonna tell you something, I am not a natural born performer. The first time I got on stage to perform for people singing and playing banjo, I had only been playing for a few months and I only knew just enough songs. I was very very very very afraid. My particular nervousness affliction is to feel like I have to pee. And I go back and forth to the bathroom over and over again until I think surely there’s nothing left. So, I’m backstage, it’s my first festival performance, 10 minute countdown to stage call and I’m stuck to the port-a-potty. Show starts, I’m on stage, I strum a chord, sing my first few notes and what happens? I pee down my leg. Mortified is an understatement. Luckily I had enough wits about me to realize that the audience was too far away to notice. I kept going. I finished the show I found paper towels, a bottle of water, a private spot backstage and I cleaned myself up and went out to the merch table to greet people.
+
+Story #3
+
+In my first year on the road, I was given the opportunity to do an opening slot in South Carolina for a Texas singer song-writer with an audience of folks ready to drink a beer, party down and sing a good ol’Texas song. Unbeknownst to me at the time, opening acts are often just a tool to fill time while the audience shows up late and gets drunk before the main act starts. So, I get out on stage and first thing, I dig into a lively banjo tune. I immediately notice that there are only a handful of people actually there at 8pm… and that handful of people stand at the foot of the stage and talk loudly, shouting out drink orders as their friends walk toward the bar. Several songs into my set the crowd is growing, and even fewer people are listening. I decide to cut my between-song-banter short, and say, “This next one is an original song in Chinese, it’s a story about how hard it is to be an immigrant in America.”
+
+我，我是一只迷途的羔羊
+谁能引我走出迷茫
+哪有我重生的希望
+噢牧羊人啊
+噢牧羊人啊 
+
+I wish I could tell you that everyone actually shut up and listened at this point, but in fact, only one small group of guys up front turned around and said something like, “Holy crap man, I think that girl’s singing in Japanese.” They start laughing and making slant eyes. And that’s when suddenly everything stopped. I was suspended, like in a kung fu movie when everything literally hangs in the air, floating… my third eye popped wide open. I looked around at the South Carolina party and I looked at myself on stage and at first I felt anger, and then I felt sorry for myself and THEN somehow it all started to a turn toward funny, really funny –
+
+Here I was singing a dramatic original a capella song in mandarin Chinese to a pile of really drunk people wanting to party down to songs with titles like “I Want to check you for Ticks”, or “Dropkick me Jesus Thru the Goalposts of Life” or “Momma Get a Hammer {There’s a Fly on Daddy’s Head}” or the crowd favorite “You Ain’t Much Fun Since I Quit Drinkin”.  Needless to say I became distinctly aware that this was an un-ideal setting for my music and I was in the middle of a Test with a capital T.  ffffmp, back into my body, next song up and I finished out my set. After a very weak applause from about a tenth of the audience I walked off stage and stood by the merch booth at the back of the room. CD sales were what we call in the industry ‘slim’, reaching a total of 0. The only interaction I had was an occasional point and stare from a small group, and one drunk guy who came up to me and said, “You may not have noticed but I was watching you. That was just weird.” That was the first of 5 more shows to go.
+
+I tell you these 3 fresh-out-of-college stories because I know they hold important hard-earned lessons that have helped to set my footsteps down a path that is determining my future. So, in an effort to share, here’s what I think I’ve learned:
+
+An open heart and curious mind creates miracles. I believe we discover our true calling not because we intellectually know what it is (even if we think we do) but because we are curious enough & open enough to be found by our true calling.
+
+Fear arises as a sign to let us know we are ready. We are ready for a new challenge.  When we feel fear at doing something… it very likely means that it’s exactly the thing we need to.
+
+And lastly, obstacles arise to help us prepare for what we are here to do in this world. Obstacles are tests. Luckily the outcome of making it through these tests is that challenge after challenge we grow stronger and stronger and continually morph into the vessel that achieves its dream and its purpose.
+
+So with these lessons in mind I say begin the hard work of peeing yourself when you are scared to do something and do it anyway. Let the slanty-eye-making-party-boys in the front row point and stare and you march on with a full heart.  Open your curious mind to possibility, let yourself shift gears from a mountain guide to a special ed teacher, from an environmental lawyer to a self-start green entrepreneur, from a geologist PHD to a full-time father, from a law worker in Beijing to a banjo troubadour.
+
+I’m thankful for retrospection because it brings glory and purpose to moments that really suck.  I’ve let down promoters and managers and myself when only 20 people bought tickets to a show. I’ve gotten tongue-tied and paralyzed on live radio and TV.  I‘ve broken my own heart time and again falling in love with collaborators and then losing them. I’ve compromised a home-life for a traveling life.  I’ve shed tears realizing I was going to sign that “industry-standard” contract that I knew to be unfair and inhumane. I’ve wasted time blaming others even when it really seemed like it was their fault. I have often thought I should give up the life of an artist and go back to school or get a real job not only because I’m worthless and undeserving but because my music actually really does suck. Wow, that’s some pretty wicked internal criticism, right? That’s what I like to call going super dark on yourself. I’m not sharing this because it’s inspiring or uplifting in anyway but because for me, it’s real. And I think you’ll probably have a handful of times in the coming years where you’ll feel dark and worthless, full of shame and stuck, afraid to make a move.
+
+There is something I want so badly for you. It’s that when your 2012 graduation day photo starts to date itself as a lo-res-digital-smart-phone-prehistoric-jpeg and some human is pacing back and forth in a living room somewhere staring at your early-20’s cap’n-gown-graduation-smile and starts to wonder what’s happening to your body below the earth… the way the worms slither up to the surface through your decaying eye sockets and loam and soil push softly and ceaselessly against the wooden box cradling your skull… I want to know that you rest there below the surface assured that the short time you had on earth was not wasted on angst and disbelief, but that this open hearted, life-loving, fear-overcoming, hope-bound human is just safely folding in again to the arms of the warm grinding rhythm of eternity.
+
+I have TWO things I hope you remember from all this, other than, of course, my stunning rendition of Whitney Houston songs and the fact that I’ve been known to pee myself:
+
+THE FIRST THING
+
+When you are outta here, when you are somewhere out there frantically pursuing your masters degree or your internship so completely certain of your path, OR you’re somewhere out there serving coffee all day and wondering what in the hell am I doing with my life…. Take a moment alone. Get a piece of paper and at the top write the word Obituary.  Set the timer for 5 minutes and write freely, fluidly and without judgment what it is you will have done by the time you’re really outta here.
+
+THE SECOND THING
+
+Methodically, repeatedly and continually cultivate your mind and heart for action. The world you create within yourself IS the world you create outside yourself. Overcome the fears inside of you. And as you learn to rise thru the darkness on the Inside, moment after moment, day after day, year after year you will see that on the Outside you are the harbinger of light, the fulfiller of dreams, the maker of World Peace.
+
+Bright morning stars are rising
+Bright morning stars are rising
+Bright morning stars are rising
+Day is a-breakin’ in my soul 
+
+Thank you.

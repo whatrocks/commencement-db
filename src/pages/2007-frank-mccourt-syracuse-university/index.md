@@ -1,0 +1,63 @@
+---
+path: /2007-frank-mccourt-syracuse-university
+year: "2007"
+school: Syracuse University
+speaker: Frank McCourt
+youtube_id: 
+---
+
+Thank you, Chancellor. And thank you for placing me after one of the best and wittiest student speeches I've ever heard. That's a cruel act.
+
+But around the country now--all over this country--in colleges and universities and high schools and middle schools and elementary schools, even kindergartens--they graduate kindergarteners nowadays, with little hats and everything-there are commencement speakers who are saying to the students, "go forth." Have you ever heard a more useless invocation in your life? As if you were going to hang around here for the rest of your lives.
+
+Of course you're going to go forth-that's what it's all about. You have your degree--baccalaureate, masters, Ph.D or whatever it is--and you have big plans. First of all, you have to have lunch. I hope you have it with the family. Some of you are embroiled in romance. Romances that are blooming, romances that are collapsing and, of course, that has to be taken care of too. Love prevails at times like this, and sometimes you're torn between your family and the loved one. Well, go with the family. The romance will pass, I assure you.
+
+So, as the speakers exhort you, go forth. Well, maybe you're purposeful. I never had that sense of purpose myself. As a young man, I was kind of a wanderer; I went from one thing to another, one job to another. I suppose I engaged in that particular American activity called "finding myself." You'll probably find yourself if you have good luck. It's all over then. You don't have to do anything else if you've found yourself. So I think I've spent my life finding myself.
+
+If I know anything, I learned it in the high school classrooms of New York City, where over the course of 30 years, I had approximately 12,000 students--boys, girls, what other sexes exist in New York City, indeterminate. Whatever I know, I've learned from them, because I think I was ignorant. Not illiterate, but ignorant. I'd never been to high school myself. And that's the best way to become a high school teacher--to know nothing.
+
+I think my students understood that I knew nothing. And they helped me, they took pity on me. Especially the girls. The girls thought I was cute at that time. I had black hair, and I had this fumbling, awkward look about me, and they would help. They'd take the attendance, they'd distribute books, get book receipts and so on. The girls took beauty culture. And then they'd say, "Oh, Mr. McCourt, you have such nice hair, but it is a mess. Why don't you come up to beauty culture and we'll do you." Well, I declined that invitation. That was a dangerous invitation.
+
+So I was learning in the classroom. I was learning to get rid of maybe the pomposity that I had developed as a college student at New York University. There were professors of education who really didn't know much about teaching in high schools. A lot of them, if they saw a teenager, they'd run a mile. But they told us all about how to perform in high school classrooms. And I had to learn--this is the point of this whole thing--I had to learn something about myself. I had to take off the teacher mask, which so many of us put on at the beginning; the mask that says: "Well, I'm the teacher and I know it all. You sit there and I'll tell you."
+
+Well, I realized that I knew nothing, and that I was about to learn something, not just about the subject of English, whatever that is. For me, it spilled over into everything--my dreams, my nightmares, daytime, encountering the kids in the hallway. Because, as the Chancellor read a passage from this last book of mine, "Teacher Man," I was everything--a high school teacher, elementary school teacher, everything. It's not like being a college professor. A college professor walks in and stands up there and delivers himself or herself of scholarship and history and English and grammar.
+
+In high school classrooms, there's a lot more going on. There's always something going on. They're always up to something. A lot of it is going on under the desks. They're passing notes back and forth. They're passing lunch back and forth. They're passing all kinds of illegal substances back and forth. And in the beginning, you don't know anything about this, but you're learning and suddenly you see kids who are getting that glazed look in their eyes.
+
+Then there are kids who want a pass. This is something that's not dealt with at schools of education: how to deal with the bathroom pass. Because you know, when you're teaching, if the lesson is successful, they sit there and they look at you. You develop these senses after a while. You know if the lesson is successful. If they start raising their hands and asking for the pass, then you're doomed. Or if they start looking out the window, or if they start dozing off, or if they start scratching graffiti on the desk. New York City classrooms are full of graffiti that goes back ages and ages.
+
+So here I'm learning all the time. After about 15 years in a high school classroom, I was beginning to feel comfortable-beginning to feel comfortable. They don't let you feel comfortable, they don't let you get smug, they don't let you rest on your laurels. You have to hold their attention. There's nothing like it in the world. Some of you may be thinking of becoming high school teachers. Well, more power to you. Do it, because you'll never relax again in your life. But you'll always have stories.
+
+Some of you are going to be very successful; some of you are going to be hedge fund managers. I say that, and I don't even know what the hell I'm talking about. Hedge fund managers, or you're going to be accountants and so on and at the end of the day you're going to go home and your maid or your spouse or whoever will say, "How was your day, honey?" And if you're a hedge fund manager, you'll say "oh, another million," and you'll have nothing to say after that. But if you're a high school teacher--any kind of teacher--you have stories to tell. And then, if you have any kind of facility for language...
+
+What did I say? Oh, there must be future teachers over here. My people. I'll see you later on.
+
+If you're going to teach, you'll always have stories. So this was my career, and all the time, while I was teaching, something was happening, something very subtle. Remember, high school kids have been in school for 10, 11 or 12 years, and they're masters of teacher psychology. They've seen teachers come, they've seen teachers go. Sometimes they're responsible for the teachers going, because when you walk into a classroom, they size you up. They do it instinctively. They do it individually, and as a class, organically. And then they decide whether to let you live or die. I've seen teachers collapse in front of their classes and they had to be carried away and they were given disability pensions, which used to irritate me, because I was yearning for a disability pension. I tried to weep in front of some of these classes, but the kids just laughed and didn't report me to the principal.
+
+So the years passed by and these kids--being master psychologists--would say to me, "So, like, Mr. McCourt"--this is the way they talked--"like, where did you grow up?"
+
+"Ireland."
+
+"Yeah, so like ..." They're trying to get me away from the lesson. Sometimes I planned to teach grammar. Sometimes I was going to devote 45 minutes to the dangling participle, and they sensed this, and they weren't having it. So, "Mr. McCourt, where did you grow up?"
+
+"Ireland."
+
+"So what's it like in Ireland?"
+
+"Wet." 
+
+"So, like, Mr. McCourt..." I used to get so exasperated because they were so good at it--it was a big contest between them and me. "So, Mr. McCourt, are there mostly Catholics in Ireland?" 
+
+"Yeah, we're mostly Catholic."
+
+"So, Mr. McCourt, in Ireland, did you go out with girls?"
+
+"No, sheep. We went out with sheep. What do you think we went out with?"
+
+So this is what you have to deal with. You'd like to think of yourself like a university professor where you go in and you discourse most eloquently, but it wasn't like that at all. And I realized, as the years passed, they kept asking me these questions about my life, and later on they'd say, "You know, Mr. McCourt, you should write a book." So, I do what I'm told. When I retired, I wrote a book. But it was because of standing in front of those classes, year after year after year. Remember, it wasn't like being a university professor. We had five classes a day - not like five classes every two months like the college professors. Five classes a day, 25 classes a week. I don't want to discourage any of you who are thinking of becoming teachers from going into teaching, because it's a huge adventure. I can assure you, you won't be investing much in hedge funds or anything like that. You'll be counting your pennies, you'll worry about having children, and then you'll have to think of sending your children to college and so on. You'll always be pinching pennies. But that's part of the life.
+
+So, you're going forth, and I'm sure most of you will be comfortable. Most of you have these degrees under your belt now. Most of you will be going through the American way of life. You'll engage in that dangerous thing called "security." The next thing is smugness. The next thing is Weight Watchers. And you worry about this. I think at the end of my teaching career, I began to ask myself, "What am I doing in the classroom? How am I trying to affect them?" And I developed an equation for myself; I put it on the board. I write "F" with an arrow pointed to the next day--from "fear" to "freedom." That's it. To free yourself of the stuff that's been imposed on you. I'm not talking about education. I'm not talking about open discourse, but all the dogma that's forced on most of us. I grew up with dogma, and had to spend the rest of my life shedding it. So I think I'm shed of it now. Now I think I can sleep. Now I'm nothing, nothing. My mind is an open book, if it's open at all.
+
+So I've reached this point in my life where I'm doing what I want to do and that's the most beautiful thing of all. Last year in San Francisco a young woman told me she was about to become a teacher, and did I have any advice for her. The only thing I could think of at that moment--I think I knew it all along--was to find what you love, and do it. If you don't love what you're doing, you're dead. Take out insurance. You're dead. And I leave you with a quotation from an old English poem: "Read your scriptures, follow in the path of virtue, and keep your bowels open."
+
+Thank you.

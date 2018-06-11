@@ -1,0 +1,121 @@
+---
+path: /2008-larry-lucchino-boston-university
+year: "2008"
+school: Boston University
+speaker: Larry Lucchino
+youtube_id: 
+---
+
+Mr. President, Trustees, Overseers, faculty, administrators, families, friends, fellow members of Red Sox Nation, and above all, the great Class of 2008:
+
+First, let me thank President Brown for that gracious introduction and welcome. And my thanks to the Trustees for their kind invitation to speak today. As a proud, new son of Boston and a neighbor from down the street, I am well aware of the world-class caliber, the long and inspiring tradition, the prestigious faculty, the enriching diversity, and the gifted student body of Boston University. It’s a great honor to be your commencement speaker, and, on this happy day, I offer my congratulations, and those of the Boston Red Sox, to the Class of 2008.
+
+And it is humbling to receive an honorary BU degree in the company of:
+
+– A legendary tennis player who has devoted her life to gender equality;
+
+– A brilliant industrialist who has dressed several generations and transformed retailing;
+
+– A life-giving doctor who found time to deliver over 8,000 babies and to create a mentoring program for African Americans;
+
+– The generous philanthropist, who has given for decades, his time, his treasury and his heart, to his alma mater.
+
+Congratulations to you all.
+
+Now I know you hoped for a Commencement speaker beloved in Boston – a man known for his popularity, character, and grace under pressure. Unfortunately, Big Papi couldn’t make it. I confess at the outset that I am a near rookie at this. I come, after all, from the world of sports, which I am aware has been referred to as the “toy department of life.” But I do know enough to know the most important thing about a commencement address: be brief! After you’ve worked, studied, struggled for so many years, now comes the hard part: listening to a commencement address. One friend who has given about a zillion commencement speeches gave me some great advice: “Larry, keep it short and let them go party. They’re not gonna listen to you anyway.”
+
+I know my selection is a reflection of the close and historic bonds between BU and the Red Sox:
+
+– We share an urban neighborhood in the heart of a great Boston;
+
+– We share a commitment to serve this city;
+
+– We rely on each other to preserve and improve our local ecosystem;
+
+– We are gathered in a former ballpark built by the same architect who designed Fenway Park;
+
+– And, we have shared memories.
+
+Harry Agganis, one of BU’s most legendary athletes, starred in Terrier football, basketball, and baseball, and went on to play for the Red Sox. Legend has it that during his rookie season in 1954, Agganis hit a home run at Fenway Park, then made his way up Commonwealth Avenue to receive his diploma.
+
+Perhaps most memorably, the Boston University Class of 2008 as freshmen and as seniors helped propel the Red Sox to two World Series Championships in your four years here in town. Unprecedented! Causation or correlation, your professors may ask. We know you guys helped make it happen.
+
+The Boston Red Sox thank you, Boston University and we thank you, Class of 2008, for what you’ve done for us.
+
+Now, my role today is to share a few insights, and offer a bit of advice to you young men and women as you go out into the hard, cold world. Some points aren’t original with me, and you can be sure a baseball executive doesn’t have all of the answers, but I hope to offer suggestions that may be helpful to someone – sometime, somehow, somewhere – along the way.
+
+Let me start with a personal note that is a bit embarrassing. Not long after I completed law school, I kept – enlarged, framed, and posted proudly in my office – a passage written by Brendan Gill, a writer and critic for The New Yorker magazine. He wrote it as encouragement for the young, who, even in the easy-going 1970s, were hearing, in Mr. Gill’s opinion, far too much about what a serious matter life was.
+
+According to Mr. Gill (and my office wall), I quote: “Not a shred of evidence exists in favor of the argument that life is serious, though it is often hard and even terrible. And saying that, I am prompted to add what follows out of it: that since everything ends badly for us, in the inescapable catastrophe of death, it seems obvious that the first rule of life is to have a good time and that the second rule of life is to hurt as few people as possible. There is no third rule.”
+
+For years, I did not doubt this quotation. I have since grasped how limited and even misleading that clever passage really is.
+
+Rules for living, Mr. Gill, don’t stop there. A glib, hedonistic creed is inadequate. So, after three unexpected decades as a baseball executive, and after several decades of errors, missteps, and regrets, I instead offer my personal “Top Ten List,” in no particular order: my list of some of the lessons that life and the world of sports have tried their best to teach me.
+
+Number 10: Give a nod to Mr. Gill. Of course, it is true that life must be fun; also, that kindness is essential – and you do need to work at both. Mr. Gill wasn’t entirely wrong, just terribly incomplete.
+
+Number 9: Be bold – do be prudent – but please take risks, in your personal life, in your career, in your travels, in your geographical choices.
+
+It was probably bold to assume we could move to Boston and acquire the storied Red Sox franchise in 2001.
+
+It was bold to disregard the conventional wisdom that Fenway Park could not and should not be saved.
+
+It was bold to conclude that even a gifted 28-year-old could quickly become a successful general manager – but perhaps not really that risky since he is the son of a distinguished professor and chair of the Creative Writing Department here at Boston University!
+
+In one of my favorite Meryl Streep movies, Defending Your Life, the main character is challenged for a lifetime of caution and timidity: “Fear is like a giant fog. It sits on your brain and blocks everything. Real feeling, true happiness, real joy, they can’t get through that fog. But if you lift it, then buddy, you’re in for the ride of your life.”
+
+So be sure to take some risks. A student once told a commencement speaker that college was a great place to learn about risk-taking. The speaker asked what he meant. The student replied: “Have you ever tasted the dining hall food here?”
+
+Yes, be bold – and be sure you let yourself dream.
+
+Former major leaguer Graig Nettles once said: “When I was a little boy, I dreamed I would be a baseball player and join the circus. With the Yankees, I’ve accomplished both.”
+
+Number 8: Smile, laugh, and be pleasant. This may sound banal and naïve. It is not. It is a profound occupational and personal advantage. Let me quote Elwood P. Dowd, the central character in the unforgettable Jimmy Stewart film Harvey – a man with whom I have come to agree. Quote: “My mother used to say to me, ‘Elwood, in this world you must be oh-so clever, or oh-so pleasant.’ For 40 years I tried clever. I recommend pleasant.”
+
+Number 7: Be strong enough to say, “I don’t know.” When you don’t know or understand something – and such a time may come even after the superior education you have received at BU – when you don’t know, say so. Don’t guess. Don’t fake it. One day at Yale Law School I tried to sling an answer. My distinguished old professor then said, “That is a wonderful answer, Mr. Lucchino. Thank you. It is wonderful because it could not be more wrong, so it is pedagogically very useful to us.” If you don’t have the answer, say so. These seven words often work out well: “I don’t know, but I’ll find out.” You won’t mislead your colleagues, and people will respect your honesty and self-assurance.
+
+Number 6: Remember: life is too hard to be lived alone. Find time for your family. You only get one. “Thank God,” I can hear some of you saying out there.
+
+And, a family of your own will change the way you look at life, at your parents, at your grandparents. “Oh, now I get it,” you’ll say. So, put simply, call home; call your parents, but especially call your mother! And remember, texting doesn’t count. And check in with your grandparents, often the most loyal, loving and supportive people you will ever have in your life.
+
+Ponder this riddle: Why do grandparents and grandchildren get along so well? The answer – and I say it light-heartedly: Because they have an enemy in common.
+
+May I ask the graduates to join me in thanking their parents, their grandparents, their caregivers – those people who made today possible – the people on whose shoulders you stand.
+
+And work at friendship. Develop a talent for friendship. Friends fill a life; they represent perhaps the purest choices you ever make in life.
+
+And, if you work at it and are fortunate, the line between friend and family will become indistinct as you walk through life.
+
+Number 5, which follows from Number 6: Reflect often upon the most important source of knowledge in your student years – your classmates. It’s from them that you have discovered other ways of looking at the world – other ways of living. Stay in touch with the people who matter to you – share one another’s lives. Through sharing one another’s sorrow, you will find life tolerable. Through sharing one another’s joys, you will enhance your life. Long after you have forgot the last fact you crammed for a final exam, remember a lesson learned from a friend or an insight from a classmate.
+
+Who knows how your classmates’ lives will unfold? At my college graduation, the president of my university offered what turned out to be prescient advice as to college roles and those that come later. Quote: “Many of you lesser-known on campus will catapult to prominence in the years ahead, while others well-known to us here will gravitate to the periphery.” Those are wise words. Stay close to your friends here – whether or not fate smiles kindly upon them.
+
+Number 4: Remember Jackie Robinson, although, believe it or not, many baseball players do not. Be mindful of the catalytic effect one person can have on a community, on a neighborhood, on a nation, on a compelling cause or a nagging injustice. Hold within yourself a capacity for outrage at injustice. Be confident that if you fight long enough and hard enough, you too can make a difference. And like Jackie Robinson, you can do it with dignity.
+
+Number 3: Don’t be colorblind. Your world is indeed a rich, open, diverse, multi-colored, multi-ethnic, multi-textured, multi-cultural experience. Declaring that all groups are the same is a deceit; believing that some ethnic groups are better than others is a moral disgrace. Embrace and celebrate the pluralism and diversity that are the essence of American life, indeed the essence of all of life. We aren’t all the same, we shouldn’t try to be. Immerse yourself; enjoy our enriching differences. Opposites allegedly attract; they also educate.
+
+Speaking of opposites, before I wrap up MY list, I want to share some famous advice the inimitable Yogi Berra himself has offered to graduates. Sorry; as a baseball executive, I couldn’t resist:
+
+– During the years ahead, when you come to a fork in the road, take it.
+
+– Don’t make too many wrong mistakes.
+
+– Remember that whatever you do in life, 90 percent of it is half mental.
+
+– Always go to other people’s funerals – otherwise they won’t go to yours.
+
+Continuing with my own list:
+
+Number 2: Seek balance. A rich life is a balanced life. Don’t focus too early on your career. Deviate a bit. Embrace change. A Yale professor of my era once preached: “Everything before age 30 was preface.” Widen your gaze. If you have blinders on, take them off. The world is open, and full of opportunity. And, pay attention to Sigmund Freud’s famous definition of mental health: “to work, to love, and to play well.” And mental health isn’t like baseball – one for three or a .333 batting average isn’t good enough.
+
+Finally, Number 1: Help some people along the way. The famous French soldier and statesman, Marquis de Lafayette, wrote long ago of America: “What charms me most is that all of the citizens are brethren.” We are – and must still be – brethren. Find a cause you care about. Involve yourself. And start early in life. For me, a two-time cancer survivor, cancer research and patient treatment are at the top my priorities, and those of the ever-growing Red Sox Foundation.
+
+Life is not about warming yourself by the fire, life is about building the fire. And generosity is the match. To consider yourself – and to be considered – capable is good. To consider yourself – and to be considered – loving is even better. But to know yourself as generous is best of all. Generosity is its own reward. There is a Chinese proverb that applies. (Isn’t there always?) Roughly it says that if you want happiness for an hour, take a nap, but if you want happiness for a lifetime, help somebody.
+
+In closing, let me say that, if you will pardon the cliché, I was not born yesterday: I know the college years are not necessarily a period of pure and uninterrupted tranquility and bliss. You may well have experienced times of disappointment, of failure, of hurt, and of pain. I hope that you have known, even more, experiences of joy, of satisfying maturation, and of just plain, old fashioned fun. For you parents, there may well have been times of hardship and financial sacrifice. I hope that you too have had much satisfaction and justifiable feelings of great pride.
+
+For graduates-to-be and family members, today is a day to focus on your triumph.
+
+Congratulations to the Members of the Class of 2008. Thank your professors and your mentors. They have pointed the way to the doors: only you can choose the one through which to pass. Walk through it proudly, into the world with all of its uncertainty and all of its magnificent opportunity.
+
+I congratulate you – and with great admiration – wish you long and rewarding lives. God bless you, and thank you very much.

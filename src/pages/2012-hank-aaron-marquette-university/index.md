@@ -1,0 +1,49 @@
+---
+path: /2012-hank-aaron-marquette-university
+year: "2012"
+school: Marquette University
+speaker: Hank Aaron
+youtube_id: 
+---
+
+Thank you.
+
+Whenever somebody says such nice things about me, I think of a certain school teacher I heard about. On the first day of every school term, she always sent a note home with each student in the class. The note read –
+
+“Dear Parent, if you promise not to believe everything your child says happens at school, I promise not to believe everything he says happens at home.” Of course I want you to believe everything the commissioner just said about me. Thank you.
+
+President Pilarz, members of the Board of Trustees, members of the faculty, staff and student body, members of the distinguished graduating Class of 2012, parents, family members and friends of the Classes, ladies and gentlemen, thank you so much for your kind invitation to share this occasion with you. I should tell you that I was far more comfortable standing at home plate at old county stadium waiting for a fast ball than I am at this moment standing behind this podium to deliver the commencement address at Marquette University. I must say this is a bit out of character for me but I am honored by your invitation.
+
+I have known of Marquette since my early days in baseball. In fact, I passed your campus many times walking to County stadium in 1954, my rookie year with the Milwaukee Braves. I had no car, so I walked the three or so miles from the Strater Hotel to the ballpark. I was very much in awe of what I saw of Marquette then, and I must say, I still am. In fact, you have been interwoven in the wonderful memories that I have of Milwaukee and the people of Wisconsin.
+
+A little town called Eau Clair and the city of Milwaukee helped to shape my dreams and my life and helped to mold me into the man I am today. I can never forget that here I found acceptance, encouragement, self-confidence and lifelong friends. At the invitation of one of those friends, Mr. Allan “Bud” Selig, I returned here to play out my career with the Milwaukee Brewers after breaking Babe Ruth’s record. I concluded my 23 years in baseball, hitting my last homerun, number 755, at county stadium in 1976. Today, I return to Milwaukee to celebrate with you the realization of your dream to earn your degree from Marquette University.
+
+Let me first congratulate you for staying the course. Mrs. Eleanor Roosevelt once said that “The future belongs to those who believe in the beauty of their dreams. So my message to you today comes from the words of the poet Langston Hughes and I quote,“Hold fast to dreams, for when dreams die life is like a broken wing bird that cannot fly.” Today I want to challenge you to hold fast to your dreams, for I believe that our hopes and dreams are a motivating factor in our desire to climb the highest mountain.
+
+The Spring season of the year is the perfect time for the rebirth of dreams. Like nature itself, Spring gives us new hope and a new beginning. In baseball, Spring training represents a new season of hope and anticipation of a new opportunity to win a championship. Likewise, Spring commencements provide new opportunities for you to continue to climb the ladder of success. Your years of hard work and study here at
+
+Marquette are cause for celebration. The goal of our lives is to develop our full potential and realize our dreams. For most of us the realization of our dream requires a strong unyielding commitment, hard work and determination.
+
+The 1921 Nobel Prize winner in Literature, Anatole France, put it this way, “To accomplish great things, we must not only act, but also dream, not only plan, but also believe.” My late friend, Dr. Benjamin E. Mays, educator and President of Morehouse College in Atlanta, Georgia, often said and I quote, “The tragedy of life doesn’t lie in not reaching your goal. The tragedy lies in having no goal to reach. It isn’t a calamity to die with dreams unfulfilled, but it is a calamity not to dream.” Dr. Mays went on to say that “It is not a disgrace to not reach the stars, but it is a disgrace to have no stars to reach for. Not failure, but low aim is sin.” Unquote.
+
+From the time I was a young kid in Mobile, Alabama, I dreamed of playing baseball in the major leagues. Being a black kid, of course, that was an impossible dream. It was not until Jackie Robinson broke the color line that I began thinking that maybe if I worked hard enough, I could realize my dream of playing in the Major Leagues. Breaking into the big leagues in the days of segregation was extremely hard. There were many times when I wanted to give up but I kept going and I learned that if you want something bad enough, you have to make the necessary sacrifices to get it. You learn to navigate the circumstances and accept the fact that failure is not an option for you.
+
+I had to believe in myself and my ability to compete. During both the season and the off season, I worked hard at staying focused, staying healthy and keeping my body fit. I set goals at the beginning of each season and each time I achieved one goal it gave me the confidence to reach for a higher goal. I learned to be patient when I got in a slump. I learned to wait for my pitch before swinging the bat.
+
+The temptations that exist today to take short cuts to success were not around in my days. So I can’t say how valid my response is to the often asked questions about steroids. I’d like to think that I would have rejected any kind of drugs that did not meet the approval of the team doctor. I talk to a lot of kids today who dream of playing baseball. What I say to all of them is simple, to stay away from substances that will harm your body. Be patient and work hard to develop your skills. There is no substitute for excuses, hard work and determination.
+
+There are absolutely no acceptable shortcuts to success in life. Cheating for whatever reason and in any field is wrong and is at best a temporary solution to a greater problem. At some point, quick fixes will come back to haunt you and might destroy your body and your dreams.
+
+Great or small, your accomplishments thus far will follow you for years to come. For what you do with your life and how you do it is not only a reflection on you, but on your family and all of those institutions that have helped to make you who you are. My mother used to say to me when I was a boy “Don’t forget you are my son. Don’t bring no shame to this family.” By the look on her face when she said it, I knew she meant it, and I knew what the consequences would be if I misbehaved.
+
+When I retired from baseball in 1976, I had accomplished everything that I set out to accomplish. I felt good about myself and my accomplishments but my reflexes had slowed, my eyesight was dimming and my body was signaling, every time I went to the plate, that it was time to quit, and so I did.
+
+My success in baseball helped me realize my responsibility to give back to my community. To that end, my wife Billie and I founded the Hank Aaron Chasing the Dream Foundation in 1994. With the help of my friends, Bud Selig and Joe Kennedy, and many others of course, we have provided scholarship assistance to some 850 kids and young adults to help them chase their dreams.
+
+Thanks to the Milwaukee Brewers, we have for the past 10 years continued to provide assistance to 23 or so “dream chasers” in the Boys and Girls Clubs here in Milwaukee. Three years ago with the generous assistance of Commissioner Bud Selig, we started a new program in partnership with the National Boys and Girls Clubs called “44 Forever.” This program will allow us to assist 44 kids a year between the ages of 12 and 17 in perpetuity.
+
+Through this program of giving back to our community, we are living our dream. You are among the fortunate few to have been educated by some of the best minds in higher education. You must now pass on to future generations life’s lessons learned here. Our country is in great need of your talent and your services. In good times and in bad times, you will be expected to make the best of the educational opportunities that you have been given.
+
+So, I challenge you to hold fast to your dreams and always remember, as one writer has said “each of us has something unique to offer the world, if only we have the courage to dream and the determination to make our dreams come true.”
+
+Congratulations to you all and may God bless each and every one of you!

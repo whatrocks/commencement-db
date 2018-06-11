@@ -1,0 +1,38 @@
+---
+path: /2004-earl-bakken-university-of-hawaii
+year: "2004"
+school: University of Hawaii
+speaker: Earl Bakken
+youtube_id: 
+---
+
+Aloha to Chancellor Rose Tseng, distinguished faculty, graduates, parents, and other honored guests. Thank you for the opportunity to address these marvelous young people today. I would like to congratulate each of them for the work, time, and effort they have put into their degrees. Francine, wherever life takes you, please stop at a Medtronic office. Your talents in psychology and communication are much needed by our company. We have over 2000 job openings in 120 countries and every major city on the U.S. mainland.
+My compliments also to your department of Hawaiian Studies and Languages; this is a grand thing for our state. We must preserve the Hawaiian culture and language for future generations. The spirit of aloha contains much wisdom and compassion.
+
+I would like to recognize three friends of mine who are here today. Together we hope to bring some major advances to the island. Max Goldberger is an alternative energy expert; Ron Toms is a rocket scientist; and John Craven is a submarine expert and Naval scientist. My aloha to all of you.
+
+My talk this morning will be on five habits that will be important to you when you leave this university. They are often overlooked, but have meant a lot to me.
+
+1. Pick a company or organization that is dedicated to helping humanity. 
+
+Then your life will be dedicated to a worthy cause. In 1949 I started a company called Medtronic to repair medical electronic equipment. We began with two people, and now have over 31,000 employees in 120 countries around the world. In our first month we made eight dollars; this year the implantable electronic devices Medtronic has developed will make nearly nine billion dollars.
+
+In 1960 Medtronic created a mission statement, something not often done at the time. The company’s mission became my personal mission. Two weeks from now, I will be leading a "mission ceremony" in Minneapolis for 300 new employees who are making Medtronic’s mission their own.
+
+One of our products is now implanted someplace in the world every six seconds. These devices can save a life or make a sick person well again. With millions of people receiving these devices, I am continually running into them. They say, "Mr. Bakken, I am alive because of your work," or "Mr. Bakken, you gave my child a good life she could not have had without the device." The experience is always very moving, very satisfying. If you join the right company or organization you will receive this kind of gratitude.
+
+2. Do more work than is required.
+
+Find ways to go beyond the specifics of your task. Learn new things. Find work outside your direct assignment. Through high school I worked summers. My job was to run the copying machine. I started learning to use a desk comptometer on my lunch breaks. The boss needed another person to do the billing, and I got the job. Today, I still work all week, as well as most weekends and holidays. You need a strong passion and enthusiasm for your work. Above all, be on time! Surprise people.
+
+3. "Ready, Fire, Aim."
+This is the approach I have used all my life. There are always decisions to be made. In my experience, it is better not to get caught up in over-analysis of a problem. Many of the decisions at Medtronic were made very quickly. The first pacemaker took only four weeks from concept to first use. The original design was not perfect, of course, but it worked. So if you feel positive in your gut, in your na ‘au, about your idea – do it. Don’t get stuck in the limbo of "Ready, Aim...Aim...Aim..."—and let someone else do the "Firing." Be there first!
+
+4. Study continuously.
+Knowledge is increasing so rapidly—it is exponential. With the way things are going, the technical information you have learned in school will be obsolete in two years! You need to continue to read and learn all of your life. Today I receive 178 magazines and journals. I can’t read them all and mostly scan them, but I try to keep up. Continue the joy of learning, always.
+
+5. Dream "out of the box." Be creative!
+The North Hawaii Community Hospital is very different from any other hospital in the world. It is designed to help heal the patients, rather than as a warehouse for their sick bodies. Making the building a part of the healing environment—with skylights, wide halls, and music—is what we call "blended medicine." The devices developed by Medtronic, the programs at Tutu’s House, the "Just Think" Mobile, the Bakken Museum, my "off the grid" home at Kiholo Bay—all these are "thinking out of the box."
+Live your life according to these five principles and follow your dreams. You can shape the future to make your dreams come true, but you must work for it. Don’t just hope it will happen.
+
+By all reckoning, the bumblebee is aerodynamically unsound and shouldn’t be able to fly. Yet, the little bee gets those wings going like a turbo-jet and flies to every plant its chubby little body can land on to collect all the nectar it can hold. Bumblebees are the most persistent creatures. They don’t know they can’t fly, so they just keep buzzing around. Like the lowly bumblebee, honored graduates, never give in to pessimism. Don’t know that you can’t fly, and you will soar like an eagle. Don’t end up regretting what you did not do because you were too lazy or too frightened to soar. Be a bumblebee! And soar to the heavens. You can do it. Godspeed to you all.

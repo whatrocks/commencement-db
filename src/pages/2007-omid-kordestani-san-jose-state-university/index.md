@@ -1,0 +1,83 @@
+---
+path: /2007-omid-kordestani-san-jose-state-university
+year: "2007"
+school: San Jose State University
+speaker: Omid Kordestani
+youtube_id: 
+---
+
+It’s a privilege to be here with you today at your commencement and the 150th anniversary of this very special institution.I remember sitting in the same stadium for my graduation ceremony back in 1984. I know very well that I face a big challenge today as most of you will definitely not remember a single thing I say today.I figured I have two options. I can talk about you or I can talk about me. I realize if I talk about me, the subject is of great interest to me, but maybe not to you. So I’ll try to only talk about me as it relates to you.
+
+I recently read an article on the Y-generation, listen carefully this is the part about you.You are a completely different generation. You are your own and I can’t decide whether I’m happy or scared for the way you’ve grown up. I realize this assumes you have grown up.I know that about 80% of the males in the audience have not yet. Actually, there’s about 50% of the males in the audience who will never grow up. Ladies, please stay away from them.
+
+I asked President Kassing for a demographic profile of the graduating class, and it was helpful. But as Bono would say, I still couldn’t find what I was looking for.I’ve learned a little bit about search over the past few years, so I put my searching skills to work.
+
+First stop, I logged into Myspace to see what students from the class of 2007 were doing. Wow, I’m not going to tell your parents, but you should really keep that kind of stuff under the radar, gang. Anyways, what I realize is that Myspace has become a practical dating service. Just meet a girl on Myspace, within your zip code hopefully. Look her up on Facebook to see what her friends say about her. Search for her name on LinkedIn to find out her career goals. Find her Flicker account to see what she really looks like and if she has cute friends. Then of course, you Google her to see what she has done with her life up until now.
+
+With all that information at your fingertips, I’m not sure what you would talk about on the first date. So you may not even be able to go on an actual date. Just send your alter ego on a second life virtual reality date, and let your digital self figure it out. Is that how it works?
+
+Alright, now that I’ve got your attention let me challenge you by pointing out that not only will you forget most of my speech, you’ll also sadly forget most of what you are taught here. And in fact, if you follow my path and get a higher degree, you’ll forget most of that, as well like I have 16 years out of Stanford Business School. Over $100,000 of my parent’s hard earned cash, and loads of student loans later, and I have no detailed memory of anything I learned.
+
+So what helped me to succeed then? This morning I want to tell you about a few key moments – I call them aha moments – that I’ve had throughout my life. And I’m sure you have already had a few yourself. These are points in time in my personal history when all the pieces of the puzzle came together and a light bulb switched on for me.
+
+My first aha – to keep my edge, I must think and act like an immigrant. Stay with me. There is a special optimism and drive that I have benefited from and continue to rely on that I want all of you to find. This country was founded by immigrants. The genes of that unbounded optimism and free thought are in all of you.
+
+Our incredible constitution and bill of rights, perhaps the most precious written words and framework for a society, are examples of the human achievement that is possible when you benefit from the kind of optimism that I want you to find within ourselves.
+
+I think I was 14 when I realized it matters more how brave your mother is than where you were born. I was born in Tehran, the capital of Iran, a beautiful country with some of the most hospitable people you can find on the planet and more than 5,000 years of history. Unfortunately, today it is also working through a complicated mix of religion and politics internally and geopolitical challenges in the region.
+
+Optimism there today is alive and well in the hearts of the 70% of the population, just like you, who are under the age 30. I was 14 when we left Iran, a few years after we lost my father to cancer. My mother wanted to make sure my brother and I had unhindered access to education. So we had left Iran and were staying in England and planning to take up residence in the UK when my aha moment came.
+
+I’m sure many commencement speakers probably quote Abraham Lincoln or Plato But today I am going to tell you that it wasn’t a former president or philosopher that inspired my aha. For me, it was a hit American TV show about a middle classAfrican American couple known as The Jeffersons. There was this incredible optimism that came through the show. And that hope is what drew me to this country. Even the Jeffersons theme song was inspiring. It was called Moving On Up. I had originally planned to sing it for you in case you’ve missed the reruns. But my ten year old daughter begged me not to.
+
+What the show embodied, what it illustrates for me, was a family pursuing the American dream. And they were moving on up. My image of the United States at the time came from the show. And it all looked very exciting in Manhattan, New York. One night, just one month into settling into our new home in England, I was dreaming of Manhattan.
+
+I told my mom we should move to the States. I just feel that it can be a happy place for us. That’s at age 14 by the way. To my amazement, my mom agreed, sold the house, took my younger brother back to Iran, and a year later we immigrated to the US, thanks to a dear friend of my dad whose son was studying civil engineering at San Jose State University.
+
+I won’t talk about how San Jose looked different than Manhattan, New York. There is something very special about being an immigrant in the US. You come here, and you just don’t believe anyone or anything can make you fail. It is shocking how much confidence you have as an immigrant. Inherently, you’re a dreamer and a fighter. You come to this country to prove something to yourself, to really do the best you can in your education, the best you can in your profession, to build a life and be successful.
+
+With the unshakable determination of an immigrant, you can make things happen. So I encourage all of you, those who were born here and those who were not, to act like an immigrant and think like one. Don’t let anybody tell you that there’s some obstacle that you can’t overcome or some dream that you cannot realize. Believe in your immigrant roots, embrace and nurture that edge, and act on your aha moments.
+
+My second aha, follow your instincts not the money. I’m a huge believer in following your intuition and the power of that little voice inside of you. You’ll make good decisions if you follow your passion and don’t base your decisions on money. I have probably one of the best jobs in the world. I work at Google, and I love it, because it’s fun. I’m the business chief. Some call me the business founder. My job is about running Google’s revenue and partnership operation.So basically, anything that touches our customers and our partners is my job.
+
+Roughly half the employees of Google, about 6,000 people, in about 70 offices around the world work in my organization. And when I jump out of bed, that’s what keeps me excited to walk, drive, or fly to my job every morning. I do a lot of flying these days. I look like a plane. Google is a fantastic place to be. But I’m 100% certain that I would not be there if I hadn’t listened to my gut, or if I had let money get in the way.
+
+Here are two stories that’ll illustrate that. As an undergraduate at San Jose State, I studied electrical engineering. That’s what you do when you come from Iran. You either study engineering or medicine. As a student here, I took advantage of one of the many stand out components of the undergraduate program here, the career placement service. It was in the placement office that I had this second aha moment.
+
+I had engineering offers from several companies in the Valley. However, I always dreamed of working for the premier tech company of the time, Hewlett Packard. So I met a recruiter from HP at the placement office on campus. The recruiter looked at me and said, you have this outgoing personality, and I think you’ll really enjoy dealing with customers. Are you sure you want to be an engineer?
+
+I said, of course, because I had studied engineering, so I was going to be an engineer. But that moment at the placement office, on this campus, really changed the course of my life. When I really listened to the voice inside, I actually wanted to be something else. It’s about trusting those instincts.
+
+Eventually, he and a marketing executive at HP convinced me to consider product marketing at HP, which was a job that required a technology background, but which was more of a business role. So I went to HP and started to do product marketing. Seven years later at another crossroad in my career, I had a similar aha moment.
+
+At the tail end of business school, I became caught up in the investment banking frenzy. I convinced myself that I needed to be a banker for the big bonuses that would pay off the loans.I made it to the final round of the interview process with a bank called Robertson Stephens, when the director of the bank invited me to a baseball game. I really thought I had made it. But then he started asking me all of these questions. Tell me what was wrong what HP. What was wrong with the tech industry? All these negative questions.
+
+Being a positive person and having that immigrant, no obstacle is too great mentality, and by then believing in marketing I said, here’s what I would do, here’s what I would fix, this is what I did at HP, et cetera. After the baseball game I thought, home run for me. The offer was going to be in the mail the next day. What happened? No calls. No news by the end of it. I was worried so I called the director, and he said, sorry Omid, you’re just too positive for this business. And I said “What?” He said, “As a banker, it can be dangerous to be too positive. You have to put the company you’re evaluating down below the line and have them crawl their way back up. You’re too much of a believer, and you’re not objective enough. So we don’t want to make you an offer. Good luck out there.”
+
+Remember that immigrant edge I told you about. The one that can make you find a way to cut through anything. Well, it kicked in. And while still on the phone, and after already being rejected, I convinced him to give me the job.
+
+So he offers me the job. And I walked back to Stanford, and I notice there’s a brown bag lunch being hosted by a new startup called GO Corporation. It was a PDA company and a precursor to all the hand held devices–Trio, Palm, Blackberries–which you are all probably using right now to text and email about tonight’s big party, instead of listening to me. I went to the presentation, and as I sat there my emotions and my heart was saying this is what I want to do–not the bank. And I had another aha moment.
+
+I realized that I had been mesmerized by the money. I was about to work in a big beautiful bank in a sexy San Francisco high rise. But in my heart, I knew that the finance world wasn’t for me. My real passion was being in the Valley. It was technology, and it was being an entrepreneur and a startup guy, wanting to build something.
+
+So in the end I left the Robertson Stephens offer on the table and joined the company I had seen at the brown bag lunch. I knew I wasn’t going to make the money that the investment banking position would have afforded me. And in fact, even with an incredibly talented team of people at the GO Corporation, we ultimately failed. But I was so much happier, because I followed my passion.
+
+I learned a ton, and developed relationships that ultimately helped me develop my career. This is what I mean by following your instincts. That critical switch set me on a path of one start up after another until I finally came to Netscape. While still at Netscape, my old boss from a previous start up suggested I meet with two young computer scientists that had recently launched a search engine called Google and had just left the garage. The end of the story is clear now. But I would not have made it there if I’d gone the investment banking group or the engineering path that I was on when I left this great school.
+
+It just shows you these decisions are not just about math or advice from your parents and friends. But it’s about instinct. You should consider input from all sources, but in the end it has to be right, and it has to fit.
+
+My third aha moment– it’s all about the path. Let me explain. Before going to college, I thought I wanted to be a doctor until my mother, who was a nurse, painted this life of long hours and difficult work family balance. Little did she know that work life balance is just as elusive in Silicon Valley and the land of startups.And that the new model here, perhaps not that healthy in the long run, is more of a work life blend, instead of a balance. Thanks to a strong partner in life, I have a wonderful family that deals with this blend every day and supports me at every step. They’re all here with me today.
+
+You’ve probably been looking forward to this day for a long time. So have your parents. And as you look around and take in the size of the crowd, you in your cap and gown, all of those exams and classes behind you, yes they are, you might not believe that you’ve actually made it, that you’re actually here. You are indeed done with school for now. But let me submit to that you’re not done with learning or understanding your ultimate path in life. You may think you’re an engineer, if you’re graduating with that degree but perhaps you’re the next best organic food or green technology entrepreneur.
+
+You may have studied philosophy but you may actually become the most amazing artistic director of an international ballet company. Don’t be defined or limited by the steps you’ve taken in life or the degree you’ve chosen. Don’t worry that you have no idea what to do next. Or even if you do, don’t get so married to that idea that you miss your aha moments. Get started. But be very honest with yourself. Listen to your gut. Take risks. Be positive. Don’t be afraid of mistakes. Keep learning and growing. You’re only just beginning to understand what you want to be. The path is long and varied and your education and degree was only a priceless first step.
+
+In closing, tomorrow will be your first day in the real world. And as your parents have been telling you for years, it’s much different than the cocoon of campus life. Unlike what we learned in geometry or calculus, for those of you who remember, in the real world sometimes the only way to figure out the proof is to challenge the givens.
+
+Always push yourself. Think like an immigrant. Keep putting yourself outside of your comfort zone. You’ve always been taught to plan ahead and be calculated with your decisions. But this is your startup phase, your chance to keep an open mind and experiment. Certainty is a moving target. Our first few steps won’t be perfect. They never are. But missteps are not missed steps at all. They are opportunities for learning and a new perspective.
+
+I would like to leave you with one last thought. I went to my son’s second grade class this year and his teacher, Mrs. Woodbridge, was talking about her philosophy based on lessons from five year olds to 95 year olds. Sitting at my son’s desk, I learned an important lesson that can sum up all the advice I’ve given you today.
+
+In life, you make the small decisions with your head and the big decisions with your heart. Follow your heart and do listen to those aha moments in life.
+
+Congratulations, and all the best to you. Thank you.

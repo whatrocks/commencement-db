@@ -1,0 +1,49 @@
+---
+path: /2008-jessica-lange-sarah-lawrence-college
+year: "2008"
+school: Sarah Lawrence College
+speaker: Jessica Lange
+youtube_id: 
+---
+
+You are our hope. So cherish this time in your life. Remember who you are. Because, right now, you have it all: The power of your imagination, the velocity of your dreams, the language of innocence, and the passion of a beginner. Don't lose it. Don't let it evaporate or get stripped away or worn away. And, as time passes, if you find you've come far away from yourself, allow the breeze of humility to remind you of who you were—who you really are.
+
+Henry James said, "To live is such an art..."
+
+If, from my vantage point now, I could tell my 22-year-old self what I now believe is the most important thing in life (and one I didn't embrace fully at the time because I was young and willful and reckless), it would be—to be present. I would encourage you, with all my heart, just to be present. Be present and open to the moment that is unfolding before you. Because, ultimately, your life is made up of moments. So don't miss them by being lost in the past or anticipating the future. Don't be absent from your own life.
+
+You will find that life is not governed by will or intention. It is ultimately the collection of these sense memories stored in our nerves, built up in our cells. Simple things:
+
+A certain slant of light coming through a window on a winter's afternoon
+The sound of spring peepers at twilight
+The taste of a strawberry still warm from the sun
+Your child's laughter
+Your mother's voice
+These are the things that shape our lives and settle into the fiber of our beings. Don't take them for granted. Slow down for them, they will take root. And someday 20-30-40 years from now, you may be going about your day when by chance the smell of bread baking or the sound of a mockingbird singing will stop you in your tracks and carry you heart and soul back to yourself. Moments of pure happiness, bliss—if you feel comfortable using that word—come upon you unexpectedly. Don't be too preoccupied to experience them.
+
+We need to slow it all down. I wonder sometimes why we can't just sit and do nothing. Why can't we enjoy idleness—the art of doing nothing. Perhaps it's not in our cultural DNA. We are goal oriented, result driven. Success is measured in how much we can get done.
+
+We seem to have no time for stillness. What is this desperate need we have to fill the emptiness with iPods, Blackberries, cell phones, computers, video games, and television? Perhaps we should ask ourselves, how do we really understand pleasure and happiness? The Tibetan Buddhists have a saying, "Tomorrow or the next life—which comes first, we never know."
+
+So I encourage you—don't keep anticipating that your life is up ahead of you. Don't always be waiting for the next thing. Don't put all your energies into some idea of the future. And with that in mind, you open the door to endless possibilities. Just allow life to take you on an adventure. Be receptive to the winds of change.
+
+I graduated from high school in a worn-out little mill town in Northern Minnesota. Art was going to be my way out. I went to the University on a scholarship and entered the fine arts program. I imagined I would study—get my B.F.A., go on to get an M.F.A. Devote my life to painting. Then the second quarter of my freshman year the drawing class I wanted was filled. At the last minute I signed up for a photography class. My photography instructor introduced me to his friends, young photographers. They were leaving for Spain to make a documentary about flamenco Gypsies in Andalusia. And they asked me, did I want to come along? Yes, I said.
+
+We lived in Europe for that year. When we returned to the States, we settled in New York. The early SoHo days. They had a friend they introduced me to—a modern dancer from the Merce Cunningham Company—who was starting an experimental theater company. She asked me if I wanted to dance with them. I said yes.
+
+A man who had worked with the great mime master, Etienne Decroux, was in New York and came to give us classes. I fell in love with mime and when I learned Decroux still lived and taught in Paris, I decided to go study with him. With $100 in my pocket, I went to look for this old man. I lived in Paris for the next three years taking classes.
+
+I felt I had finally settled in. I never imagined leaving Paris. At the school, I met some actors from New York. On a return visit to the States I ran into one of them. He asked if I wanted to come along to one of his acting classes to see what it was all about. "Yeah, yeah, why not?" I wasn't doing anything. I discovered an immediate passion for acting. It seemed to bring everything together for me. I decided to stay and study.
+
+Suddenly, my life was in New York, working as a waitress and taking acting classes. I imagined it would be a long and steady process. I'd start auditioning, first for showcase theaters, then Off-Off-Broadway—work my way up until, finally, someday, maybe Broadway.
+
+Then, one day, I was asked if I wanted to audition for a film. I would have to fly to Hollywood to do a screen test. It was like something out of an old movie. I didn't want to do film—my life was supposed to be in the theater. But it was winter in New York, I was broke, and my sister was sailing up the coast from Mexico and would be in California—I wanted to go see her. So I said, "yeah, why not? I've got nothing to lose."
+
+They picked me up from my fifth floor walk-up in the Village, flew me to Los Angeles, and took me to MGM to do a screen test. I did it and they gave me the part. And so began a new and totally unexpected chapter in my life.
+
+So, I guess the point I want to make is this—there was no way I could have ever anticipated or planned the twists and turns my life took in those six short years. Sometimes, you just have to let life take you on its glorious journey. And the best time to do it is now—when you're young and full of curiosity and have no fear. Don't constrain yourself with expectations of success. Success will be a by-product of the life you lead. All success is individual, and sometimes, as in my case, completely accidental.
+
+So today you are setting off on your next adventure. You are beginning, and what makes beginnings so thrilling is the unknown. What is vital is this initial confrontation with the unknown and how you decide to embrace it. The world is waiting for you. Explore it through your own humanity. Be guided by your higher self. Don't be dissuaded or discouraged, but do allow yourself to be sidetracked if that's what you want. Get off the fast track, off the grid—go out and wander.
+
+I hope that you will commit yourselves to the pursuit of peace—to the practice of tolerance and compassion. And be good stewards to our precious Earth. I wish you all the courage to have an adventurer's heart and a life lived in the moment.
+

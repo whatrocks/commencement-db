@@ -1,0 +1,33 @@
+---
+path: /1998-roger-rosenblatt-brigham-young-university
+year: "1998"
+school: Brigham Young University
+speaker: Roger Rosenblatt
+youtube_id: 
+---
+
+Members of the class of 1998: In an effort to alter history, I would like to give you students a commencement speech that is both memorable and useful. It consists of a list of jobs that are readily available to young college graduates, but are rarely , if ever, considered to be within their reach. The mistake made by most of you is that you aim too low - assistants to administrative assistants and the like - whereas the positions I am about to describe are not only exalted and high paying; they also require little or no work, experience, training or knowledge. Thus they are exceptionally well suited to graduating seniors. Here, then, is a sort of ‘unclassifieds’ of exciting opportunities waiting for you:
+
+President of the United States. This job is often avoided by students because it necessitates living in Washington and has an age requirement. But the position is very worthwhile. Recent grads would make excellent U.S. Presidents because they usually are single, and can get into less trouble than a married President. The “work” does not require that one have been President of some other place, like China. And it lasts eight years at most, after which you’ll have plenty of time for golf and dating. Perks include free food, you own seal, protection by the Secret Service (when they’re not out testifying), and a loyal staff, consisting of such people as Dick Morris and Linda Tripp.
+
+Drug Czar. A most enjoyable and relaxing job, it has the added distinction of being the only government post named for a Russian. Its best feature is that while it requires no effort, it also demands no successes. As drug czar all you need to do is claim, every few months, that you are eradicating the nation’s drug problem. Everyone will understand that you’re kidding. The person who accomplished the least in this position, and was therefore the most successful, was William Bennett, who was equally successful as Secretary of Education, an office that he recommended be abolished once he left it. Mr. Bennett is currently the spokesperson for national morality.
+
+Spokesperson. It’s easy. I’s fun. And it could be you! Simply find someone in the news, preferably under indictment, and do all his/her public speaking. In no time, you will be that someone in the news. Then you can hire a spokesperson. Infinite possibilities.
+
+Expert Expert. When an individual mishap occurs, and the press wishes to suggest that it signifies a national epidemic, who they gonna’ call? As a expert expert, simply be prepared to show up on TV and warn the public about the ‘lessons’ of everything from frostbite to shark attacks. Make something out of nothing! Offer solutions! Create jobs for others!
+
+Historian. You probably think that becoming a historian demands a Ph.D. and long study, but today anyone may be so designated if he/she remembers anything. Recent grads may become historians if they, say remember the ’80s. You can appear on your own cable channel, and rake in big fees on the lecture circuit. But you will have the most fun simply making up history. Who will correct you? Did somebody say ‘Professor’?
+
+Talk-Show Host. (See President of the United States.)
+
+Celine Dion. Claim to be Celine Dion. She’s everywhere, so who’ll know? Only requirement is that you sing the love song from Titanic all year. Your career will go on and on.
+
+Plagiarist. Talk about easy! Why write your own material when others have done it for you? With careful choices, a good plagiarist can produce dozens of articles or books a year and make a fortune. Don’t worry about being caught. If you have to apologize, just say, ‘An error was made.’ Nobody cares.
+
+Media Critic. Now here’s a job you can do at home. You don’t even need to have been a model member of the media to criticize them (see Plagiarist), and many find they are better at it in inverse proportion to their abilities. The ‘work’ is not only easy but also exclusive; no one but members of the media will pay attention! With luck you can join the faculty of a journalism school and take a whole year ‘teaching’ a ‘subject’ that a slow 12 year-old could pick up in three weeks.
+
+Publishing Giant. As long as you don’t hold the fuddy-duddy notion of books as literature, you can be a publishing giant (and be invited to all the best parties!) without lifting a finger. Simply sign up a major criminal or disgraced public figure to a lucrative book contract. That’s it! You don’t even need to produce the book. Who’ll notice? Eventually you may be fired, but think of all the celebrities you’ll rub elbows with. And you can always become a media critic or historian.
+
+Celebrity Lawyer. Time was when new law-school grads had to suffer years of obscurity laboring in the stacks of some stuffy firm. Now you can go straight to TV and be rich and famous instantly. Just be sure to shout, interrupt and call your opponents idiots. Do not expect to achieve the charm or personal appeal of a Alan Dershowitz or a Marcia Lark right away. But in a very short time you’ll be building a name for yourself and a clientele! Why chase ambulances when the ambulance can come to you?
+
+There you go. Congratulations and good luck. Remember: there’s a great country out there. Take it.
