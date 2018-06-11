@@ -3,7 +3,7 @@ path: /2005-steve-jobs-stanford-university
 year: "2005"
 school: Stanford University
 speaker: Steve Jobs
-youtube_id: 
+youtube_id: "D1R-jKKp3NA"
 ---
 
 I am honored to be with you today at your commencement from one of the finest universities in the world. I never graduated from college. Truth be told, this is the closest I've ever gotten to a college graduation. Today I want to tell you three stories from my life. That's it. No big deal. Just three stories.
