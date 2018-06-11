@@ -1,28 +1,728 @@
 {
   "assetsByChunkName": {
+    "path---1999-kurt-vonnegut-agnes-scott-college": [
+      "path---1999-kurt-vonnegut-agnes-scott-college-e42f18395e2e447074fa.js",
+      "path---1999-kurt-vonnegut-agnes-scott-college-e42f18395e2e447074fa.js.map"
+    ],
+    "path---1962-john-f-kennedy-yale-university": [
+      "path---1962-john-f-kennedy-yale-university-6918deff71b5f1665eda.js",
+      "path---1962-john-f-kennedy-yale-university-6918deff71b5f1665eda.js.map"
+    ],
+    "path---2013-joss-whedon-wesleyan-university": [
+      "path---2013-joss-whedon-wesleyan-university-7cb22a35b31064a8926e.js",
+      "path---2013-joss-whedon-wesleyan-university-7cb22a35b31064a8926e.js.map"
+    ],
+    "path---2009-paul-hawken-university-of-portland": [
+      "path---2009-paul-hawken-university-of-portland-8e81ff70269e74847ac8.js",
+      "path---2009-paul-hawken-university-of-portland-8e81ff70269e74847ac8.js.map"
+    ],
+    "path---2011-whoopi-goldberg-savannah-college-of-art-and-design": [
+      "path---2011-whoopi-goldberg-savannah-college-of-art-and-design-f9560db1fc34be4a2765.js",
+      "path---2011-whoopi-goldberg-savannah-college-of-art-and-design-f9560db1fc34be4a2765.js.map"
+    ],
+    "path---2011-tom-hanks-yale-university": [
+      "path---2011-tom-hanks-yale-university-3d148f5858824878b265.js",
+      "path---2011-tom-hanks-yale-university-3d148f5858824878b265.js.map"
+    ],
+    "path---2007-robert-ballard-connecticut-college": [
+      "path---2007-robert-ballard-connecticut-college-586a7c0d60fb969a50ee.js",
+      "path---2007-robert-ballard-connecticut-college-586a7c0d60fb969a50ee.js.map"
+    ],
+    "path---2008-meredith-vieira-tufts-university": [
+      "path---2008-meredith-vieira-tufts-university-f8a9b10665b861569f56.js",
+      "path---2008-meredith-vieira-tufts-university-f8a9b10665b861569f56.js.map"
+    ],
+    "path---1996-nora-ephron-wellesley-college": [
+      "path---1996-nora-ephron-wellesley-college-2512471a97464ef3996d.js",
+      "path---1996-nora-ephron-wellesley-college-2512471a97464ef3996d.js.map"
+    ],
+    "path---2014-alexis-ohanian-carthage-college": [
+      "path---2014-alexis-ohanian-carthage-college-995f1f8fce33351ecc8d.js",
+      "path---2014-alexis-ohanian-carthage-college-995f1f8fce33351ecc8d.js.map"
+    ],
+    "path---2015-chimamanda-ngozi-adichie-wellesley-college": [
+      "path---2015-chimamanda-ngozi-adichie-wellesley-college-f2cd38df9899f87ff307.js",
+      "path---2015-chimamanda-ngozi-adichie-wellesley-college-f2cd38df9899f87ff307.js.map"
+    ],
+    "path---2010-michael-oren-brandeis-university": [
+      "path---2010-michael-oren-brandeis-university-2725c99e2d3cddf3092b.js",
+      "path---2010-michael-oren-brandeis-university-2725c99e2d3cddf3092b.js.map"
+    ],
+    "path---2003-benjamin-carson-jr-niagara-university": [
+      "path---2003-benjamin-carson-jr-niagara-university-ca80c145833b823f1ae4.js",
+      "path---2003-benjamin-carson-jr-niagara-university-ca80c145833b823f1ae4.js.map"
+    ],
+    "path---2010-cory-booker-pitzer-college": [
+      "path---2010-cory-booker-pitzer-college-a9481ad393904407cebf.js",
+      "path---2010-cory-booker-pitzer-college-a9481ad393904407cebf.js.map"
+    ],
+    "path---2008-angela-ahrendts-ball-state-university": [
+      "path---2008-angela-ahrendts-ball-state-university-461a6b9813932dfe68df.js",
+      "path---2008-angela-ahrendts-ball-state-university-461a6b9813932dfe68df.js.map"
+    ],
+    "path---1983-warren-burger-pace-university": [
+      "path---1983-warren-burger-pace-university-648a8736591a7889f4a8.js",
+      "path---1983-warren-burger-pace-university-648a8736591a7889f4a8.js.map"
+    ],
+    "path---2013-drew-houston-massachusetts-institute-of-technology": [
+      "path---2013-drew-houston-massachusetts-institute-of-technology-4fbe148ef990435acdb1.js",
+      "path---2013-drew-houston-massachusetts-institute-of-technology-4fbe148ef990435acdb1.js.map"
+    ],
+    "path---2009-arnold-schwarzenegger-university-of-southern-california": [
+      "path---2009-arnold-schwarzenegger-university-of-southern-california-389a5dcc818cf03736e2.js",
+      "path---2009-arnold-schwarzenegger-university-of-southern-california-389a5dcc818cf03736e2.js.map"
+    ],
+    "path---2004-toni-morrison-wellesley-college": [
+      "path---2004-toni-morrison-wellesley-college-9b22d744c0763792f399.js",
+      "path---2004-toni-morrison-wellesley-college-9b22d744c0763792f399.js.map"
+    ],
+    "path---1980-alan-alda-connecticut-college": [
+      "path---1980-alan-alda-connecticut-college-96c00ada5b6032a24d91.js",
+      "path---1980-alan-alda-connecticut-college-96c00ada5b6032a24d91.js.map"
+    ],
+    "path---2006-elie-wiesel-dartmouth-college": [
+      "path---2006-elie-wiesel-dartmouth-college-b88af3c2f773eaec3166.js",
+      "path---2006-elie-wiesel-dartmouth-college-b88af3c2f773eaec3166.js.map"
+    ],
+    "path---2014-tory-burch-babson-college": [
+      "path---2014-tory-burch-babson-college-e3954518a347bab8ad74.js",
+      "path---2014-tory-burch-babson-college-e3954518a347bab8ad74.js.map"
+    ],
+    "path---2010-sandra-soto-university-of-arizona": [
+      "path---2010-sandra-soto-university-of-arizona-0ad18a52608c4177b4aa.js",
+      "path---2010-sandra-soto-university-of-arizona-0ad18a52608c4177b4aa.js.map"
+    ],
+    "path---1988-joseph-brodsky-university-of-michigan": [
+      "path---1988-joseph-brodsky-university-of-michigan-7d8e0b258cdaccc23dde.js",
+      "path---1988-joseph-brodsky-university-of-michigan-7d8e0b258cdaccc23dde.js.map"
+    ],
+    "path---2010-drew-brees-loyola-university": [
+      "path---2010-drew-brees-loyola-university-c8eeb300a7fe095ec6b8.js",
+      "path---2010-drew-brees-loyola-university-c8eeb300a7fe095ec6b8.js.map"
+    ],
+    "path---2010-wade-davis-colorado-college": [
+      "path---2010-wade-davis-colorado-college-28ada476b10b871b03f9.js",
+      "path---2010-wade-davis-colorado-college-28ada476b10b871b03f9.js.map"
+    ],
+    "path---2015-maya-rudolph-tulane-university": [
+      "path---2015-maya-rudolph-tulane-university-2d0da01f7153da3c4bb4.js",
+      "path---2015-maya-rudolph-tulane-university-2d0da01f7153da3c4bb4.js.map"
+    ],
+    "path---2010-julia-keller-dominican-university": [
+      "path---2010-julia-keller-dominican-university-5dc8b5c7976071e2d2cb.js",
+      "path---2010-julia-keller-dominican-university-5dc8b5c7976071e2d2cb.js.map"
+    ],
+    "path---2006-ken-burns-georgetown-university": [
+      "path---2006-ken-burns-georgetown-university-f847dde7b466348ebc2c.js",
+      "path---2006-ken-burns-georgetown-university-f847dde7b466348ebc2c.js.map"
+    ],
+    "path---2010-barack-obama-university-of-michigan": [
+      "path---2010-barack-obama-university-of-michigan-2fa5ba0634e0e6fb86e6.js",
+      "path---2010-barack-obama-university-of-michigan-2fa5ba0634e0e6fb86e6.js.map"
+    ],
+    "path---2004-richard-russo-colby-college": [
+      "path---2004-richard-russo-colby-college-ab78eb4215a1e33d032b.js",
+      "path---2004-richard-russo-colby-college-ab78eb4215a1e33d032b.js.map"
+    ],
+    "path---2001-daniel-s-goldin-massachusetts-institute-of-technology": [
+      "path---2001-daniel-s-goldin-massachusetts-institute-of-technology-fad3448b98884743c882.js",
+      "path---2001-daniel-s-goldin-massachusetts-institute-of-technology-fad3448b98884743c882.js.map"
+    ],
+    "path---2010-john-jacob-scherer-roanoke-college": [
+      "path---2010-john-jacob-scherer-roanoke-college-b0f150f6d6ccd992347b.js",
+      "path---2010-john-jacob-scherer-roanoke-college-b0f150f6d6ccd992347b.js.map"
+    ],
+    "path---2014-jennifer-lee-university-of-new-hampshire": [
+      "path---2014-jennifer-lee-university-of-new-hampshire-e72468d569c0e15bbaa3.js",
+      "path---2014-jennifer-lee-university-of-new-hampshire-e72468d569c0e15bbaa3.js.map"
+    ],
+    "path---2007-brian-kenny-ohio-northern-university": [
+      "path---2007-brian-kenny-ohio-northern-university-43338a7b802517f04cac.js",
+      "path---2007-brian-kenny-ohio-northern-university-43338a7b802517f04cac.js.map"
+    ],
+    "path---2014-david-remnick-syracuse-university": [
+      "path---2014-david-remnick-syracuse-university-b93222837e7488f56b47.js",
+      "path---2014-david-remnick-syracuse-university-b93222837e7488f56b47.js.map"
+    ],
+    "path---2011-amy-poehler-harvard-university": [
+      "path---2011-amy-poehler-harvard-university-4fd835ec8f465674fbba.js",
+      "path---2011-amy-poehler-harvard-university-4fd835ec8f465674fbba.js.map"
+    ],
+    "path---2013-arianna-huffington-smith-college": [
+      "path---2013-arianna-huffington-smith-college-91631dbe10f212ea77dc.js",
+      "path---2013-arianna-huffington-smith-college-91631dbe10f212ea77dc.js.map"
+    ],
+    "path---2011-steve-ballmer-university-of-southern-california": [
+      "path---2011-steve-ballmer-university-of-southern-california-90fb6e23859b20bd5502.js",
+      "path---2011-steve-ballmer-university-of-southern-california-90fb6e23859b20bd5502.js.map"
+    ],
+    "path---2010-susan-rice-stanford-university": [
+      "path---2010-susan-rice-stanford-university-0db8f097194f7d1cf9aa.js",
+      "path---2010-susan-rice-stanford-university-0db8f097194f7d1cf9aa.js.map"
+    ],
+    "path---2009-eugene-mirman-lexington-high-school": [
+      "path---2009-eugene-mirman-lexington-high-school-b2cd58b0b0e17fbe1e59.js",
+      "path---2009-eugene-mirman-lexington-high-school-b2cd58b0b0e17fbe1e59.js.map"
+    ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-f4a138ca6b70c69e133e.js",
       "component---src-pages-index-js-f4a138ca6b70c69e133e.js.map"
+    ],
+    "path---2007-jennie-cyran-niagara-university": [
+      "path---2007-jennie-cyran-niagara-university-6bf20fe4564f18b18a6b.js",
+      "path---2007-jennie-cyran-niagara-university-6bf20fe4564f18b18a6b.js.map"
+    ],
+    "path---2001-david-woodle-penn-state": [
+      "path---2001-david-woodle-penn-state-321e3630af16427b212a.js",
+      "path---2001-david-woodle-penn-state-321e3630af16427b212a.js.map"
+    ],
+    "path---2012-neil-gaiman-the-university-of-the-arts": [
+      "path---2012-neil-gaiman-the-university-of-the-arts-429b039619b918b5c932.js",
+      "path---2012-neil-gaiman-the-university-of-the-arts-429b039619b918b5c932.js.map"
+    ],
+    "path---2010-lynn-sherr-wellesley-college": [
+      "path---2010-lynn-sherr-wellesley-college-9f1f2f84b8b5ef724132.js",
+      "path---2010-lynn-sherr-wellesley-college-9f1f2f84b8b5ef724132.js.map"
+    ],
+    "path---1963-john-f-kennedy-american-university": [
+      "path---1963-john-f-kennedy-american-university-4a4aca4fc5093a7612b3.js",
+      "path---1963-john-f-kennedy-american-university-4a4aca4fc5093a7612b3.js.map"
+    ],
+    "path---2011-steve-blank-philadelphia-university": [
+      "path---2011-steve-blank-philadelphia-university-25fa30e19474d6fb0fc9.js",
+      "path---2011-steve-blank-philadelphia-university-25fa30e19474d6fb0fc9.js.map"
+    ],
+    "path---2009-jarl-mohn-usc-annenberg-school-for-communication-and-journalism": [
+      "path---2009-jarl-mohn-usc-annenberg-school-for-communication-and-journalism-ec27d2bc80543b188848.js",
+      "path---2009-jarl-mohn-usc-annenberg-school-for-communication-and-journalism-ec27d2bc80543b188848.js.map"
+    ],
+    "path---2012-andy-samberg-harvard-university": [
+      "path---2012-andy-samberg-harvard-university-11b08570d93fa3f1ca52.js",
+      "path---2012-andy-samberg-harvard-university-11b08570d93fa3f1ca52.js.map"
+    ],
+    "path---2013-wynton-marsalis-university-of-vermont": [
+      "path---2013-wynton-marsalis-university-of-vermont-b2c3517f1e2a13b06c3d.js",
+      "path---2013-wynton-marsalis-university-of-vermont-b2c3517f1e2a13b06c3d.js.map"
+    ],
+    "path---2012-wesley-chan-university-of-california-san-diego": [
+      "path---2012-wesley-chan-university-of-california-san-diego-477afaa16ff32b03f2a4.js",
+      "path---2012-wesley-chan-university-of-california-san-diego-477afaa16ff32b03f2a4.js.map"
+    ],
+    "path---2013-stephen-colbert-university-of-virginia": [
+      "path---2013-stephen-colbert-university-of-virginia-c07ef1243d92bc93a26b.js",
+      "path---2013-stephen-colbert-university-of-virginia-c07ef1243d92bc93a26b.js.map"
+    ],
+    "path---2011-cynthia-enloe-connecticut-college": [
+      "path---2011-cynthia-enloe-connecticut-college-63c26197b4bc850c34a0.js",
+      "path---2011-cynthia-enloe-connecticut-college-63c26197b4bc850c34a0.js.map"
+    ],
+    "path---2014-john-f-kerry-yale-university": [
+      "path---2014-john-f-kerry-yale-university-a7e258b0394389c3b91c.js",
+      "path---2014-john-f-kerry-yale-university-a7e258b0394389c3b91c.js.map"
+    ],
+    "path---2012-angela-davis-pitzer-college": [
+      "path---2012-angela-davis-pitzer-college-588558aad955a92ab8a6.js",
+      "path---2012-angela-davis-pitzer-college-588558aad955a92ab8a6.js.map"
+    ],
+    "path---2003-anne-lamott-university-of-california-berkeley": [
+      "path---2003-anne-lamott-university-of-california-berkeley-698d43dd24be56ed2c91.js",
+      "path---2003-anne-lamott-university-of-california-berkeley-698d43dd24be56ed2c91.js.map"
+    ],
+    "path---2003-michael-dell-university-of-texas-austin": [
+      "path---2003-michael-dell-university-of-texas-austin-df91142b31bd78a4cc9b.js",
+      "path---2003-michael-dell-university-of-texas-austin-df91142b31bd78a4cc9b.js.map"
+    ],
+    "path---2014-jim-carrey-maharishi-university-of-management": [
+      "path---2014-jim-carrey-maharishi-university-of-management-bbb6058d2bb510259592.js",
+      "path---2014-jim-carrey-maharishi-university-of-management-bbb6058d2bb510259592.js.map"
+    ],
+    "path---2015-arianna-huffington-vassar-college": [
+      "path---2015-arianna-huffington-vassar-college-70c5babf7b0bc1396da7.js",
+      "path---2015-arianna-huffington-vassar-college-70c5babf7b0bc1396da7.js.map"
+    ],
+    "path---1993-art-buchwald-university-of-southern-california": [
+      "path---1993-art-buchwald-university-of-southern-california-14af1679f4955a250575.js",
+      "path---1993-art-buchwald-university-of-southern-california-14af1679f4955a250575.js.map"
+    ],
+    "path---2012-melissa-harris-perry-wellesley-college": [
+      "path---2012-melissa-harris-perry-wellesley-college-cca136e464b8f9cc5ff2.js",
+      "path---2012-melissa-harris-perry-wellesley-college-cca136e464b8f9cc5ff2.js.map"
+    ],
+    "path---2015-mary-karr-syracuse-university": [
+      "path---2015-mary-karr-syracuse-university-3457e48585321e1db2ff.js",
+      "path---2015-mary-karr-syracuse-university-3457e48585321e1db2ff.js.map"
+    ],
+    "path---2014-emir-kamenica-university-of-chicago-booth-school-of-business": [
+      "path---2014-emir-kamenica-university-of-chicago-booth-school-of-business-1b0c83f78d70d8b16762.js",
+      "path---2014-emir-kamenica-university-of-chicago-booth-school-of-business-1b0c83f78d70d8b16762.js.map"
+    ],
+    "path---2014-victor-hwang-austin-community-college": [
+      "path---2014-victor-hwang-austin-community-college-8d9c0eadecc6730a3f23.js",
+      "path---2014-victor-hwang-austin-community-college-8d9c0eadecc6730a3f23.js.map"
+    ],
+    "path---2015-stephen-colbert-wake-forest-university": [
+      "path---2015-stephen-colbert-wake-forest-university-d30e5d2659d28a57959b.js",
+      "path---2015-stephen-colbert-wake-forest-university-d30e5d2659d28a57959b.js.map"
+    ],
+    "path---2012-peter-dinklage-bennington-college": [
+      "path---2012-peter-dinklage-bennington-college-280b740b5441aeaeb773.js",
+      "path---2012-peter-dinklage-bennington-college-280b740b5441aeaeb773.js.map"
+    ],
+    "path---2012-michael-lewis-princeton-university": [
+      "path---2012-michael-lewis-princeton-university-865c21e0a90061062825.js",
+      "path---2012-michael-lewis-princeton-university-865c21e0a90061062825.js.map"
+    ],
+    "path---2012-neil-howe-university-of-mary-washington": [
+      "path---2012-neil-howe-university-of-mary-washington-2c311ce33a5aed5a7ef2.js",
+      "path---2012-neil-howe-university-of-mary-washington-2c311ce33a5aed5a7ef2.js.map"
+    ],
+    "path---1996-salman-rushdie-bard-college": [
+      "path---1996-salman-rushdie-bard-college-a58c8a29eaba2e65e6bb.js",
+      "path---1996-salman-rushdie-bard-college-a58c8a29eaba2e65e6bb.js.map"
+    ],
+    "path---1978-alexander-solzhenitsyn-harvard-university": [
+      "path---1978-alexander-solzhenitsyn-harvard-university-59a0122e581559a3f36e.js",
+      "path---1978-alexander-solzhenitsyn-harvard-university-59a0122e581559a3f36e.js.map"
+    ],
+    "path---2004-earl-bakken-university-of-hawaii": [
+      "path---2004-earl-bakken-university-of-hawaii-bdffebd66f16635f58a9.js",
+      "path---2004-earl-bakken-university-of-hawaii-bdffebd66f16635f58a9.js.map"
     ],
     "path---": [
       "path----83cd63ae3f613a975f92.js",
       "path----83cd63ae3f613a975f92.js.map"
     ],
+    "path---1957-ronald-reagan-eureka-college": [
+      "path---1957-ronald-reagan-eureka-college-d54d1062cfb3bc82788b.js",
+      "path---1957-ronald-reagan-eureka-college-d54d1062cfb3bc82788b.js.map"
+    ],
+    "path---1995-russell-baker-connecticut-college": [
+      "path---1995-russell-baker-connecticut-college-1e926ea0ce04ea66ca70.js",
+      "path---1995-russell-baker-connecticut-college-1e926ea0ce04ea66ca70.js.map"
+    ],
+    "path---2005-david-l-calhoun-virginia-tech": [
+      "path---2005-david-l-calhoun-virginia-tech-80abdf29b037619cfc37.js",
+      "path---2005-david-l-calhoun-virginia-tech-80abdf29b037619cfc37.js.map"
+    ],
+    "path---2013-howard-gordon-connecticut-college": [
+      "path---2013-howard-gordon-connecticut-college-196806a56958d4ceb3d6.js",
+      "path---2013-howard-gordon-connecticut-college-196806a56958d4ceb3d6.js.map"
+    ],
+    "path---2011-david-brooks-rice-university": [
+      "path---2011-david-brooks-rice-university-f6f99131f721b0ca535e.js",
+      "path---2011-david-brooks-rice-university-f6f99131f721b0ca535e.js.map"
+    ],
+    "path---2004-paul-glaser-stanford-university": [
+      "path---2004-paul-glaser-stanford-university-077c02c98dc8a68d2a58.js",
+      "path---2004-paul-glaser-stanford-university-077c02c98dc8a68d2a58.js.map"
+    ],
+    "path---2007-bill-gates-harvard-university": [
+      "path---2007-bill-gates-harvard-university-e9c847e43852235fa165.js",
+      "path---2007-bill-gates-harvard-university-e9c847e43852235fa165.js.map"
+    ],
+    "path---2013-ed-helms-knox-college": [
+      "path---2013-ed-helms-knox-college-2a0552607604b3c5e513.js",
+      "path---2013-ed-helms-knox-college-2a0552607604b3c5e513.js.map"
+    ],
+    "path---2013-tracy-chevalier-oberlin-college": [
+      "path---2013-tracy-chevalier-oberlin-college-668f475399bf53380012.js",
+      "path---2013-tracy-chevalier-oberlin-college-668f475399bf53380012.js.map"
+    ],
+    "path---2013-ben-bernanke-princeton-university": [
+      "path---2013-ben-bernanke-princeton-university-380ddf4c495a6e536c2c.js",
+      "path---2013-ben-bernanke-princeton-university-380ddf4c495a6e536c2c.js.map"
+    ],
+    "path---2003-wally-lamb-connecticut-college": [
+      "path---2003-wally-lamb-connecticut-college-1476709c3b23dd841de7.js",
+      "path---2003-wally-lamb-connecticut-college-1476709c3b23dd841de7.js.map"
+    ],
+    "path---1977-theodor-dr-seuss-geisel-lake-forest-college": [
+      "path---1977-theodor-dr-seuss-geisel-lake-forest-college-e40d57c9ed85fbfe802b.js",
+      "path---1977-theodor-dr-seuss-geisel-lake-forest-college-e40d57c9ed85fbfe802b.js.map"
+    ],
+    "path---1983-ursula-k-le-guin-mills-college": [
+      "path---1983-ursula-k-le-guin-mills-college-3f4efed9031d1ad6840a.js",
+      "path---1983-ursula-k-le-guin-mills-college-3f4efed9031d1ad6840a.js.map"
+    ],
+    "path---2009-barack-obama-arizona-state-university": [
+      "path---2009-barack-obama-arizona-state-university-709c88fb0efd0ce71e42.js",
+      "path---2009-barack-obama-arizona-state-university-709c88fb0efd0ce71e42.js.map"
+    ],
+    "path---1975-david-broder-kalamazoo-college": [
+      "path---1975-david-broder-kalamazoo-college-5aee7122497bb5bc7cef.js",
+      "path---1975-david-broder-kalamazoo-college-5aee7122497bb5bc7cef.js.map"
+    ],
+    "path---2010-jimmy-tingle-harvard-university": [
+      "path---2010-jimmy-tingle-harvard-university-42c286f7b7598cf42e09.js",
+      "path---2010-jimmy-tingle-harvard-university-42c286f7b7598cf42e09.js.map"
+    ],
+    "path---2009-marissa-mayer-illinois-institute-of-technology": [
+      "path---2009-marissa-mayer-illinois-institute-of-technology-5c16e6ee9fa12dddb94c.js",
+      "path---2009-marissa-mayer-illinois-institute-of-technology-5c16e6ee9fa12dddb94c.js.map"
+    ],
+    "path---2010-jamie-hyneman-villanova-university": [
+      "path---2010-jamie-hyneman-villanova-university-923c2bd68db22215c8f8.js",
+      "path---2010-jamie-hyneman-villanova-university-923c2bd68db22215c8f8.js.map"
+    ],
+    "path---1993-billy-joel-berklee-college-of-music": [
+      "path---1993-billy-joel-berklee-college-of-music-64dda4767356a6569a8c.js",
+      "path---1993-billy-joel-berklee-college-of-music-64dda4767356a6569a8c.js.map"
+    ],
+    "path---2004-seth-macfarlane-harvard-university": [
+      "path---2004-seth-macfarlane-harvard-university-d170903a7a8dd3362898.js",
+      "path---2004-seth-macfarlane-harvard-university-d170903a7a8dd3362898.js.map"
+    ],
+    "path---2014-michelle-obama-dillard-university": [
+      "path---2014-michelle-obama-dillard-university-a8ba16052346609f697e.js",
+      "path---2014-michelle-obama-dillard-university-a8ba16052346609f697e.js.map"
+    ],
+    "path---2012-sal-khan-massachusetts-institute-of-technology": [
+      "path---2012-sal-khan-massachusetts-institute-of-technology-9df8c045a727e93e3cfc.js",
+      "path---2012-sal-khan-massachusetts-institute-of-technology-9df8c045a727e93e3cfc.js.map"
+    ],
+    "path---2012-aaron-sorkin-syracuse-university": [
+      "path---2012-aaron-sorkin-syracuse-university-e548ba1f79291e265f93.js",
+      "path---2012-aaron-sorkin-syracuse-university-e548ba1f79291e265f93.js.map"
+    ],
+    "path---1996-kermit-the-frog-southampton-college": [
+      "path---1996-kermit-the-frog-southampton-college-48cd9c5023db54b9211d.js",
+      "path---1996-kermit-the-frog-southampton-college-48cd9c5023db54b9211d.js.map"
+    ],
+    "path---2000-billie-jean-king-university-of-massachusetts": [
+      "path---2000-billie-jean-king-university-of-massachusetts-30c1ab7ca709a2114dad.js",
+      "path---2000-billie-jean-king-university-of-massachusetts-30c1ab7ca709a2114dad.js.map"
+    ],
+    "path---2009-carl-schramm-university-of-illinois-at-urbana-champaign": [
+      "path---2009-carl-schramm-university-of-illinois-at-urbana-champaign-93676ee6e8d03885183a.js",
+      "path---2009-carl-schramm-university-of-illinois-at-urbana-champaign-93676ee6e8d03885183a.js.map"
+    ],
+    "path---2004-bradley-whitford-university-of-wisconsin": [
+      "path---2004-bradley-whitford-university-of-wisconsin-7b265f1e0ddd2bb68223.js",
+      "path---2004-bradley-whitford-university-of-wisconsin-7b265f1e0ddd2bb68223.js.map"
+    ],
+    "path---2007-rev-joseph-l-levesque-niagara-university": [
+      "path---2007-rev-joseph-l-levesque-niagara-university-d7d5d12d4828d9f2d34e.js",
+      "path---2007-rev-joseph-l-levesque-niagara-university-d7d5d12d4828d9f2d34e.js.map"
+    ],
+    "path---1974-richard-feynman-caltech": [
+      "path---1974-richard-feynman-caltech-758b010107961927982c.js",
+      "path---1974-richard-feynman-caltech-758b010107961927982c.js.map"
+    ],
+    "path---2012-david-mccullough-jr-wellesley-high-school": [
+      "path---2012-david-mccullough-jr-wellesley-high-school-116484ff4056f767784a.js",
+      "path---2012-david-mccullough-jr-wellesley-high-school-116484ff4056f767784a.js.map"
+    ],
+    "path---1947-george-c-marshall-harvard-university": [
+      "path---1947-george-c-marshall-harvard-university-cb7e5cfda72a6e32c87e.js",
+      "path---1947-george-c-marshall-harvard-university-cb7e5cfda72a6e32c87e.js.map"
+    ],
+    "path---2006-wangari-maathai-connecticut-college": [
+      "path---2006-wangari-maathai-connecticut-college-84567464c1037c45c42f.js",
+      "path---2006-wangari-maathai-connecticut-college-84567464c1037c45c42f.js.map"
+    ],
+    "path---2007-david-brooks-wake-forest-university": [
+      "path---2007-david-brooks-wake-forest-university-b9a39d0fe066411f3fae.js",
+      "path---2007-david-brooks-wake-forest-university-b9a39d0fe066411f3fae.js.map"
+    ],
+    "path---1979-william-h-gass-washington-university": [
+      "path---1979-william-h-gass-washington-university-fa25c0b817becf2f2e54.js",
+      "path---1979-william-h-gass-washington-university-fa25c0b817becf2f2e54.js.map"
+    ],
+    "path---2013-jonathan-safran-foer-middlebury-college": [
+      "path---2013-jonathan-safran-foer-middlebury-college-4af06e6157224e9301dd.js",
+      "path---2013-jonathan-safran-foer-middlebury-college-4af06e6157224e9301dd.js.map"
+    ],
+    "path---2000-guy-kawasaki-babson-college": [
+      "path---2000-guy-kawasaki-babson-college-9308613f4dc45f48b6d8.js",
+      "path---2000-guy-kawasaki-babson-college-9308613f4dc45f48b6d8.js.map"
+    ],
+    "path---2011-kati-marton-central-european-university": [
+      "path---2011-kati-marton-central-european-university-a9e287be266d72c9d914.js",
+      "path---2011-kati-marton-central-european-university-a9e287be266d72c9d914.js.map"
+    ],
+    "path---2005-george-w-bush-calvin-college": [
+      "path---2005-george-w-bush-calvin-college-d4300bf129eb53aee931.js",
+      "path---2005-george-w-bush-calvin-college-d4300bf129eb53aee931.js.map"
+    ],
+    "path---2014-anne-marie-slaughter-tufts-university": [
+      "path---2014-anne-marie-slaughter-tufts-university-0d34fa4a49807debd5b8.js",
+      "path---2014-anne-marie-slaughter-tufts-university-0d34fa4a49807debd5b8.js.map"
+    ],
+    "path---1987-gloria-steinem-tufts-university": [
+      "path---1987-gloria-steinem-tufts-university-31464e02ce645bcbad8a.js",
+      "path---1987-gloria-steinem-tufts-university-31464e02ce645bcbad8a.js.map"
+    ],
+    "path---1996-brian-j-dyson-georgia-tech": [
+      "path---1996-brian-j-dyson-georgia-tech-45724c1dbc22a39be510.js",
+      "path---1996-brian-j-dyson-georgia-tech-45724c1dbc22a39be510.js.map"
+    ],
+    "path---2006-jodie-foster-university-of-pennsylvania": [
+      "path---2006-jodie-foster-university-of-pennsylvania-9300d5377c3efb103b39.js",
+      "path---2006-jodie-foster-university-of-pennsylvania-9300d5377c3efb103b39.js.map"
+    ],
+    "path---2005-doug-marlette-durham-academy": [
+      "path---2005-doug-marlette-durham-academy-58f58efdb3c4be3ef6ae.js",
+      "path---2005-doug-marlette-durham-academy-58f58efdb3c4be3ef6ae.js.map"
+    ],
+    "path---2004-elias-a-zerhouni-massachusetts-institute-of-technology": [
+      "path---2004-elias-a-zerhouni-massachusetts-institute-of-technology-3994fe80ffa104017fc0.js",
+      "path---2004-elias-a-zerhouni-massachusetts-institute-of-technology-3994fe80ffa104017fc0.js.map"
+    ],
+    "path---2012-louis-b-susman-connecticut-college": [
+      "path---2012-louis-b-susman-connecticut-college-15fc12b5187f3534337a.js",
+      "path---2012-louis-b-susman-connecticut-college-15fc12b5187f3534337a.js.map"
+    ],
+    "path---2007-rev-dennis-h-holtschneider-niagara-university": [
+      "path---2007-rev-dennis-h-holtschneider-niagara-university-c500ffd452bd701c157d.js",
+      "path---2007-rev-dennis-h-holtschneider-niagara-university-c500ffd452bd701c157d.js.map"
+    ],
     "component---src-layouts-index-js": [
       "component---src-layouts-index-js-c244fc76f971b55f842b.js",
       "component---src-layouts-index-js-c244fc76f971b55f842b.js.map"
     ],
+    "path---2013-dalai-lama-tulane-university": [
+      "path---2013-dalai-lama-tulane-university-a94a07e3221296c91311.js",
+      "path---2013-dalai-lama-tulane-university-a94a07e3221296c91311.js.map"
+    ],
+    "path---2001-stephen-king-vassar-college": [
+      "path---2001-stephen-king-vassar-college-d7c7d158c95777c2cfe5.js",
+      "path---2001-stephen-king-vassar-college-d7c7d158c95777c2cfe5.js.map"
+    ],
+    "path---2007-dana-gioia-stanford-university": [
+      "path---2007-dana-gioia-stanford-university-4fc9a73bc8f51826d4a9.js",
+      "path---2007-dana-gioia-stanford-university-4fc9a73bc8f51826d4a9.js.map"
+    ],
+    "path---2011-makoto-fujimura-belhaven-university": [
+      "path---2011-makoto-fujimura-belhaven-university-2e0a735fa7af589f9352.js",
+      "path---2011-makoto-fujimura-belhaven-university-2e0a735fa7af589f9352.js.map"
+    ],
+    "path---1932-franklin-d-roosevelt-oglethorpe-university": [
+      "path---1932-franklin-d-roosevelt-oglethorpe-university-c2d58fda491da03c9efb.js",
+      "path---1932-franklin-d-roosevelt-oglethorpe-university-c2d58fda491da03c9efb.js.map"
+    ],
+    "path---2011-ahmed-zewail-caltech": [
+      "path---2011-ahmed-zewail-caltech-0833d6b83d152b93cbd0.js",
+      "path---2011-ahmed-zewail-caltech-0833d6b83d152b93cbd0.js.map"
+    ],
+    "path---1981-patricia-mcgowan-wald-connecticut-college": [
+      "path---1981-patricia-mcgowan-wald-connecticut-college-2b09fb0b197ea86c5eb2.js",
+      "path---1981-patricia-mcgowan-wald-connecticut-college-2b09fb0b197ea86c5eb2.js.map"
+    ],
+    "path---2004-ruth-westheimer-trinity-college": [
+      "path---2004-ruth-westheimer-trinity-college-25445e1b4bf172fbc3b3.js",
+      "path---2004-ruth-westheimer-trinity-college-25445e1b4bf172fbc3b3.js.map"
+    ],
+    "path---1998-andrew-young-connecticut-college": [
+      "path---1998-andrew-young-connecticut-college-81b8cb4961113ba883b6.js",
+      "path---1998-andrew-young-connecticut-college-81b8cb4961113ba883b6.js.map"
+    ],
+    "path---2012-adam-savage-sarah-lawrence-college": [
+      "path---2012-adam-savage-sarah-lawrence-college-c4e37a9c18be36ebb048.js",
+      "path---2012-adam-savage-sarah-lawrence-college-c4e37a9c18be36ebb048.js.map"
+    ],
+    "path---2005-john-roberts-niagara-university": [
+      "path---2005-john-roberts-niagara-university-ccc55c1ba56cda4c77cb.js",
+      "path---2005-john-roberts-niagara-university-ccc55c1ba56cda4c77cb.js.map"
+    ],
+    "path---2008-jaclyn-rossi-niagara-university": [
+      "path---2008-jaclyn-rossi-niagara-university-96531fd8b1644ef662f0.js",
+      "path---2008-jaclyn-rossi-niagara-university-96531fd8b1644ef662f0.js.map"
+    ],
+    "path---2002-fred-rogers-dartmouth-college": [
+      "path---2002-fred-rogers-dartmouth-college-6e8eba6d960d065dc770.js",
+      "path---2002-fred-rogers-dartmouth-college-6e8eba6d960d065dc770.js.map"
+    ],
+    "path---2012-jefferson-smith-university-of-oregon": [
+      "path---2012-jefferson-smith-university-of-oregon-5b4e556ed630e4a321f1.js",
+      "path---2012-jefferson-smith-university-of-oregon-5b4e556ed630e4a321f1.js.map"
+    ],
+    "path---2010-rachel-maddow-smith-college": [
+      "path---2010-rachel-maddow-smith-college-94a7e2a127a636789d3b.js",
+      "path---2010-rachel-maddow-smith-college-94a7e2a127a636789d3b.js.map"
+    ],
+    "path---2011-jim-steen-kenyon-college": [
+      "path---2011-jim-steen-kenyon-college-1c905743d2445398a9a2.js",
+      "path---2011-jim-steen-kenyon-college-1c905743d2445398a9a2.js.map"
+    ],
+    "path---2014-mary-barra-university-of-michigan": [
+      "path---2014-mary-barra-university-of-michigan-80566a62786d62b2c014.js",
+      "path---2014-mary-barra-university-of-michigan-80566a62786d62b2c014.js.map"
+    ],
+    "path---2010-jeff-bezos-princeton-university": [
+      "path---2010-jeff-bezos-princeton-university-77d9258cc40b3f374a82.js",
+      "path---2010-jeff-bezos-princeton-university-77d9258cc40b3f374a82.js.map"
+    ],
+    "path---2014-john-legend-university-of-pennsylvania": [
+      "path---2014-john-legend-university-of-pennsylvania-a221dd26891eeee68a20.js",
+      "path---2014-john-legend-university-of-pennsylvania-a221dd26891eeee68a20.js.map"
+    ],
+    "path---1964-lyndon-baines-johnson-university-of-michigan-ann-arbor": [
+      "path---1964-lyndon-baines-johnson-university-of-michigan-ann-arbor-010b03b3ad7024c00ee4.js",
+      "path---1964-lyndon-baines-johnson-university-of-michigan-ann-arbor-010b03b3ad7024c00ee4.js.map"
+    ],
     "path---2005-steve-jobs-stanford-university": [
-      "path---2005-steve-jobs-stanford-university-1d37a86dfb87d34f288e.js",
-      "path---2005-steve-jobs-stanford-university-1d37a86dfb87d34f288e.js.map"
+      "path---2005-steve-jobs-stanford-university-7a19c4728c22d894d292.js",
+      "path---2005-steve-jobs-stanford-university-7a19c4728c22d894d292.js.map"
+    ],
+    "path---2013-george-saunders-syracuse-university": [
+      "path---2013-george-saunders-syracuse-university-10312a44cce5c9b389a5.js",
+      "path---2013-george-saunders-syracuse-university-10312a44cce5c9b389a5.js.map"
+    ],
+    "path---2013-james-carville-hobart-and-william-smith-colleges": [
+      "path---2013-james-carville-hobart-and-william-smith-colleges-fc1423918b3d0ff0f6d0.js",
+      "path---2013-james-carville-hobart-and-william-smith-colleges-fc1423918b3d0ff0f6d0.js.map"
+    ],
+    "path---2006-chris-matthews-fordham-university": [
+      "path---2006-chris-matthews-fordham-university-02e96422f29271f9c6b7.js",
+      "path---2006-chris-matthews-fordham-university-02e96422f29271f9c6b7.js.map"
+    ],
+    "path---2011-robert-krulwich-university-of-california-berkeley": [
+      "path---2011-robert-krulwich-university-of-california-berkeley-0b3bededa47264d0fb6e.js",
+      "path---2011-robert-krulwich-university-of-california-berkeley-0b3bededa47264d0fb6e.js.map"
+    ],
+    "path---2012-ronan-farrow-dominican-university-of-california": [
+      "path---2012-ronan-farrow-dominican-university-of-california-03c82ce99c8574fd302e.js",
+      "path---2012-ronan-farrow-dominican-university-of-california-03c82ce99c8574fd302e.js.map"
+    ],
+    "path---2014-jill-abramson-wake-forest-university": [
+      "path---2014-jill-abramson-wake-forest-university-bb66540da27ba8e379c7.js",
+      "path---2014-jill-abramson-wake-forest-university-bb66540da27ba8e379c7.js.map"
+    ],
+    "path---1995-vaclav-havel-harvard-university": [
+      "path---1995-vaclav-havel-harvard-university-e46041d52b29c8856b2b.js",
+      "path---1995-vaclav-havel-harvard-university-e46041d52b29c8856b2b.js.map"
+    ],
+    "path---2008-rev-david-oconnell-niagara-university": [
+      "path---2008-rev-david-oconnell-niagara-university-511b0ec5eac376c3b029.js",
+      "path---2008-rev-david-oconnell-niagara-university-511b0ec5eac376c3b029.js.map"
+    ],
+    "path---1983-margaret-atwood-university-of-toronto": [
+      "path---1983-margaret-atwood-university-of-toronto-eb04a9b58746deadd52b.js",
+      "path---1983-margaret-atwood-university-of-toronto-eb04a9b58746deadd52b.js.map"
+    ],
+    "path---2013-stephen-r-kellert-university-of-western-sydney-australia": [
+      "path---2013-stephen-r-kellert-university-of-western-sydney-australia-4849e976caaf2c7a185c.js",
+      "path---2013-stephen-r-kellert-university-of-western-sydney-australia-4849e976caaf2c7a185c.js.map"
+    ],
+    "path---1977-adrienne-rich-douglass-college": [
+      "path---1977-adrienne-rich-douglass-college-60f109eece55de8bdc7e.js",
+      "path---1977-adrienne-rich-douglass-college-60f109eece55de8bdc7e.js.map"
+    ],
+    "path---1991-madeleine-lengle-wellesley-college": [
+      "path---1991-madeleine-lengle-wellesley-college-0bb19a7f279458bdf27e.js",
+      "path---1991-madeleine-lengle-wellesley-college-0bb19a7f279458bdf27e.js.map"
     ],
     "path---index": [
-      "path---index-d912249cac7be06c4048.js",
-      "path---index-d912249cac7be06c4048.js.map"
+      "path---index-37a7823e30bff0245878.js",
+      "path---index-37a7823e30bff0245878.js.map"
+    ],
+    "path---2009-robert-m-gates-university-of-georgia": [
+      "path---2009-robert-m-gates-university-of-georgia-74e1bbee991d747c7c7c.js",
+      "path---2009-robert-m-gates-university-of-georgia-74e1bbee991d747c7c7c.js.map"
+    ],
+    "path---2008-randy-pausch-carnegie-mellon-university": [
+      "path---2008-randy-pausch-carnegie-mellon-university-f06382e168c7b5150998.js",
+      "path---2008-randy-pausch-carnegie-mellon-university-f06382e168c7b5150998.js.map"
+    ],
+    "path---2003-will-ferrell-harvard-university": [
+      "path---2003-will-ferrell-harvard-university-03c988826eb903d0f5d5.js",
+      "path---2003-will-ferrell-harvard-university-03c988826eb903d0f5d5.js.map"
+    ],
+    "path---2008-mike-tomlin-saint-vincent-college": [
+      "path---2008-mike-tomlin-saint-vincent-college-5b76f96383953e9f0be5.js",
+      "path---2008-mike-tomlin-saint-vincent-college-5b76f96383953e9f0be5.js.map"
+    ],
+    "path---1998-roger-rosenblatt-brigham-young-university": [
+      "path---1998-roger-rosenblatt-brigham-young-university-72cea29e9da787649189.js",
+      "path---1998-roger-rosenblatt-brigham-young-university-72cea29e9da787649189.js.map"
+    ],
+    "path---2012-ira-glass-goucher-college": [
+      "path---2012-ira-glass-goucher-college-0f9e5775378117f708e9.js",
+      "path---2012-ira-glass-goucher-college-0f9e5775378117f708e9.js.map"
+    ],
+    "path---2007-ray-sidney-edwin-o-smith-high-school": [
+      "path---2007-ray-sidney-edwin-o-smith-high-school-95f0ed9f973c71af2084.js",
+      "path---2007-ray-sidney-edwin-o-smith-high-school-95f0ed9f973c71af2084.js.map"
+    ],
+    "path---2008-billy-collins-colorado-college": [
+      "path---2008-billy-collins-colorado-college-b2efdfe8c317614dbcbf.js",
+      "path---2008-billy-collins-colorado-college-b2efdfe8c317614dbcbf.js.map"
+    ],
+    "path---2012-benno-schmidt-sr-university-of-missouri": [
+      "path---2012-benno-schmidt-sr-university-of-missouri-fb4e43ccb54b39a8064b.js",
+      "path---2012-benno-schmidt-sr-university-of-missouri-fb4e43ccb54b39a8064b.js.map"
+    ],
+    "path---1990-barbara-bush-wellesley-college": [
+      "path---1990-barbara-bush-wellesley-college-32def44e4a1526780cfe.js",
+      "path---1990-barbara-bush-wellesley-college-32def44e4a1526780cfe.js.map"
+    ],
+    "path---1985-meredith-monk-sarah-lawrence-college": [
+      "path---1985-meredith-monk-sarah-lawrence-college-ccfd360ce7b3dfa3ebc3.js",
+      "path---1985-meredith-monk-sarah-lawrence-college-ccfd360ce7b3dfa3ebc3.js.map"
+    ],
+    "path---1996-tom-brokaw-connecticut-college": [
+      "path---1996-tom-brokaw-connecticut-college-4695564280c347db03a0.js",
+      "path---1996-tom-brokaw-connecticut-college-4695564280c347db03a0.js.map"
+    ],
+    "path---2004-njabulo-s-ndebele-wesleyan-university": [
+      "path---2004-njabulo-s-ndebele-wesleyan-university-0e0717f2346cda545ca4.js",
+      "path---2004-njabulo-s-ndebele-wesleyan-university-0e0717f2346cda545ca4.js.map"
+    ],
+    "path---2008-chuck-norris-liberty-university": [
+      "path---2008-chuck-norris-liberty-university-2ae7211d395b3249d894.js",
+      "path---2008-chuck-norris-liberty-university-2ae7211d395b3249d894.js.map"
+    ],
+    "path---2012-hank-aaron-marquette-university": [
+      "path---2012-hank-aaron-marquette-university-36e6d148fc415390c4b3.js",
+      "path---2012-hank-aaron-marquette-university-36e6d148fc415390c4b3.js.map"
+    ],
+    "path---2015-ari-weinzweig-and-paul-saginaw-university-of-michigan": [
+      "path---2015-ari-weinzweig-and-paul-saginaw-university-of-michigan-a4cfc83cc6d24647a0e1.js",
+      "path---2015-ari-weinzweig-and-paul-saginaw-university-of-michigan-a4cfc83cc6d24647a0e1.js.map"
+    ],
+    "path---1995-margaret-j-geller-harvard-university": [
+      "path---1995-margaret-j-geller-harvard-university-553b89e6da12949c6974.js",
+      "path---1995-margaret-j-geller-harvard-university-553b89e6da12949c6974.js.map"
+    ],
+    "path---2015-ed-helms-university-of-virginia": [
+      "path---2015-ed-helms-university-of-virginia-ebc181f752fe05aab92c.js",
+      "path---2015-ed-helms-university-of-virginia-ebc181f752fe05aab92c.js.map"
+    ],
+    "path---2006-john-mccain-liberty-university": [
+      "path---2006-john-mccain-liberty-university-e665815059507de505e3.js",
+      "path---2006-john-mccain-liberty-university-e665815059507de505e3.js.map"
+    ],
+    "path---1838-ralph-waldo-emerson-harvard-university": [
+      "path---1838-ralph-waldo-emerson-harvard-university-66d2fa1d751738e2d88d.js",
+      "path---1838-ralph-waldo-emerson-harvard-university-66d2fa1d751738e2d88d.js.map"
     ],
     "component---src-pages-404-js": [
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js",
       "component---src-pages-404-js-4503918ea3a16cfcdb75.js.map"
+    ],
+    "path---1983-susan-sontag-wellesley-college": [
+      "path---1983-susan-sontag-wellesley-college-0ecea398c5100236a1ba.js",
+      "path---1983-susan-sontag-wellesley-college-0ecea398c5100236a1ba.js.map"
+    ],
+    "path---2008-larry-lucchino-boston-university": [
+      "path---2008-larry-lucchino-boston-university-1ccd670c16a3a97d4686.js",
+      "path---2008-larry-lucchino-boston-university-1ccd670c16a3a97d4686.js.map"
+    ],
+    "path---2008-jessica-lange-sarah-lawrence-college": [
+      "path---2008-jessica-lange-sarah-lawrence-college-8f1be6b38abb83eb5749.js",
+      "path---2008-jessica-lange-sarah-lawrence-college-8f1be6b38abb83eb5749.js.map"
+    ],
+    "path---2010-tiffany-shlain-university-of-california-berkeley": [
+      "path---2010-tiffany-shlain-university-of-california-berkeley-1ca3036c88118e620ff5.js",
+      "path---2010-tiffany-shlain-university-of-california-berkeley-1ca3036c88118e620ff5.js.map"
+    ],
+    "path---1988-guido-calabresi-connecticut-college": [
+      "path---1988-guido-calabresi-connecticut-college-1d2120435314482520d2.js",
+      "path---1988-guido-calabresi-connecticut-college-1d2120435314482520d2.js.map"
+    ],
+    "path---2007-oprah-winfrey-howard-university": [
+      "path---2007-oprah-winfrey-howard-university-4f1eaa39656c262a494d.js",
+      "path---2007-oprah-winfrey-howard-university-4f1eaa39656c262a494d.js.map"
     ],
     "commons": [
       "commons-0c961af4250069caef0a.js",
@@ -30,27 +730,515 @@
       "commons-0c961af4250069caef0a.js.map",
       "build-js-styles.css.map"
     ],
+    "path---2000-tim-russert-niagara-university": [
+      "path---2000-tim-russert-niagara-university-b4c64c4fafb437f92683.js",
+      "path---2000-tim-russert-niagara-university-b4c64c4fafb437f92683.js.map"
+    ],
+    "path---2013-tim-minchin-university-of-western-australia": [
+      "path---2013-tim-minchin-university-of-western-australia-e0b5ee047c4946537d4c.js",
+      "path---2013-tim-minchin-university-of-western-australia-e0b5ee047c4946537d4c.js.map"
+    ],
+    "path---2000-john-walsh-wheaton-college": [
+      "path---2000-john-walsh-wheaton-college-a552cd76208a1b2dd5ef.js",
+      "path---2000-john-walsh-wheaton-college-a552cd76208a1b2dd5ef.js.map"
+    ],
+    "path---2012-michael-bloomberg-university-of-north-carolina": [
+      "path---2012-michael-bloomberg-university-of-north-carolina-c93663631bfb29a325d5.js",
+      "path---2012-michael-bloomberg-university-of-north-carolina-c93663631bfb29a325d5.js.map"
+    ],
+    "path---2011-tom-brinck-the-art-institute-of-california-sunnyvale": [
+      "path---2011-tom-brinck-the-art-institute-of-california-sunnyvale-4de1c7520bdc6c5ca331.js",
+      "path---2011-tom-brinck-the-art-institute-of-california-sunnyvale-4de1c7520bdc6c5ca331.js.map"
+    ],
+    "path---2015-john-seely-brown-arizona-state-university": [
+      "path---2015-john-seely-brown-arizona-state-university-8a25e788d0dbfc6bc7d4.js",
+      "path---2015-john-seely-brown-arizona-state-university-8a25e788d0dbfc6bc7d4.js.map"
+    ],
+    "path---2009-chris-gardner-university-of-california-berkeley": [
+      "path---2009-chris-gardner-university-of-california-berkeley-f75002d717bc48cb1cc6.js",
+      "path---2009-chris-gardner-university-of-california-berkeley-f75002d717bc48cb1cc6.js.map"
+    ],
+    "path---2014-david-carr-university-of-california-berkeley-graduate-school-of-journalism": [
+      "path---2014-david-carr-university-of-california-berkeley-graduate-school-of-journalism-8b60211fbe6c47082a4e.js",
+      "path---2014-david-carr-university-of-california-berkeley-graduate-school-of-journalism-8b60211fbe6c47082a4e.js.map"
+    ],
+    "path---2004-anita-l-defrantz-connecticut-college": [
+      "path---2004-anita-l-defrantz-connecticut-college-596f4b80780d677164fe.js",
+      "path---2004-anita-l-defrantz-connecticut-college-596f4b80780d677164fe.js.map"
+    ],
     "path---404-html": [
       "path---404-html-a0e39f21c11f6a62c5ab.js",
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "path---1998-muriel-siebert-case-western-reserve-university": [
+      "path---1998-muriel-siebert-case-western-reserve-university-a3cf85481f387b55f660.js",
+      "path---1998-muriel-siebert-case-western-reserve-university-a3cf85481f387b55f660.js.map"
+    ],
+    "path---2012-atul-gawande-williams-college": [
+      "path---2012-atul-gawande-williams-college-589e3245658f30aa918a.js",
+      "path---2012-atul-gawande-williams-college-589e3245658f30aa918a.js.map"
+    ],
+    "path---1999-robert-pinsky-stanford-university": [
+      "path---1999-robert-pinsky-stanford-university-4afe8d10099e4a6af7d8.js",
+      "path---1999-robert-pinsky-stanford-university-4afe8d10099e4a6af7d8.js.map"
+    ],
+    "path---2003-yvonne-thornton-tuskegee-university": [
+      "path---2003-yvonne-thornton-tuskegee-university-a46b919e370b8fcc7a8b.js",
+      "path---2003-yvonne-thornton-tuskegee-university-a46b919e370b8fcc7a8b.js.map"
+    ],
+    "path---2015-bernard-harris-worcester-polytechnic-institute": [
+      "path---2015-bernard-harris-worcester-polytechnic-institute-98fd20c5f81a922ff279.js",
+      "path---2015-bernard-harris-worcester-polytechnic-institute-98fd20c5f81a922ff279.js.map"
+    ],
+    "path---2011-edward-o-wilson-university-of-north-carolina-chapel-hill": [
+      "path---2011-edward-o-wilson-university-of-north-carolina-chapel-hill-66dcdcc4280e07aedab6.js",
+      "path---2011-edward-o-wilson-university-of-north-carolina-chapel-hill-66dcdcc4280e07aedab6.js.map"
+    ],
+    "path---2000-carly-fiorina-massachusetts-institute-of-technology": [
+      "path---2000-carly-fiorina-massachusetts-institute-of-technology-fabcd51a4028b40eeef3.js",
+      "path---2000-carly-fiorina-massachusetts-institute-of-technology-fabcd51a4028b40eeef3.js.map"
+    ],
+    "path---1936-carrie-chapman-catt-sweet-briar-college": [
+      "path---1936-carrie-chapman-catt-sweet-briar-college-1dc8a54eed415486ae6f.js",
+      "path---1936-carrie-chapman-catt-sweet-briar-college-1dc8a54eed415486ae6f.js.map"
+    ],
     "component---src-templates-speech-js": [
-      "component---src-templates-speech-js-8898644e8dc78665532f.js",
-      "component---src-templates-speech-js-8898644e8dc78665532f.js.map"
+      "component---src-templates-speech-js-d666ceb1aa2fa6e5c760.js",
+      "component---src-templates-speech-js-d666ceb1aa2fa6e5c760.js.map"
+    ],
+    "path---2012-soledad-obrien-university-of-delaware": [
+      "path---2012-soledad-obrien-university-of-delaware-79fa1ef5fb57ccbeac9d.js",
+      "path---2012-soledad-obrien-university-of-delaware-79fa1ef5fb57ccbeac9d.js.map"
+    ],
+    "path---2012-sutton-foster-ball-state-university": [
+      "path---2012-sutton-foster-ball-state-university-34840c6e5d23d2193e80.js",
+      "path---2012-sutton-foster-ball-state-university-34840c6e5d23d2193e80.js.map"
+    ],
+    "path---2014-mindy-kaling-harvard-law-school": [
+      "path---2014-mindy-kaling-harvard-law-school-33ff725fcc01163206b1.js",
+      "path---2014-mindy-kaling-harvard-law-school-33ff725fcc01163206b1.js.map"
+    ],
+    "path---2002-sumner-redstone-northwestern-university": [
+      "path---2002-sumner-redstone-northwestern-university-e8a12b6ef8015f2f69e5.js",
+      "path---2002-sumner-redstone-northwestern-university-e8a12b6ef8015f2f69e5.js.map"
+    ],
+    "path---2011-john-legend-kean-university": [
+      "path---2011-john-legend-kean-university-b699bc69af1a44d7922f.js",
+      "path---2011-john-legend-kean-university-b699bc69af1a44d7922f.js.map"
+    ],
+    "path---1969-edward-w-brooke-wellesley-college": [
+      "path---1969-edward-w-brooke-wellesley-college-fc4615423cd6814d4b31.js",
+      "path---1969-edward-w-brooke-wellesley-college-fc4615423cd6814d4b31.js.map"
+    ],
+    "path---2011-chris-waddell-middlebury-college": [
+      "path---2011-chris-waddell-middlebury-college-ca517b3cd47443a7ac48.js",
+      "path---2011-chris-waddell-middlebury-college-ca517b3cd47443a7ac48.js.map"
+    ],
+    "path---2007-madeleine-albright-wellesley-college": [
+      "path---2007-madeleine-albright-wellesley-college-8c82a70fa69e4e49bac4.js",
+      "path---2007-madeleine-albright-wellesley-college-8c82a70fa69e4e49bac4.js.map"
+    ],
+    "path---1998-mary-robinson-harvard-university": [
+      "path---1998-mary-robinson-harvard-university-21bee6858b4a4d789035.js",
+      "path---1998-mary-robinson-harvard-university-21bee6858b4a4d789035.js.map"
+    ],
+    "path---1936-william-allen-white-northwestern-university": [
+      "path---1936-william-allen-white-northwestern-university-f51132a1c180625d04f6.js",
+      "path---1936-william-allen-white-northwestern-university-f51132a1c180625d04f6.js.map"
+    ],
+    "path---2007-john-doerr-rice-university": [
+      "path---2007-john-doerr-rice-university-70a124930f800db913f2.js",
+      "path---2007-john-doerr-rice-university-70a124930f800db913f2.js.map"
+    ],
+    "path---2013-david-brooks-sewanee-the-university-of-the-south": [
+      "path---2013-david-brooks-sewanee-the-university-of-the-south-87f54df1a0ce52cf27be.js",
+      "path---2013-david-brooks-sewanee-the-university-of-the-south-87f54df1a0ce52cf27be.js.map"
+    ],
+    "path---1994-callie-khouri-sweet-briar-college": [
+      "path---1994-callie-khouri-sweet-briar-college-0a03794bc48e53eee445.js",
+      "path---1994-callie-khouri-sweet-briar-college-0a03794bc48e53eee445.js.map"
+    ],
+    "path---2013-jimmy-iovine-university-of-southern-california": [
+      "path---2013-jimmy-iovine-university-of-southern-california-6ef7d19ccee88481fc0c.js",
+      "path---2013-jimmy-iovine-university-of-southern-california-6ef7d19ccee88481fc0c.js.map"
+    ],
+    "path---2005-thomas-l-friedman-williams-college": [
+      "path---2005-thomas-l-friedman-williams-college-30936926d9fff4219528.js",
+      "path---2005-thomas-l-friedman-williams-college-30936926d9fff4219528.js.map"
+    ],
+    "path---2000-anna-quindlen-villanova-university": [
+      "path---2000-anna-quindlen-villanova-university-307a9b165393877260e0.js",
+      "path---2000-anna-quindlen-villanova-university-307a9b165393877260e0.js.map"
+    ],
+    "path---2011-sheryl-sandberg-barnard-college": [
+      "path---2011-sheryl-sandberg-barnard-college-c5fd1e8250265af18981.js",
+      "path---2011-sheryl-sandberg-barnard-college-c5fd1e8250265af18981.js.map"
+    ],
+    "path---2011-arianna-huffington-sarah-lawrence-college": [
+      "path---2011-arianna-huffington-sarah-lawrence-college-1e62abe8cb799b2ed123.js",
+      "path---2011-arianna-huffington-sarah-lawrence-college-1e62abe8cb799b2ed123.js.map"
+    ],
+    "path---2010-tim-cook-auburn-university": [
+      "path---2010-tim-cook-auburn-university-9d08e820a73abd372985.js",
+      "path---2010-tim-cook-auburn-university-9d08e820a73abd372985.js.map"
+    ],
+    "path---1989-leonard-a-lauder-connecticut-college": [
+      "path---1989-leonard-a-lauder-connecticut-college-89011fdf51265e353abc.js",
+      "path---1989-leonard-a-lauder-connecticut-college-89011fdf51265e353abc.js.map"
+    ],
+    "path---2011-joe-plumeri-college-of-william-and-mary": [
+      "path---2011-joe-plumeri-college-of-william-and-mary-96d137f3de8edea59c9a.js",
+      "path---2011-joe-plumeri-college-of-william-and-mary-96d137f3de8edea59c9a.js.map"
+    ],
+    "path---2013-sharyn-alfonsi-university-of-mississippi": [
+      "path---2013-sharyn-alfonsi-university-of-mississippi-46f98f6e98e7e96f335d.js",
+      "path---2013-sharyn-alfonsi-university-of-mississippi-46f98f6e98e7e96f335d.js.map"
+    ],
+    "path---2010-anderson-cooper-tulane-university": [
+      "path---2010-anderson-cooper-tulane-university-d9c5b5ba95ce2d96abea.js",
+      "path---2010-anderson-cooper-tulane-university-d9c5b5ba95ce2d96abea.js.map"
+    ],
+    "path---2011-gary-malkowski-gallaudet-university": [
+      "path---2011-gary-malkowski-gallaudet-university-506211e444fcdb2507c1.js",
+      "path---2011-gary-malkowski-gallaudet-university-506211e444fcdb2507c1.js.map"
+    ],
+    "path---2010-bill-clinton-yale-university": [
+      "path---2010-bill-clinton-yale-university-f33d94370afb2efb69b3.js",
+      "path---2010-bill-clinton-yale-university-f33d94370afb2efb69b3.js.map"
+    ],
+    "path---1975-gerald-ford-chicago-state-university": [
+      "path---1975-gerald-ford-chicago-state-university-042fe4c455a7f3794afc.js",
+      "path---1975-gerald-ford-chicago-state-university-042fe4c455a7f3794afc.js.map"
+    ],
+    "path---2001-wynton-marsalis-connecticut-college": [
+      "path---2001-wynton-marsalis-connecticut-college-db958c8242c1f9a9548e.js",
+      "path---2001-wynton-marsalis-connecticut-college-db958c8242c1f9a9548e.js.map"
+    ],
+    "path---2011-david-cote-university-of-new-hampshire": [
+      "path---2011-david-cote-university-of-new-hampshire-43db86d11d54f043ab50.js",
+      "path---2011-david-cote-university-of-new-hampshire-43db86d11d54f043ab50.js.map"
+    ],
+    "path---2010-meryl-streep-barnard-college": [
+      "path---2010-meryl-streep-barnard-college-6e900b774cac9434e887.js",
+      "path---2010-meryl-streep-barnard-college-6e900b774cac9434e887.js.map"
+    ],
+    "path---1986-woody-hayes-ohio-state-university": [
+      "path---1986-woody-hayes-ohio-state-university-3d6b1c914d8b38c94d90.js",
+      "path---1986-woody-hayes-ohio-state-university-3d6b1c914d8b38c94d90.js.map"
+    ],
+    "path---2013-jon-lovett-pitzer-college": [
+      "path---2013-jon-lovett-pitzer-college-1b4531fa46514ceca135.js",
+      "path---2013-jon-lovett-pitzer-college-1b4531fa46514ceca135.js.map"
+    ],
+    "path---1992-naomi-wolf-scripps-college": [
+      "path---1992-naomi-wolf-scripps-college-d232ca8b0cdce8dd7398.js",
+      "path---1992-naomi-wolf-scripps-college-d232ca8b0cdce8dd7398.js.map"
+    ],
+    "path---2005-estelle-parsons-connecticut-college": [
+      "path---2005-estelle-parsons-connecticut-college-ba22a6d770bdf7580d0e.js",
+      "path---2005-estelle-parsons-connecticut-college-ba22a6d770bdf7580d0e.js.map"
+    ],
+    "path---2009-dolly-parton-university-of-tennessee": [
+      "path---2009-dolly-parton-university-of-tennessee-f3ec5da10cc42d6b33e8.js",
+      "path---2009-dolly-parton-university-of-tennessee-f3ec5da10cc42d6b33e8.js.map"
+    ],
+    "path---2009-anthony-corvino-binghamton-university": [
+      "path---2009-anthony-corvino-binghamton-university-258f4ae05c9d07c9010e.js",
+      "path---2009-anthony-corvino-binghamton-university-258f4ae05c9d07c9010e.js.map"
+    ],
+    "path---2005-david-foster-wallace-kenyon-college": [
+      "path---2005-david-foster-wallace-kenyon-college-535d701ffdcf3cd6bc63.js",
+      "path---2005-david-foster-wallace-kenyon-college-535d701ffdcf3cd6bc63.js.map"
+    ],
+    "path---2010-lisa-kudrow-vassar-college": [
+      "path---2010-lisa-kudrow-vassar-college-f0cec10afc322772630c.js",
+      "path---2010-lisa-kudrow-vassar-college-f0cec10afc322772630c.js.map"
+    ],
+    "path---2009-jerry-yang-university-of-hawaii": [
+      "path---2009-jerry-yang-university-of-hawaii-b8b0fb2f010369fb06eb.js",
+      "path---2009-jerry-yang-university-of-hawaii-b8b0fb2f010369fb06eb.js.map"
+    ],
+    "path---2008-clayborne-carson-niagara-university": [
+      "path---2008-clayborne-carson-niagara-university-b874689cac134f6339ed.js",
+      "path---2008-clayborne-carson-niagara-university-b874689cac134f6339ed.js.map"
+    ],
+    "path---2009-fareed-zakaria-bates-college": [
+      "path---2009-fareed-zakaria-bates-college-b9d74973b6745052358e.js",
+      "path---2009-fareed-zakaria-bates-college-b9d74973b6745052358e.js.map"
+    ],
+    "path---2008-john-mackey-bentley-college": [
+      "path---2008-john-mackey-bentley-college-5aed86831429dcdbf042.js",
+      "path---2008-john-mackey-bentley-college-5aed86831429dcdbf042.js.map"
+    ],
+    "path---1987-meg-greenfield-williams-college": [
+      "path---1987-meg-greenfield-williams-college-9f416fd0ccb874e062e9.js",
+      "path---1987-meg-greenfield-williams-college-9f416fd0ccb874e062e9.js.map"
+    ],
+    "path---2014-janet-yellen-new-york-university": [
+      "path---2014-janet-yellen-new-york-university-11e3ea36980f0322d87d.js",
+      "path---2014-janet-yellen-new-york-university-11e3ea36980f0322d87d.js.map"
+    ],
+    "path---2003-jerry-zucker-university-of-wisconsin": [
+      "path---2003-jerry-zucker-university-of-wisconsin-b0fd9633af97517d6f19.js",
+      "path---2003-jerry-zucker-university-of-wisconsin-b0fd9633af97517d6f19.js.map"
+    ],
+    "path---1990-bill-watterson-kenyon-college": [
+      "path---1990-bill-watterson-kenyon-college-24f952b53aa35e9b6f49.js",
+      "path---1990-bill-watterson-kenyon-college-24f952b53aa35e9b6f49.js.map"
     ],
     "app": [
-      "app-74a3c8cbdb993aead853.js",
+      "app-062dcbe77d9feb25e239.js",
       "build-js-styles.css",
-      "app-74a3c8cbdb993aead853.js.map",
+      "app-062dcbe77d9feb25e239.js.map",
       "build-js-styles.css.map"
     ],
+    "path---2003-lewis-lapham-st-johns-college": [
+      "path---2003-lewis-lapham-st-johns-college-68619f19753dcf841d6d.js",
+      "path---2003-lewis-lapham-st-johns-college-68619f19753dcf841d6d.js.map"
+    ],
+    "path---2009-gabrielle-giffords-scripps-college": [
+      "path---2009-gabrielle-giffords-scripps-college-5e525a7a1472cc6efed8.js",
+      "path---2009-gabrielle-giffords-scripps-college-5e525a7a1472cc6efed8.js.map"
+    ],
     "path---2008-jk-rowling-harvard-university": [
-      "path---2008-jk-rowling-harvard-university-ef34094469ff935ccb62.js",
-      "path---2008-jk-rowling-harvard-university-ef34094469ff935ccb62.js.map"
+      "path---2008-jk-rowling-harvard-university-a731079ebf316ec0cbb1.js",
+      "path---2008-jk-rowling-harvard-university-a731079ebf316ec0cbb1.js.map"
+    ],
+    "path---1974-kurt-vonnegut-hobart-and-william-smith-colleges": [
+      "path---1974-kurt-vonnegut-hobart-and-william-smith-colleges-c64468e39c4c2f3c8628.js",
+      "path---1974-kurt-vonnegut-hobart-and-william-smith-colleges-c64468e39c4c2f3c8628.js.map"
+    ],
+    "path---1998-charles-w-colson-geneva-college": [
+      "path---1998-charles-w-colson-geneva-college-460a71b18dea1035d1ba.js",
+      "path---1998-charles-w-colson-geneva-college-460a71b18dea1035d1ba.js.map"
+    ],
+    "path---2009-rahm-emanuel-george-washington-university": [
+      "path---2009-rahm-emanuel-george-washington-university-c2b88b4ea92f819a63e8.js",
+      "path---2009-rahm-emanuel-george-washington-university-c2b88b4ea92f819a63e8.js.map"
+    ],
+    "path---2007-larry-bock-university-of-california-berkeley": [
+      "path---2007-larry-bock-university-of-california-berkeley-74eaf4389120805c8930.js",
+      "path---2007-larry-bock-university-of-california-berkeley-74eaf4389120805c8930.js.map"
+    ],
+    "path---2013-neil-degrasse-tyson-rice-university": [
+      "path---2013-neil-degrasse-tyson-rice-university-9c198526d935d6972464.js",
+      "path---2013-neil-degrasse-tyson-rice-university-9c198526d935d6972464.js.map"
+    ],
+    "path---2010-glenn-beck-liberty-university": [
+      "path---2010-glenn-beck-liberty-university-b7025a3a147d9c711e0e.js",
+      "path---2010-glenn-beck-liberty-university-b7025a3a147d9c711e0e.js.map"
+    ],
+    "path---1982-mother-teresa-niagara-university": [
+      "path---1982-mother-teresa-niagara-university-06a3860dc56fc80ce595.js",
+      "path---1982-mother-teresa-niagara-university-06a3860dc56fc80ce595.js.map"
+    ],
+    "path---2012-jane-lynch-smith-college": [
+      "path---2012-jane-lynch-smith-college-d2dd1483efe7f0e1b4ed.js",
+      "path---2012-jane-lynch-smith-college-d2dd1483efe7f0e1b4ed.js.map"
+    ],
+    "path---1983-meryl-streep-vassar-college": [
+      "path---1983-meryl-streep-vassar-college-01162db8e63445344934.js",
+      "path---1983-meryl-streep-vassar-college-01162db8e63445344934.js.map"
+    ],
+    "path---1997-madeleine-albright-harvard-university": [
+      "path---1997-madeleine-albright-harvard-university-50acefac35b4286d0ec8.js",
+      "path---1997-madeleine-albright-harvard-university-50acefac35b4286d0ec8.js.map"
+    ],
+    "path---2012-william-chiu-halsey-junior-high-school": [
+      "path---2012-william-chiu-halsey-junior-high-school-2c2b47b60d0ba8a8bae8.js",
+      "path---2012-william-chiu-halsey-junior-high-school-2c2b47b60d0ba8a8bae8.js.map"
+    ],
+    "path---2015-neil-degrasse-tyson-university-of-massachusetts-amherst": [
+      "path---2015-neil-degrasse-tyson-university-of-massachusetts-amherst-b569d104638b6c75d169.js",
+      "path---2015-neil-degrasse-tyson-university-of-massachusetts-amherst-b569d104638b6c75d169.js.map"
+    ],
+    "path---2011-michelle-obama-spelman-college": [
+      "path---2011-michelle-obama-spelman-college-68f6d665d5ee5c14d2a2.js",
+      "path---2011-michelle-obama-spelman-college-68f6d665d5ee5c14d2a2.js.map"
+    ],
+    "path---2000-ray-bradbury-caltech": [
+      "path---2000-ray-bradbury-caltech-80ab606b4a37b4e5aee9.js",
+      "path---2000-ray-bradbury-caltech-80ab606b4a37b4e5aee9.js.map"
+    ],
+    "path---2006-michael-uslan-indiana-university": [
+      "path---2006-michael-uslan-indiana-university-76729089168e78f58325.js",
+      "path---2006-michael-uslan-indiana-university-76729089168e78f58325.js.map"
+    ],
+    "path---2006-michael-ignatieff-niagara-university": [
+      "path---2006-michael-ignatieff-niagara-university-5c500c5f66ab68898321.js",
+      "path---2006-michael-ignatieff-niagara-university-5c500c5f66ab68898321.js.map"
+    ],
+    "path---2012-lee-corso-florida-state-university": [
+      "path---2012-lee-corso-florida-state-university-98e4751b640d23ff5c12.js",
+      "path---2012-lee-corso-florida-state-university-98e4751b640d23ff5c12.js.map"
+    ],
+    "path---2010-douglas-smith-devry-university": [
+      "path---2010-douglas-smith-devry-university-defc34efc22b3bd9089b.js",
+      "path---2010-douglas-smith-devry-university-defc34efc22b3bd9089b.js.map"
+    ],
+    "path---2010-jeffrey-sachs-connecticut-college": [
+      "path---2010-jeffrey-sachs-connecticut-college-cf23d9940573b9a44c72.js",
+      "path---2010-jeffrey-sachs-connecticut-college-cf23d9940573b9a44c72.js.map"
+    ],
+    "path---2014-janet-napolitano-northeastern-university": [
+      "path---2014-janet-napolitano-northeastern-university-a9d85116fd59ef7cb649.js",
+      "path---2014-janet-napolitano-northeastern-university-a9d85116fd59ef7cb649.js.map"
+    ],
+    "path---2012-abigail-washburn-colorado-college": [
+      "path---2012-abigail-washburn-colorado-college-7a3de773de545bf3b779.js",
+      "path---2012-abigail-washburn-colorado-college-7a3de773de545bf3b779.js.map"
+    ],
+    "path---1955-dwight-eisenhower-penn-state": [
+      "path---1955-dwight-eisenhower-penn-state-7f51dc573293800b9262.js",
+      "path---1955-dwight-eisenhower-penn-state-7f51dc573293800b9262.js.map"
+    ],
+    "path---2010-porochista-khakpour-desert-academy": [
+      "path---2010-porochista-khakpour-desert-academy-83066392aae96614a750.js",
+      "path---2010-porochista-khakpour-desert-academy-83066392aae96614a750.js.map"
+    ],
+    "path---2011-sergio-marchionne-university-of-toledo": [
+      "path---2011-sergio-marchionne-university-of-toledo-ebd3f541313bddd86884.js",
+      "path---2011-sergio-marchionne-university-of-toledo-ebd3f541313bddd86884.js.map"
+    ],
+    "path---2004-jon-stewart-college-of-william-and-mary": [
+      "path---2004-jon-stewart-college-of-william-and-mary-8e5077571e1e706dcf13.js",
+      "path---2004-jon-stewart-college-of-william-and-mary-8e5077571e1e706dcf13.js.map"
+    ],
+    "path---2007-frank-mccourt-syracuse-university": [
+      "path---2007-frank-mccourt-syracuse-university-d80863e23f6053b97b12.js",
+      "path---2007-frank-mccourt-syracuse-university-d80863e23f6053b97b12.js.map"
+    ],
+    "path---2009-larry-page-university-of-michigan": [
+      "path---2009-larry-page-university-of-michigan-ffdece1769c48e77f361.js",
+      "path---2009-larry-page-university-of-michigan-ffdece1769c48e77f361.js.map"
+    ],
+    "path---2014-sheryl-sandberg-city-colleges-of-chicago": [
+      "path---2014-sheryl-sandberg-city-colleges-of-chicago-8d7762ee5fcfc74cdde5.js",
+      "path---2014-sheryl-sandberg-city-colleges-of-chicago-8d7762ee5fcfc74cdde5.js.map"
+    ],
+    "path---2007-tony-snow-the-catholic-university-of-america": [
+      "path---2007-tony-snow-the-catholic-university-of-america-251a4e6479d5f23c60f5.js",
+      "path---2007-tony-snow-the-catholic-university-of-america-251a4e6479d5f23c60f5.js.map"
+    ],
+    "path---2007-alice-greenwald-sarah-lawrence-college": [
+      "path---2007-alice-greenwald-sarah-lawrence-college-ae1b3704e26855970356.js",
+      "path---2007-alice-greenwald-sarah-lawrence-college-ae1b3704e26855970356.js.map"
+    ],
+    "path---1994-sting-berklee-college-of-music": [
+      "path---1994-sting-berklee-college-of-music-50e2144e1e74fed2076c.js",
+      "path---1994-sting-berklee-college-of-music-50e2144e1e74fed2076c.js.map"
+    ],
+    "path---1993-cornel-west-wesleyan-university": [
+      "path---1993-cornel-west-wesleyan-university-a8ef8139fbc16ee6fb9b.js",
+      "path---1993-cornel-west-wesleyan-university-a8ef8139fbc16ee6fb9b.js.map"
+    ],
+    "path---2003-jean-andrews-university-of-texas-austin": [
+      "path---2003-jean-andrews-university-of-texas-austin-1b5766b6b51849180746.js",
+      "path---2003-jean-andrews-university-of-texas-austin-1b5766b6b51849180746.js.map"
+    ],
+    "path---2014-atul-gawande-university-of-north-carolina-at-chapel-hill": [
+      "path---2014-atul-gawande-university-of-north-carolina-at-chapel-hill-e0a1d87a405a0c822e95.js",
+      "path---2014-atul-gawande-university-of-north-carolina-at-chapel-hill-e0a1d87a405a0c822e95.js.map"
+    ],
+    "path---2010-sue-monk-kidd-scripps-college": [
+      "path---2010-sue-monk-kidd-scripps-college-6c19af4462fd9062e8bc.js",
+      "path---2010-sue-monk-kidd-scripps-college-6c19af4462fd9062e8bc.js.map"
+    ],
+    "path---2006-margaret-spellings-montgomery-college": [
+      "path---2006-margaret-spellings-montgomery-college-35b07f57bda4f4efd585.js",
+      "path---2006-margaret-spellings-montgomery-college-35b07f57bda4f4efd585.js.map"
+    ],
+    "path---2012-colin-powell-northeastern-university": [
+      "path---2012-colin-powell-northeastern-university-e8ed1592dc0445b99c1d.js",
+      "path---2012-colin-powell-northeastern-university-e8ed1592dc0445b99c1d.js.map"
+    ],
+    "path---2008-barbara-kingsolver-duke-university": [
+      "path---2008-barbara-kingsolver-duke-university-654e58b969c939de790d.js",
+      "path---2008-barbara-kingsolver-duke-university-654e58b969c939de790d.js.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
       "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---2000-mark-s-lewis-university-of-texas-austin": [
+      "path---2000-mark-s-lewis-university-of-texas-austin-f299deceec5c484bf2aa.js",
+      "path---2000-mark-s-lewis-university-of-texas-austin-f299deceec5c484bf2aa.js.map"
+    ],
+    "path---2011-phil-rosenthal-hofstra-university": [
+      "path---2011-phil-rosenthal-hofstra-university-8b17000a21d8b2a0c015.js",
+      "path---2011-phil-rosenthal-hofstra-university-8b17000a21d8b2a0c015.js.map"
+    ],
+    "path---2010-kirk-schneider-san-francisco-state-university": [
+      "path---2010-kirk-schneider-san-francisco-state-university-aaa02c40c51f9e2891dc.js",
+      "path---2010-kirk-schneider-san-francisco-state-university-aaa02c40c51f9e2891dc.js.map"
+    ],
+    "path---1943-henry-a-wallace-connecticut-college": [
+      "path---1943-henry-a-wallace-connecticut-college-f8b80b99c25dcbf13d35.js",
+      "path---1943-henry-a-wallace-connecticut-college-f8b80b99c25dcbf13d35.js.map"
+    ],
+    "path---2011-terry-teachout-hamilton-holt-school": [
+      "path---2011-terry-teachout-hamilton-holt-school-4523118d634a0a3036f7.js",
+      "path---2011-terry-teachout-hamilton-holt-school-4523118d634a0a3036f7.js.map"
+    ],
+    "path---2009-ellen-degeneres-tulane-university": [
+      "path---2009-ellen-degeneres-tulane-university-59c361792e43351c120b.js",
+      "path---2009-ellen-degeneres-tulane-university-59c361792e43351c120b.js.map"
+    ],
+    "path---2005-kofi-annan-penn-state": [
+      "path---2005-kofi-annan-penn-state-573ad597d688bce3dc0e.js",
+      "path---2005-kofi-annan-penn-state-573ad597d688bce3dc0e.js.map"
+    ],
+    "path---2015-jason-kilar-university-of-north-carolina-at-chapel-hill": [
+      "path---2015-jason-kilar-university-of-north-carolina-at-chapel-hill-d07a1ef7d21eeb4144c9.js",
+      "path---2015-jason-kilar-university-of-north-carolina-at-chapel-hill-d07a1ef7d21eeb4144c9.js.map"
+    ],
+    "path---2007-omid-kordestani-san-jose-state-university": [
+      "path---2007-omid-kordestani-san-jose-state-university-c04875d4444c070bb7c4.js",
+      "path---2007-omid-kordestani-san-jose-state-university-c04875d4444c070bb7c4.js.map"
+    ],
+    "path---2010-julianna-margulies-sarah-lawrence-college": [
+      "path---2010-julianna-margulies-sarah-lawrence-college-07e906112269429588f1.js",
+      "path---2010-julianna-margulies-sarah-lawrence-college-07e906112269429588f1.js.map"
+    ],
+    "path---2009-jonathon-youshaei-deerfield-high-school": [
+      "path---2009-jonathon-youshaei-deerfield-high-school-50eeacdf9edfae72145f.js",
+      "path---2009-jonathon-youshaei-deerfield-high-school-50eeacdf9edfae72145f.js.map"
+    ],
+    "path---2012-maria-shriver-usc-annenberg-school-for-communication-and-journalism": [
+      "path---2012-maria-shriver-usc-annenberg-school-for-communication-and-journalism-96b7ceb4ecb7178ea637.js",
+      "path---2012-maria-shriver-usc-annenberg-school-for-communication-and-journalism-96b7ceb4ecb7178ea637.js.map"
+    ],
+    "path---2012-eric-greitens-tufts-university": [
+      "path---2012-eric-greitens-tufts-university-b1f924f70b1e33704d55.js",
+      "path---2012-eric-greitens-tufts-university-b1f924f70b1e33704d55.js.map"
+    ],
+    "path---2009-robert-rodriguez-university-of-texas-austin": [
+      "path---2009-robert-rodriguez-university-of-texas-austin-595f87009bf033baa7e3.js",
+      "path---2009-robert-rodriguez-university-of-texas-austin-595f87009bf033baa7e3.js.map"
+    ],
+    "path---2006-marian-fontana-massachusetts-school-of-law": [
+      "path---2006-marian-fontana-massachusetts-school-of-law-3cc7860f314da9a9e2e6.js",
+      "path---2006-marian-fontana-massachusetts-school-of-law-3cc7860f314da9a9e2e6.js.map"
+    ],
+    "path---2009-martha-nussbaum-connecticut-college": [
+      "path---2009-martha-nussbaum-connecticut-college-97ffa887c03829ea383e.js",
+      "path---2009-martha-nussbaum-connecticut-college-97ffa887c03829ea383e.js.map"
+    ],
+    "path---2011-conan-obrien-dartmouth-college": [
+      "path---2011-conan-obrien-dartmouth-college-d524e4bde4f94db7a3f2.js",
+      "path---2011-conan-obrien-dartmouth-college-d524e4bde4f94db7a3f2.js.map"
+    ],
+    "path---2004-bono-university-of-pennsylvania": [
+      "path---2004-bono-university-of-pennsylvania-6a492f4091b7fc6246af.js",
+      "path---2004-bono-university-of-pennsylvania-6a492f4091b7fc6246af.js.map"
+    ],
+    "path---2007-katie-couric-williams-college": [
+      "path---2007-katie-couric-williams-college-b70985833d73ee3aa3aa.js",
+      "path---2007-katie-couric-williams-college-b70985833d73ee3aa3aa.js.map"
+    ],
+    "path---1995-william-kunstler-state-university-of-new-york-buffalo": [
+      "path---1995-william-kunstler-state-university-of-new-york-buffalo-a34b5f67ec06df020609.js",
+      "path---1995-william-kunstler-state-university-of-new-york-buffalo-a34b5f67ec06df020609.js.map"
     ]
   }
 }
