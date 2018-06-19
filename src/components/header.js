@@ -28,6 +28,15 @@ const Header = ({ siteTitle }) => {
             🎓&nbsp;{siteTitle}
           </Link>
         </h2>
+        <div style={{ color: 'white', margin: 0, padding: 0, marginTop: "0.5rem" }}>
+          Do you have another speech's transcript?&nbsp;
+          <a
+            href="https://github.com/whatrocks/commencement-db/"
+            target="_blank"
+          >Pull requests
+          </a>
+          &nbsp;are open!
+        </div>
       </div>
     </div>
   );
